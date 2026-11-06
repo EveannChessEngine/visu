@@ -1,0 +1,573 @@
+{
+ "id": "osteoicteos",
+ "clase": "Osteíctios",
+ "sinonimos_clase": [
+  "Osteictios",
+  "Osteoicteos",
+  "Osteíctios",
+  "Osteichthyes",
+  "Peces óseos"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "acipenser-sturio",
+   "comun": "Esturión común",
+   "alternativos": [],
+   "cientifico": "Acipenser sturio",
+   "orden": "Acipenseriformes",
+   "familia": "Acipenseridae",
+   "rasgos": [
+    "Cuerpo alargado con 5 filas longitudinales de grandes escudos óseos.",
+    "Hocico alargado y cónico; boca inferior y protráctil precedida por 4 barbillones sin flecos.",
+    "Aleta caudal heterocerca (lobo superior notablemente más largo).",
+    "Especie anádroma, críticamente amenazada o extinta en la península."
+   ],
+   "imagenes": [
+    "img/acipenser-sturio_1.jpg"
+   ]
+  },
+  {
+   "id": "anguilla-anguilla",
+   "comun": "Anguila europea",
+   "alternativos": [],
+   "cientifico": "Anguilla anguilla",
+   "orden": "Anguilliformes",
+   "familia": "Anguillidae",
+   "rasgos": [
+    "Cuerpo serpentiforme, alargado y cilíndrico.",
+    "Aletas dorsal, caudal y anal fusionadas en una sola orla.",
+    "Mandíbula inferior ligeramente prominente.",
+    "Catádromo: migra al Mar de los Sargazos para reproducirse."
+   ],
+   "imagenes": [
+    "img/anguilla-anguilla_1.jpg"
+   ]
+  },
+  {
+   "id": "conger-conger",
+   "comun": "Congrio",
+   "alternativos": [],
+   "cientifico": "Conger conger",
+   "orden": "Anguilliformes",
+   "familia": "Congridae",
+   "rasgos": [
+    "Cuerpo muy robusto y cilíndrico, de color gris pizarra.",
+    "Mandíbula superior prominente (a diferencia de la anguila).",
+    "Aleta dorsal comienza justo detrás de las pectorales.",
+    "Carece de escamas y tiene ojos relativamente grandes."
+   ],
+   "imagenes": [
+    "img/conger-conger_1.jpg"
+   ]
+  },
+  {
+   "id": "muraena-helena",
+   "comun": "Morena mediterránea",
+   "alternativos": [
+    "Morena"
+   ],
+   "cientifico": "Muraena helena",
+   "orden": "Anguilliformes",
+   "familia": "Muraenidae",
+   "rasgos": [
+    "Cuerpo comprimido lateralmente, sin aletas pectorales.",
+    "Patrón de coloración con manchas amarillas sobre fondo oscuro.",
+    "Dientes largos y afilados; apertura branquial reducida a un poro.",
+    "Habitante de grietas rocosas en el Mediterráneo."
+   ],
+   "imagenes": [
+    "img/muraena-helena_1.jpg"
+   ]
+  },
+  {
+   "id": "trachurus-trachurus",
+   "comun": "Jurel",
+   "alternativos": [],
+   "cientifico": "Trachurus trachurus",
+   "orden": "Carangiformes",
+   "familia": "Carangidae",
+   "rasgos": [
+    "Línea lateral muy marcada con escudos óseos espinosos.",
+    "Cuerpo esbelto, plateado y comprimido.",
+    "Mancha negra pequeña en el borde posterior del opérculo.",
+    "Dos aletas dorsales, la primera con espinas duras."
+   ],
+   "imagenes": [
+    "img/trachurus-trachurus_1.jpg"
+   ]
+  },
+  {
+   "id": "sardina-pilchardus",
+   "comun": "Sardina",
+   "alternativos": [],
+   "cientifico": "Sardina pilchardus",
+   "orden": "Clupeiformes",
+   "familia": "Clupeidae",
+   "rasgos": [
+    "Cuerpo alargado, de sección ovalada y escamas caedizas.",
+    "Opérculo estriado radialmente (diagnóstico clave).",
+    "Dorso azul-verdoso y flancos plateados con manchas oscuras.",
+    "Aleta pélvica situada debajo del centro de la dorsal."
+   ],
+   "imagenes": [
+    "img/sardina-pilchardus_1.jpg"
+   ]
+  },
+  {
+   "id": "engraulis-encrasicolus",
+   "comun": "Boquerón",
+   "alternativos": [
+    "Anchoa"
+   ],
+   "cientifico": "Engraulis encrasicolus",
+   "orden": "Clupeiformes",
+   "familia": "Engraulidae",
+   "rasgos": [
+    "Boca muy grande; el maxilar sobrepasa el borde del ojo.",
+    "Hocico puntiagudo que sobresale de la mandíbula inferior.",
+    "Cuerpo cilíndrico y delgado, de color azul verdoso oscuro.",
+    "Línea lateral inexistente; escamas muy débiles."
+   ],
+   "imagenes": [
+    "img/engraulis-encrasicolus_1.jpg"
+   ]
+  },
+  {
+   "id": "cyprinus-carpio",
+   "comun": "Carpa común",
+   "alternativos": [
+    "Carpa"
+   ],
+   "cientifico": "Cyprinus carpio",
+   "orden": "Cypriniformes",
+   "familia": "Cyprinidae",
+   "rasgos": [
+    "Boca protráctil con dos pares de barbillones (uno más largo).",
+    "Aleta dorsal larga con el primer radio espinoso aserrado.",
+    "Escamas grandes y cicloides; cuerpo robusto amarillento.",
+    "Especie euriterma muy resistente a la contaminación."
+   ],
+   "imagenes": [
+    "img/cyprinus-carpio_1.jpg"
+   ]
+  },
+  {
+   "id": "luciobarbus-bocagei",
+   "comun": "Barbo común",
+   "alternativos": [
+    "Barbo"
+   ],
+   "cientifico": "Luciobarbus bocagei",
+   "orden": "Cypriniformes",
+   "familia": "Cyprinidae",
+   "rasgos": [
+    "Cuatro barbillones en la mandíbula superior.",
+    "Labios carnosos; el inferior con un lóbulo central.",
+    "Último radio sencillo de la dorsal fuertemente aserrado.",
+    "Endemismo de la vertiente atlántica de la península."
+   ],
+   "imagenes": [
+    "img/luciobarbus-bocagei_1.jpg"
+   ]
+  },
+  {
+   "id": "tinca-tinca",
+   "comun": "Tenca",
+   "alternativos": [],
+   "cientifico": "Tinca tinca",
+   "orden": "Cypriniformes",
+   "familia": "Tincidae",
+   "rasgos": [
+    "Cuerpo verde oliva con escamas diminutas embebidas en moco.",
+    "Aletas de bordes muy redondeados.",
+    "Dos barbillones muy pequeños en las comisuras bucales.",
+    "Ojo pequeño de iris naranja; habita aguas lentas."
+   ],
+   "imagenes": [
+    "img/tinca-tinca_1.jpg",
+    "img/tinca-tinca_2.jpg"
+   ]
+  },
+  {
+   "id": "aphanius-iberus",
+   "comun": "Fartet",
+   "alternativos": [],
+   "cientifico": "Aphanius iberus",
+   "orden": "Cyprinodontiformes",
+   "familia": "Cyprinodontidae",
+   "rasgos": [
+    "Pequeño tamaño (hasta 5 cm); boca dirigida hacia arriba.",
+    "Marcado dimorfismo: machos con bandas transversales azules.",
+    "Hembras con manchas oscuras irregulares (moteado).",
+    "Endemismo circummediterráneo en peligro de extinción."
+   ],
+   "imagenes": [
+    "img/aphanius-iberus_1.jpg",
+    "img/aphanius-iberus_2.jpg"
+   ]
+  },
+  {
+   "id": "esox-lucius",
+   "comun": "Lucio",
+   "alternativos": [],
+   "cientifico": "Esox lucius",
+   "orden": "Esociformes",
+   "familia": "Esocidae",
+   "rasgos": [
+    "Cabeza aplanada con forma de pico de pato.",
+    "Aletas dorsal y anal muy retrasadas, cerca de la caudal.",
+    "Mandíbula con dientes potentes y ganchudos.",
+    "Depredador de emboscada con librea jaspeada verdosa."
+   ],
+   "imagenes": [
+    "img/esox-lucius_1.jpg"
+   ]
+  },
+  {
+   "id": "merluccius-merluccius",
+   "comun": "Merluza europea",
+   "alternativos": [
+    "Merluza"
+   ],
+   "cientifico": "Merluccius merluccius",
+   "orden": "Gadiformes",
+   "familia": "Merlucciidae",
+   "rasgos": [
+    "Cuerpo alargado y esbelto de color gris plateado.",
+    "Boca grande de interior negro con dientes afilados.",
+    "Dos aletas dorsales (la segunda muy larga) y una anal.",
+    "Carece del barbillón mentoniano típico de otros Gadiformes."
+   ],
+   "imagenes": [
+    "img/merluccius-merluccius_1.jpg"
+   ]
+  },
+  {
+   "id": "lophius-piscatorius",
+   "comun": "Rape",
+   "alternativos": [],
+   "cientifico": "Lophius piscatorius",
+   "orden": "Lophiiformes",
+   "familia": "Lophiidae",
+   "rasgos": [
+    "Cabeza colosal, aplanada y desproporcionada.",
+    "Primer radio de la dorsal modificado en sedal (ilicium).",
+    "Piel sin escamas con apéndices cutáneos laterales.",
+    "Boca inmensa dirigida hacia arriba con dientes ganchudos."
+   ],
+   "imagenes": [
+    "img/lophius-piscatorius_1.jpg"
+   ]
+  },
+  {
+   "id": "mugil-cephalus",
+   "comun": "Mújol / Lisa",
+   "alternativos": [
+    "Mújol",
+    "Lisa",
+    "Mujol"
+   ],
+   "cientifico": "Mugil cephalus",
+   "orden": "Mugiliformes",
+   "familia": "Mugilidae",
+   "rasgos": [
+    "Cabeza ancha y aplanada con párpado adiposo marcado.",
+    "Cuerpo cilíndrico grisáceo con bandas longitudinales finas.",
+    "Dos aletas dorsales bien separadas (la primera con 4 espinas).",
+    "Especie eurihalina muy frecuente en estuarios y puertos."
+   ],
+   "imagenes": [
+    "img/mugil-cephalus_1.jpg"
+   ]
+  },
+  {
+   "id": "dicentrarchus-labrax",
+   "comun": "Lubina",
+   "alternativos": [],
+   "cientifico": "Dicentrarchus labrax",
+   "orden": "Perciformes",
+   "familia": "Moronidae",
+   "rasgos": [
+    "Cuerpo robusto y plateado con dos aletas dorsales contiguas.",
+    "Opérculo con dos espinas planas y una mancha oscura difusa.",
+    "Mandíbula inferior prominente; línea lateral rectilínea.",
+    "Depredador marino muy valorado en pesca deportiva."
+   ],
+   "imagenes": [
+    "img/dicentrarchus-labrax_1.jpg"
+   ]
+  },
+  {
+   "id": "mullus-surmuletus",
+   "comun": "Salmonete de roca",
+   "alternativos": [
+    "Salmonete"
+   ],
+   "cientifico": "Mullus surmuletus",
+   "orden": "Perciformes",
+   "familia": "Mullidae",
+   "rasgos": [
+    "Dos barbillones largos hioideos bajo el mentón.",
+    "Coloración rojiza con bandas longitudinales amarillas.",
+    "Perfil de la cabeza oblicuo pero no vertical.",
+    "Primera aleta dorsal con bandas oscuras horizontales."
+   ],
+   "imagenes": [
+    "img/mullus-surmuletus_1.jpg"
+   ]
+  },
+  {
+   "id": "solea-solea",
+   "comun": "Lenguado común",
+   "alternativos": [
+    "Lenguado"
+   ],
+   "cientifico": "Solea solea",
+   "orden": "Pleuronectiformes",
+   "familia": "Soleidae",
+   "rasgos": [
+    "Cuerpo plano y ovalado; ojos situados en el flanco derecho (lado ocular).",
+    "Aleta pectoral del lado ocular con una mancha negra característica en el extremo distal.",
+    "Aletas dorsal y anal unidas a la caudal por una membrana muy reducida.",
+    "Coloración grisácea o marrón con manchas difusas, adaptada al mimetismo."
+   ],
+   "imagenes": [
+    "img/solea-solea_1.jpg"
+   ]
+  },
+  {
+   "id": "epinephelus-marginatus",
+   "comun": "Mero",
+   "alternativos": [],
+   "cientifico": "Epinephelus marginatus",
+   "orden": "Perciformes",
+   "familia": "Serranidae",
+   "rasgos": [
+    "Cuerpo macizo y ovalado; coloración marrón jaspeada.",
+    "Aleta caudal de borde redondeado con margen blanco fino.",
+    "Mandíbula inferior prominente; opérculo con 3 espinas.",
+    "Hermafrodita proterogínico de larga longevidad."
+   ],
+   "imagenes": [
+    "img/epinephelus-marginatus_1.jpg"
+   ]
+  },
+  {
+   "id": "scophthalmus-maximus",
+   "comun": "Rodaballo",
+   "alternativos": [],
+   "cientifico": "Scophthalmus maximus",
+   "orden": "Pleuronectiformes",
+   "familia": "Scophthalmidae",
+   "rasgos": [
+    "Pez plano de forma casi circular; flanco izquierdo arriba.",
+    "Piel desprovista de escamas pero con tubérculos óseos.",
+    "Boca grande y dirigida hacia arriba.",
+    "Coloración mimética variable según el fondo."
+   ],
+   "imagenes": [
+    "img/scophthalmus-maximus_1.jpg"
+   ]
+  },
+  {
+   "id": "salmo-salar",
+   "comun": "Salmón atlántico",
+   "alternativos": [
+    "Salmón"
+   ],
+   "cientifico": "Salmo salar",
+   "orden": "Salmoniformes",
+   "familia": "Salmonidae",
+   "rasgos": [
+    "Presencia de aleta adiposa característica (sin radios).",
+    "Cuerpo plateado con escasas manchas negras.",
+    "Pedúnculo caudal estrecho; aleta caudal ahorquillada.",
+    "Anádromo: remonta ríos cantábricos y gallegos para desovar."
+   ],
+   "imagenes": [
+    "img/salmo-salar_1.jpg"
+   ]
+  },
+  {
+   "id": "salmo-trutta",
+   "comun": "Trucha común",
+   "alternativos": [
+    "Trucha"
+   ],
+   "cientifico": "Salmo trutta",
+   "orden": "Salmoniformes",
+   "familia": "Salmonidae",
+   "rasgos": [
+    "Cuerpo pardo-oliváceo con pintas rojas y negras orladas de blanco.",
+    "Aleta adiposa presente (a menudo con borde rojo).",
+    "Pedúnculo caudal más grueso que en el salmón.",
+    "Especie muy sensible a la calidad del agua y la temperatura."
+   ],
+   "imagenes": [
+    "img/salmo-trutta_1.jpg"
+   ]
+  },
+  {
+   "id": "sarda-sarda",
+   "comun": "Bonito atlántico",
+   "alternativos": [
+    "Bonito"
+   ],
+   "cientifico": "Sarda sarda",
+   "orden": "Scombriformes",
+   "familia": "Scombridae",
+   "rasgos": [
+    "Dorso azul oscuro con 5-11 líneas negras oblicuas.",
+    "Cuerpo fusiforme; presencia de pínnulas tras dorsal y anal.",
+    "Dos aletas dorsales casi contiguas; dientes conspicuos.",
+    "Especie pelágica migradora muy abundante en el litoral."
+   ],
+   "imagenes": [
+    "img/sarda-sarda_1.jpg"
+   ]
+  },
+  {
+   "id": "scomber-scombrus",
+   "comun": "Caballa / Verdel",
+   "alternativos": [
+    "Caballa",
+    "Verdel"
+   ],
+   "cientifico": "Scomber scombrus",
+   "orden": "Scombriformes",
+   "familia": "Scombridae",
+   "rasgos": [
+    "Dorso azul-verdoso con bandas negras sinuosas (atigrado).",
+    "Carece de vejiga natatoria; debe nadar constantemente.",
+    "Aletas dorsales muy separadas; escamas casi inapreciables.",
+    "Cuerpo hidrodinámico perfecto para alta velocidad."
+   ],
+   "imagenes": [
+    "img/scomber-scombrus_1.jpg"
+   ]
+  },
+  {
+   "id": "thunnus-thynnus",
+   "comun": "Atún rojo",
+   "alternativos": [
+    "Atún"
+   ],
+   "cientifico": "Thunnus thynnus",
+   "orden": "Scombriformes",
+   "familia": "Scombridae",
+   "rasgos": [
+    "Cuerpo masivo y fusiforme; el mayor de los túnidos.",
+    "Pínnulas de color amarillo vivo bordeadas de negro.",
+    "Dorso azul oscuro casi negro y vientre blanco-plateado.",
+    "Carena caudal muy potente y rígida."
+   ],
+   "imagenes": [
+    "img/thunnus-thynnus_1.jpg"
+   ]
+  },
+  {
+   "id": "scorpaena-scrofa",
+   "comun": "Cabracho",
+   "alternativos": [],
+   "cientifico": "Scorpaena scrofa",
+   "orden": "Scorpaeniformes",
+   "familia": "Scorpaenidae",
+   "rasgos": [
+    "Cuerpo rojizo con numerosos apéndices cutáneos.",
+    "Espinas de la dorsal y opérculo conectadas a glándulas venenosas.",
+    "Presencia de apéndices cutáneos sobre el mentón (rasgo clave).",
+    "Cabeza masiva y erizada de crestas espinosas."
+   ],
+   "imagenes": [
+    "img/scorpaena-scrofa_1.jpg"
+   ]
+  },
+  {
+   "id": "ameiurus-melas",
+   "comun": "Pez gato",
+   "alternativos": [],
+   "cientifico": "Ameiurus melas",
+   "orden": "Siluriformes",
+   "familia": "Ictaluridae",
+   "rasgos": [
+    "Presencia de 8 barbillones alrededor de la boca (4 mentonianos oscuros).",
+    "Aleta dorsal y pectorales provistas de una fuerte espina punzante dura.",
+    "Piel completamente desnuda (sin escamas) y presencia de aleta adiposa.",
+    "Especie exótica invasora de origen americano introducida en cursos lentos."
+   ],
+   "imagenes": [
+    "img/ameiurus-melas_1.jpg"
+   ]
+  },
+  {
+   "id": "silurus-glanis",
+   "comun": "Siluro",
+   "alternativos": [],
+   "cientifico": "Silurus glanis",
+   "orden": "Siluriformes",
+   "familia": "Siluridae",
+   "rasgos": [
+    "El pez de mayor tamaño de las aguas continentales europeas.",
+    "Cabeza deprimida enorme armada con 6 barbillones (2 maxilares larguísimos y 4 mentonianos).",
+    "Aleta anal extraordinariamente larga que confluye casi con la caudal.",
+    "Piel completamente desnuda y desprovista de escamas. Exótico invasor."
+   ],
+   "imagenes": [
+    "img/silurus-glanis_1.jpg",
+    "img/silurus-glanis_2.jpg"
+   ]
+  },
+  {
+   "id": "sparus-aurata",
+   "comun": "Dorada",
+   "alternativos": [],
+   "cientifico": "Sparus aurata",
+   "orden": "Spariformes",
+   "familia": "Sparidae",
+   "rasgos": [
+    "Banda dorada característica en el espacio interorbitario.",
+    "Mancha negra marcada al inicio de la línea lateral.",
+    "Dientes molares potentes para triturar moluscos.",
+    "Borde del opérculo rojizo; cuerpo ovalado y comprimido."
+   ],
+   "imagenes": [
+    "img/sparus-aurata_1.jpg"
+   ]
+  },
+  {
+   "id": "hippocampus-hippocampus",
+   "comun": "Caballito de mar",
+   "alternativos": [],
+   "cientifico": "Hippocampus hippocampus",
+   "orden": "Syngnathiformes",
+   "familia": "Syngnathidae",
+   "rasgos": [
+    "Cuerpo protegido por placas óseas y cola prensil.",
+    "Presencia de numerosos apéndices cutáneos en cabeza y dorso.",
+    "Hocico largo y tubuliforme para succionar plancton.",
+    "Posición de nado vertical; incubación abdominal por el macho."
+   ],
+   "imagenes": [
+    "img/hippocampus-hippocampus_1.jpg"
+   ]
+  },
+  {
+   "id": "xiphias-gladius",
+   "comun": "Pez espada",
+   "alternativos": [],
+   "cientifico": "Xiphias gladius",
+   "orden": "Xiphiiformes",
+   "familia": "Xiphiidae",
+   "rasgos": [
+    "Mandíbula superior prolongada en una espada larga y plana.",
+    "Carece de escamas y de aletas pélvicas en estado adulto.",
+    "Aleta dorsal muy alta y falcada.",
+    "Ojos inmensos; depredador pelágico de grandes profundidades."
+   ],
+   "imagenes": [
+    "img/xiphias-gladius_1.jpg"
+   ]
+  }
+ ]
+}

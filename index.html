@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>VISU · Fichas</title>
+<meta name="description" content="Tarjetas para reconocer especies a partir de imágenes">
+<meta name="theme-color" content="#1f3a5f">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="iconos/icono.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="iconos/icono-192.png">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<header class="barra">
+  <button id="btn-inicio" class="btn-icono" aria-label="Volver al inicio" hidden>‹</button>
+  <h1>VISU</h1>
+  <span id="marcador" class="marcador" hidden></span>
+</header>
+
+<main>
+  <!-- Pantalla de inicio -->
+  <section id="vista-inicio" class="vista">
+    <p class="intro">Mira la foto y escribe el nombre común, el nombre científico y la clase. Solo es acierto si aciertas los tres.</p>
+    <h2>¿Qué quieres practicar?</h2>
+    <div id="lista-clases" class="lista-clases"><p class="tenue">Cargando clases…</p></div>
+    <label class="opcion"><input type="checkbox" id="opt-falladas"> Solo las que he fallado alguna vez</label>
+    <button id="btn-empezar" class="btn-principal" disabled>Empezar</button>
+    <p id="resumen-global" class="tenue centrado"></p>
+  </section>
+
+  <!-- Pantalla de pregunta -->
+  <section id="vista-tarjeta" class="vista" hidden>
+    <figure class="foto">
+      <img id="foto" alt="Especie a identificar">
+      <div id="puntos-foto" class="puntos"></div>
+    </figure>
+    <form id="form-respuesta" autocomplete="off">
+      <label>Nombre común
+        <input id="r-comun" type="text" autocapitalize="sentences" autocorrect="off" spellcheck="false" enterkeyhint="next">
+      </label>
+      <label>Nombre científico
+        <input id="r-cientifico" type="text" autocapitalize="sentences" autocorrect="off" spellcheck="false" enterkeyhint="next" class="cursiva">
+      </label>
+      <label>Clase
+        <input id="r-clase" type="text" autocapitalize="sentences" autocorrect="off" spellcheck="false" enterkeyhint="done">
+      </label>
+      <div class="acciones">
+        <button type="button" id="btn-saltar" class="btn-secundario">No lo sé</button>
+        <button type="submit" class="btn-principal">Comprobar</button>
+      </div>
+    </form>
+
+    <div id="resultado" class="resultado" hidden>
+      <p id="veredicto" class="veredicto"></p>
+      <ul id="comparacion" class="comparacion"></ul>
+      <div class="ficha">
+        <h3 id="f-comun"></h3>
+        <p id="f-cientifico" class="cursiva"></p>
+        <p class="etiquetas"><span id="f-clase"></span><span id="f-orden"></span><span id="f-familia"></span></p>
+        <ul id="f-rasgos" class="rasgos"></ul>
+      </div>
+      <button id="btn-siguiente" class="btn-principal">Siguiente</button>
+    </div>
+  </section>
+
+  <!-- Pantalla final -->
+  <section id="vista-fin" class="vista" hidden>
+    <h2>¡Ronda terminada!</h2>
+    <p id="fin-texto" class="fin-texto"></p>
+    <ul id="fin-falladas" class="fin-falladas"></ul>
+    <button id="btn-otra" class="btn-principal">Otra ronda</button>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
