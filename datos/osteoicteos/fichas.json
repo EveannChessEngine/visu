@@ -25,6 +25,50 @@
    ],
    "imagenes": [
     "img/acipenser-sturio_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/acipenser-sturio_1.jpg",
+     "autor": "Stefan Claesson (archivo)",
+     "licencia": "Dominio público",
+     "fuente": "https://commons.wikimedia.org/wiki/File:Acipenser_sturio2.jpg",
+     "sitio": "Wikimedia Commons"
+    },
+    {
+     "src": "web/acipenser-sturio_2.jpg",
+     "autor": "Rept0n1x",
+     "licencia": "CC BY-SA 3.0",
+     "fuente": "https://commons.wikimedia.org/wiki/File:Acipenser_sturio_Worcester_City_Art_Gallery_and_Museum.jpg",
+     "sitio": "Wikimedia Commons"
+    },
+    {
+     "src": "web/acipenser-sturio_3.jpg",
+     "autor": "Krüger",
+     "licencia": "Dominio público",
+     "fuente": "https://commons.wikimedia.org/wiki/File:Acipenser_sturio.jpg",
+     "sitio": "Wikimedia Commons"
+    },
+    {
+     "src": "web/acipenser-sturio_4.jpg",
+     "autor": "Fallaner / Ellicrum",
+     "licencia": "CC BY-SA 4.0",
+     "fuente": "https://commons.wikimedia.org/wiki/File:Acipenser_sturio.png",
+     "sitio": "Wikimedia Commons"
+    },
+    {
+     "src": "web/acipenser-sturio_5.jpg",
+     "autor": "Ulster Museum (Wikimedia Commons)",
+     "licencia": "CC BY-SA 4.0",
+     "fuente": "https://commons.wikimedia.org/wiki/File:AcispenserSturio-Head_UlsterMuseum-Belfast_20220531.jpg",
+     "sitio": "Wikimedia Commons"
+    },
+    {
+     "src": "web/acipenser-sturio_6.jpg",
+     "autor": "J. Patrick Fischer",
+     "licencia": "CC BY 4.0",
+     "fuente": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ischer_St%C3%B6r.jpg",
+     "sitio": "Wikimedia Commons"
+    }
    ]
   },
   {
@@ -42,6 +86,56 @@
    ],
    "imagenes": [
     "img/anguilla-anguilla_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/anguilla-anguilla_1.jpg",
+     "autor": "Fraser Higgins",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/348503085"
+    },
+    {
+     "src": "web/anguilla-anguilla_2.jpg",
+     "autor": "Roy Lowry",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/46964622"
+    },
+    {
+     "src": "web/anguilla-anguilla_3.jpg",
+     "autor": "Nicola Crockford",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/181355016"
+    },
+    {
+     "src": "web/anguilla-anguilla_4.jpg",
+     "autor": "Nicola Crockford",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/181365760"
+    },
+    {
+     "src": "web/anguilla-anguilla_5.jpg",
+     "autor": "Alicia D",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291530913"
+    },
+    {
+     "src": "web/anguilla-anguilla_6.jpg",
+     "autor": "Ewout Knoester",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/305246813"
+    },
+    {
+     "src": "web/anguilla-anguilla_7.jpg",
+     "autor": "Zakqary Roy",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193088400"
+    },
+    {
+     "src": "web/anguilla-anguilla_8.jpg",
+     "autor": "Tomas Broucek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/84336218"
+    }
    ]
   },
   {
@@ -59,6 +153,56 @@
    ],
    "imagenes": [
     "img/conger-conger_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/conger-conger_1.jpg",
+     "autor": "Julien Tchilinguirian",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/131994343"
+    },
+    {
+     "src": "web/conger-conger_2.jpg",
+     "autor": "Libby Keatley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/309220924"
+    },
+    {
+     "src": "web/conger-conger_3.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/277045224"
+    },
+    {
+     "src": "web/conger-conger_4.jpg",
+     "autor": "janh11",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/106340146"
+    },
+    {
+     "src": "web/conger-conger_5.jpg",
+     "autor": "formicacid",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/254043361"
+    },
+    {
+     "src": "web/conger-conger_6.jpg",
+     "autor": "Loïc Chalmandrier",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/176443298"
+    },
+    {
+     "src": "web/conger-conger_7.jpg",
+     "autor": "Luke Lythgoe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/78473912"
+    },
+    {
+     "src": "web/conger-conger_8.jpg",
+     "autor": "John Hepburn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/196152687"
+    }
    ]
   },
   {
@@ -78,6 +222,56 @@
    ],
    "imagenes": [
     "img/muraena-helena_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/muraena-helena_1.jpg",
+     "autor": "Alex Sosnovshchenko",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/154395514"
+    },
+    {
+     "src": "web/muraena-helena_2.jpg",
+     "autor": "Golfopolikayak",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/132025399"
+    },
+    {
+     "src": "web/muraena-helena_3.jpg",
+     "autor": "jeyre",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/82676285"
+    },
+    {
+     "src": "web/muraena-helena_4.jpg",
+     "autor": "Philip Schaffer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/402230656"
+    },
+    {
+     "src": "web/muraena-helena_5.jpg",
+     "autor": "Jack Byrley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/94135616"
+    },
+    {
+     "src": "web/muraena-helena_6.jpg",
+     "autor": "shahar chaikin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/376552645"
+    },
+    {
+     "src": "web/muraena-helena_7.jpg",
+     "autor": "Juraj Ahel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/135000888"
+    },
+    {
+     "src": "web/muraena-helena_8.jpg",
+     "autor": "Cos",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/244783158"
+    }
    ]
   },
   {
@@ -95,6 +289,56 @@
    ],
    "imagenes": [
     "img/trachurus-trachurus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/trachurus-trachurus_1.jpg",
+     "autor": "Georgina Jones",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/343617148"
+    },
+    {
+     "src": "web/trachurus-trachurus_2.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/122715265"
+    },
+    {
+     "src": "web/trachurus-trachurus_3.jpg",
+     "autor": "Peter Southwood",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/11165407"
+    },
+    {
+     "src": "web/trachurus-trachurus_4.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/327238411"
+    },
+    {
+     "src": "web/trachurus-trachurus_5.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37452309"
+    },
+    {
+     "src": "web/trachurus-trachurus_6.jpg",
+     "autor": "Peter Southwood",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/10988293"
+    },
+    {
+     "src": "web/trachurus-trachurus_7.jpg",
+     "autor": "Evgenij Samarin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/99861428"
+    },
+    {
+     "src": "web/trachurus-trachurus_8.jpg",
+     "autor": "Xavier Mas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/355217193"
+    }
    ]
   },
   {
@@ -112,6 +356,56 @@
    ],
    "imagenes": [
     "img/sardina-pilchardus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/sardina-pilchardus_1.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/406536812"
+    },
+    {
+     "src": "web/sardina-pilchardus_2.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37409303"
+    },
+    {
+     "src": "web/sardina-pilchardus_3.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/36504537"
+    },
+    {
+     "src": "web/sardina-pilchardus_4.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/36113843"
+    },
+    {
+     "src": "web/sardina-pilchardus_5.jpg",
+     "autor": "Emanuele Santarelli",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/157789945"
+    },
+    {
+     "src": "web/sardina-pilchardus_6.jpg",
+     "autor": "Mikhail Zolotarev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/315196247"
+    },
+    {
+     "src": "web/sardina-pilchardus_7.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/178960993"
+    },
+    {
+     "src": "web/sardina-pilchardus_8.jpg",
+     "autor": "Daniela Costa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/163718474"
+    }
    ]
   },
   {
@@ -131,6 +425,56 @@
    ],
    "imagenes": [
     "img/engraulis-encrasicolus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/engraulis-encrasicolus_1.jpg",
+     "autor": "bewambay",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/133777840"
+    },
+    {
+     "src": "web/engraulis-encrasicolus_2.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/79184900"
+    },
+    {
+     "src": "web/engraulis-encrasicolus_3.jpg",
+     "autor": "Francesco Santoro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/352317482"
+    },
+    {
+     "src": "web/engraulis-encrasicolus_4.jpg",
+     "autor": "Michel Langeveld",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/66524309"
+    },
+    {
+     "src": "web/engraulis-encrasicolus_5.jpg",
+     "autor": "serbianbiologist",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/129405558"
+    },
+    {
+     "src": "web/engraulis-encrasicolus_6.jpg",
+     "autor": "Mike",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/320840570"
+    },
+    {
+     "src": "web/engraulis-encrasicolus_7.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/36113840"
+    },
+    {
+     "src": "web/engraulis-encrasicolus_8.jpg",
+     "autor": "Viktor Strenada",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/296530561"
+    }
    ]
   },
   {
@@ -150,6 +494,56 @@
    ],
    "imagenes": [
     "img/cyprinus-carpio_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/cyprinus-carpio_1.jpg",
+     "autor": "Юлия",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68448254"
+    },
+    {
+     "src": "web/cyprinus-carpio_2.jpg",
+     "autor": "Zinogre",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/149222746"
+    },
+    {
+     "src": "web/cyprinus-carpio_3.jpg",
+     "autor": "Quinn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/248242693"
+    },
+    {
+     "src": "web/cyprinus-carpio_4.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/258892602"
+    },
+    {
+     "src": "web/cyprinus-carpio_5.jpg",
+     "autor": "Elliot Greiner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/85944908"
+    },
+    {
+     "src": "web/cyprinus-carpio_6.jpg",
+     "autor": "Lythronax246",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/217117396"
+    },
+    {
+     "src": "web/cyprinus-carpio_7.jpg",
+     "autor": "Susan Marley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/47329985"
+    },
+    {
+     "src": "web/cyprinus-carpio_8.jpg",
+     "autor": "J. Roe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/251561067"
+    }
    ]
   },
   {
@@ -169,6 +563,56 @@
    ],
    "imagenes": [
     "img/luciobarbus-bocagei_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/luciobarbus-bocagei_1.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/123424119"
+    },
+    {
+     "src": "web/luciobarbus-bocagei_2.jpg",
+     "autor": "rcereja",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/302672872"
+    },
+    {
+     "src": "web/luciobarbus-bocagei_3.jpg",
+     "autor": "Mário Barreira",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/207814237"
+    },
+    {
+     "src": "web/luciobarbus-bocagei_4.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/412602254"
+    },
+    {
+     "src": "web/luciobarbus-bocagei_5.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/412597473"
+    },
+    {
+     "src": "web/luciobarbus-bocagei_6.jpg",
+     "autor": "Andrea Battisti",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/96920683"
+    },
+    {
+     "src": "web/luciobarbus-bocagei_7.jpg",
+     "autor": "Darío Estraviz López",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/299006743"
+    },
+    {
+     "src": "web/luciobarbus-bocagei_8.jpg",
+     "autor": "rcereja",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/391467377"
+    }
    ]
   },
   {
@@ -187,6 +631,56 @@
    "imagenes": [
     "img/tinca-tinca_1.jpg",
     "img/tinca-tinca_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tinca-tinca_1.jpg",
+     "autor": "Giacomo Navari",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/349029404"
+    },
+    {
+     "src": "web/tinca-tinca_2.jpg",
+     "autor": "Jon Jorgensen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/117831183"
+    },
+    {
+     "src": "web/tinca-tinca_3.jpg",
+     "autor": "Ewout Knoester",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/292686076"
+    },
+    {
+     "src": "web/tinca-tinca_4.jpg",
+     "autor": "Fethullah ÖZTÜRK",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/166264358"
+    },
+    {
+     "src": "web/tinca-tinca_5.jpg",
+     "autor": "Tristan Jobin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/125500549"
+    },
+    {
+     "src": "web/tinca-tinca_6.jpg",
+     "autor": "Cristian",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/111905902"
+    },
+    {
+     "src": "web/tinca-tinca_7.jpg",
+     "autor": "WuPe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/248765906"
+    },
+    {
+     "src": "web/tinca-tinca_8.jpg",
+     "autor": "Frank Huysentruyt",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109083977"
+    }
    ]
   },
   {
@@ -205,6 +699,50 @@
    "imagenes": [
     "img/aphanius-iberus_1.jpg",
     "img/aphanius-iberus_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/aphanius-iberus_1.jpg",
+     "autor": "Yamil J.R",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/104967273"
+    },
+    {
+     "src": "web/aphanius-iberus_2.jpg",
+     "autor": "Ara",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/131636823"
+    },
+    {
+     "src": "web/aphanius-iberus_3.jpg",
+     "autor": "Alejandro Rodríguez Zapata",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/354273862"
+    },
+    {
+     "src": "web/aphanius-iberus_4.jpg",
+     "autor": "Mathijs",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/388784707"
+    },
+    {
+     "src": "web/aphanius-iberus_5.jpg",
+     "autor": "Naturalista",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/22931398"
+    },
+    {
+     "src": "web/aphanius-iberus_6.jpg",
+     "autor": "Alejandro Rodríguez Zapata",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/155867287"
+    },
+    {
+     "src": "web/aphanius-iberus_7.jpg",
+     "autor": "Mathijs",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/388784704"
+    }
    ]
   },
   {
@@ -222,6 +760,56 @@
    ],
    "imagenes": [
     "img/esox-lucius_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/esox-lucius_1.jpg",
+     "autor": "Connor Haindfield",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/382261736"
+    },
+    {
+     "src": "web/esox-lucius_2.jpg",
+     "autor": "Mary Krieger",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/91683905"
+    },
+    {
+     "src": "web/esox-lucius_3.jpg",
+     "autor": "Rob Foster",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/134377352"
+    },
+    {
+     "src": "web/esox-lucius_4.jpg",
+     "autor": "Matthew Morgan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/359533882"
+    },
+    {
+     "src": "web/esox-lucius_5.jpg",
+     "autor": "Klaus Kevin Kristensen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/86468799"
+    },
+    {
+     "src": "web/esox-lucius_6.jpg",
+     "autor": "Thompson Hyggen",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/123180450"
+    },
+    {
+     "src": "web/esox-lucius_7.jpg",
+     "autor": "Victor Heng",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/114004655"
+    },
+    {
+     "src": "web/esox-lucius_8.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69411910"
+    }
    ]
   },
   {
@@ -241,6 +829,56 @@
    ],
    "imagenes": [
     "img/merluccius-merluccius_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/merluccius-merluccius_1.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/122715304"
+    },
+    {
+     "src": "web/merluccius-merluccius_2.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/36113842"
+    },
+    {
+     "src": "web/merluccius-merluccius_3.jpg",
+     "autor": "Ametsak",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/182814014"
+    },
+    {
+     "src": "web/merluccius-merluccius_4.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/156043946"
+    },
+    {
+     "src": "web/merluccius-merluccius_5.jpg",
+     "autor": "Gianmaria Bonari",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/337201610"
+    },
+    {
+     "src": "web/merluccius-merluccius_6.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/173981855"
+    },
+    {
+     "src": "web/merluccius-merluccius_7.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/113444248"
+    },
+    {
+     "src": "web/merluccius-merluccius_8.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/194499303"
+    }
    ]
   },
   {
@@ -258,6 +896,56 @@
    ],
    "imagenes": [
     "img/lophius-piscatorius_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/lophius-piscatorius_1.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/132036313"
+    },
+    {
+     "src": "web/lophius-piscatorius_2.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/155828939"
+    },
+    {
+     "src": "web/lophius-piscatorius_3.jpg",
+     "autor": "Libby Keatley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/210998943"
+    },
+    {
+     "src": "web/lophius-piscatorius_4.jpg",
+     "autor": "Rebekah Bajkó",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/282955992"
+    },
+    {
+     "src": "web/lophius-piscatorius_5.jpg",
+     "autor": "Roland Gromes",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/245227273"
+    },
+    {
+     "src": "web/lophius-piscatorius_6.jpg",
+     "autor": "nbasargin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/181376214"
+    },
+    {
+     "src": "web/lophius-piscatorius_7.jpg",
+     "autor": "Viktor V. Grøtan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/7740699"
+    },
+    {
+     "src": "web/lophius-piscatorius_8.jpg",
+     "autor": "Thor-Rune Hansen",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/200173538"
+    }
    ]
   },
   {
@@ -279,6 +967,56 @@
    ],
    "imagenes": [
     "img/mugil-cephalus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/mugil-cephalus_1.jpg",
+     "autor": "Ken-ichi Ueda",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/263129653"
+    },
+    {
+     "src": "web/mugil-cephalus_2.jpg",
+     "autor": "etrusko25",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/184142120"
+    },
+    {
+     "src": "web/mugil-cephalus_3.jpg",
+     "autor": "Linzy L.",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/180710014"
+    },
+    {
+     "src": "web/mugil-cephalus_4.jpg",
+     "autor": "LPB",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/198126397"
+    },
+    {
+     "src": "web/mugil-cephalus_5.jpg",
+     "autor": "Ashwin Srinivasan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/175322801"
+    },
+    {
+     "src": "web/mugil-cephalus_6.jpg",
+     "autor": "er-birds",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/104076061"
+    },
+    {
+     "src": "web/mugil-cephalus_7.jpg",
+     "autor": "Jacqui Geux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18195428"
+    },
+    {
+     "src": "web/mugil-cephalus_8.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/3134375"
+    }
    ]
   },
   {
@@ -296,6 +1034,56 @@
    ],
    "imagenes": [
     "img/dicentrarchus-labrax_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/dicentrarchus-labrax_1.jpg",
+     "autor": "Ruben Ciantia",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/240606106"
+    },
+    {
+     "src": "web/dicentrarchus-labrax_2.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/255705142"
+    },
+    {
+     "src": "web/dicentrarchus-labrax_3.jpg",
+     "autor": "etrusko25",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/268792719"
+    },
+    {
+     "src": "web/dicentrarchus-labrax_4.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291478300"
+    },
+    {
+     "src": "web/dicentrarchus-labrax_5.jpg",
+     "autor": "Justin Philbois",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/176187435"
+    },
+    {
+     "src": "web/dicentrarchus-labrax_6.jpg",
+     "autor": "John Hepburn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/381344404"
+    },
+    {
+     "src": "web/dicentrarchus-labrax_7.jpg",
+     "autor": "Claude Kolwelter",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/223610506"
+    },
+    {
+     "src": "web/dicentrarchus-labrax_8.jpg",
+     "autor": "Justin Schoon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/288932679"
+    }
    ]
   },
   {
@@ -315,6 +1103,56 @@
    ],
    "imagenes": [
     "img/mullus-surmuletus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/mullus-surmuletus_1.jpg",
+     "autor": "Toby Holman",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/308832992"
+    },
+    {
+     "src": "web/mullus-surmuletus_2.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/74824841"
+    },
+    {
+     "src": "web/mullus-surmuletus_3.jpg",
+     "autor": "Attila Oláh",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/172268187"
+    },
+    {
+     "src": "web/mullus-surmuletus_4.jpg",
+     "autor": "Bernard Picton",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68641746"
+    },
+    {
+     "src": "web/mullus-surmuletus_5.jpg",
+     "autor": "Thomas Dreux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/91101764"
+    },
+    {
+     "src": "web/mullus-surmuletus_6.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/4042432"
+    },
+    {
+     "src": "web/mullus-surmuletus_7.jpg",
+     "autor": "Diederik",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/300752008"
+    },
+    {
+     "src": "web/mullus-surmuletus_8.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/150834277"
+    }
    ]
   },
   {
@@ -334,6 +1172,56 @@
    ],
    "imagenes": [
     "img/solea-solea_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/solea-solea_1.jpg",
+     "autor": "FVL_MULTISPECIES",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/346965807"
+    },
+    {
+     "src": "web/solea-solea_2.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/232981461"
+    },
+    {
+     "src": "web/solea-solea_3.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/103160189"
+    },
+    {
+     "src": "web/solea-solea_4.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/30268041"
+    },
+    {
+     "src": "web/solea-solea_5.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/106330636"
+    },
+    {
+     "src": "web/solea-solea_6.jpg",
+     "autor": "Roland Gromes",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/328665587"
+    },
+    {
+     "src": "web/solea-solea_7.jpg",
+     "autor": "Dr. Nasser Halaweh",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/126335496"
+    },
+    {
+     "src": "web/solea-solea_8.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/397887055"
+    }
    ]
   },
   {
@@ -351,6 +1239,56 @@
    ],
    "imagenes": [
     "img/epinephelus-marginatus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/epinephelus-marginatus_1.jpg",
+     "autor": "Fábio Olmos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/47162116"
+    },
+    {
+     "src": "web/epinephelus-marginatus_2.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291461540"
+    },
+    {
+     "src": "web/epinephelus-marginatus_3.jpg",
+     "autor": "jeyre",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/82684867"
+    },
+    {
+     "src": "web/epinephelus-marginatus_4.jpg",
+     "autor": "Michael Bommerer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/249435648"
+    },
+    {
+     "src": "web/epinephelus-marginatus_5.jpg",
+     "autor": "Katerina Kalogerini",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/57322066"
+    },
+    {
+     "src": "web/epinephelus-marginatus_6.jpg",
+     "autor": "Michael Bommerer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/214679131"
+    },
+    {
+     "src": "web/epinephelus-marginatus_7.jpg",
+     "autor": "Michael Bommerer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238413618"
+    },
+    {
+     "src": "web/epinephelus-marginatus_8.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/221976400"
+    }
    ]
   },
   {
@@ -368,6 +1306,56 @@
    ],
    "imagenes": [
     "img/scophthalmus-maximus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/scophthalmus-maximus_1.jpg",
+     "autor": "Wiljam Eklund",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269938096"
+    },
+    {
+     "src": "web/scophthalmus-maximus_2.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/295332828"
+    },
+    {
+     "src": "web/scophthalmus-maximus_3.jpg",
+     "autor": "Eliass Tāre",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/397136032"
+    },
+    {
+     "src": "web/scophthalmus-maximus_4.jpg",
+     "autor": "Dorota Wrońska",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/368188872"
+    },
+    {
+     "src": "web/scophthalmus-maximus_5.jpg",
+     "autor": "Morten Rosenvold Villadsen",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/147318874"
+    },
+    {
+     "src": "web/scophthalmus-maximus_6.jpg",
+     "autor": "Opal",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/181103848"
+    },
+    {
+     "src": "web/scophthalmus-maximus_7.jpg",
+     "autor": "Gabriele Pradelli",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/178409849"
+    },
+    {
+     "src": "web/scophthalmus-maximus_8.jpg",
+     "autor": "Jonas Holm Hald Therkildsen",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/32747981"
+    }
    ]
   },
   {
@@ -387,6 +1375,56 @@
    ],
    "imagenes": [
     "img/salmo-salar_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/salmo-salar_1.jpg",
+     "autor": "Gordon Shepherd",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/335123407"
+    },
+    {
+     "src": "web/salmo-salar_2.jpg",
+     "autor": "Ben Rushbrooke",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/130235548"
+    },
+    {
+     "src": "web/salmo-salar_3.jpg",
+     "autor": "Nicola Crockford",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/190353577"
+    },
+    {
+     "src": "web/salmo-salar_4.jpg",
+     "autor": "Nathan Van Cooten",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/305765076"
+    },
+    {
+     "src": "web/salmo-salar_5.jpg",
+     "autor": "djkelly",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/134980805"
+    },
+    {
+     "src": "web/salmo-salar_6.jpg",
+     "autor": "Frank Sengpiel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/62388610"
+    },
+    {
+     "src": "web/salmo-salar_7.jpg",
+     "autor": "Robert Blackmore",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/31653223"
+    },
+    {
+     "src": "web/salmo-salar_8.jpg",
+     "autor": "Fyn Kynd",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/228119375"
+    }
    ]
   },
   {
@@ -406,6 +1444,56 @@
    ],
    "imagenes": [
     "img/salmo-trutta_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/salmo-trutta_1.jpg",
+     "autor": "Bruce Deagle",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/78035823"
+    },
+    {
+     "src": "web/salmo-trutta_2.jpg",
+     "autor": "kirk gardner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/22496703"
+    },
+    {
+     "src": "web/salmo-trutta_3.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238487209"
+    },
+    {
+     "src": "web/salmo-trutta_4.jpg",
+     "autor": "Nicola Crockford",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/248601959"
+    },
+    {
+     "src": "web/salmo-trutta_5.jpg",
+     "autor": "Catherine Faber",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/302658961"
+    },
+    {
+     "src": "web/salmo-trutta_6.jpg",
+     "autor": "Mason Holum",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/257751883"
+    },
+    {
+     "src": "web/salmo-trutta_7.jpg",
+     "autor": "Евгений Егорейченков",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/298232064"
+    },
+    {
+     "src": "web/salmo-trutta_8.jpg",
+     "autor": "Kimball Garrett",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/119474804"
+    }
    ]
   },
   {
@@ -425,6 +1513,56 @@
    ],
    "imagenes": [
     "img/sarda-sarda_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/sarda-sarda_1.jpg",
+     "autor": "Alan Kneidel",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/16271313"
+    },
+    {
+     "src": "web/sarda-sarda_2.jpg",
+     "autor": "Michael Bommerer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/197248279"
+    },
+    {
+     "src": "web/sarda-sarda_3.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/1632741"
+    },
+    {
+     "src": "web/sarda-sarda_4.jpg",
+     "autor": "Alan Kneidel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/135984937"
+    },
+    {
+     "src": "web/sarda-sarda_5.jpg",
+     "autor": "Hugo Hulsberg",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/153632957"
+    },
+    {
+     "src": "web/sarda-sarda_6.jpg",
+     "autor": "Robbie",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/183695166"
+    },
+    {
+     "src": "web/sarda-sarda_7.jpg",
+     "autor": "tunicatedreamz",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291227801"
+    },
+    {
+     "src": "web/sarda-sarda_8.jpg",
+     "autor": "ricofish",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/317135846"
+    }
    ]
   },
   {
@@ -445,6 +1583,56 @@
    ],
    "imagenes": [
     "img/scomber-scombrus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/scomber-scombrus_1.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/7496873"
+    },
+    {
+     "src": "web/scomber-scombrus_2.jpg",
+     "autor": "Dave Hernon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/187290011"
+    },
+    {
+     "src": "web/scomber-scombrus_3.jpg",
+     "autor": "Jonathan Layman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/14903947"
+    },
+    {
+     "src": "web/scomber-scombrus_4.jpg",
+     "autor": "James-LaFontaine",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/217525252"
+    },
+    {
+     "src": "web/scomber-scombrus_5.jpg",
+     "autor": "Thor-Rune Hansen",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/66215408"
+    },
+    {
+     "src": "web/scomber-scombrus_6.jpg",
+     "autor": "Jonas Kraft",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/173023789"
+    },
+    {
+     "src": "web/scomber-scombrus_7.jpg",
+     "autor": "Zac Peterson",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/187743180"
+    },
+    {
+     "src": "web/scomber-scombrus_8.jpg",
+     "autor": "John Hepburn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/181031095"
+    }
    ]
   },
   {
@@ -464,6 +1652,56 @@
    ],
    "imagenes": [
     "img/thunnus-thynnus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/thunnus-thynnus_1.jpg",
+     "autor": "Michel Frisch",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/66888674"
+    },
+    {
+     "src": "web/thunnus-thynnus_2.jpg",
+     "autor": "Thomas Stjernegaard Jeppesen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/182444654"
+    },
+    {
+     "src": "web/thunnus-thynnus_3.jpg",
+     "autor": "Jonathan Layman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/67210792"
+    },
+    {
+     "src": "web/thunnus-thynnus_4.jpg",
+     "autor": "Jack Andrew",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/379705695"
+    },
+    {
+     "src": "web/thunnus-thynnus_5.jpg",
+     "autor": "Shane Austin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/331843244"
+    },
+    {
+     "src": "web/thunnus-thynnus_6.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/278600341"
+    },
+    {
+     "src": "web/thunnus-thynnus_7.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/3127497"
+    },
+    {
+     "src": "web/thunnus-thynnus_8.jpg",
+     "autor": "Leonard Wägele",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/35422206"
+    }
    ]
   },
   {
@@ -481,6 +1719,56 @@
    ],
    "imagenes": [
     "img/scorpaena-scrofa_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/scorpaena-scrofa_1.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/154402892"
+    },
+    {
+     "src": "web/scorpaena-scrofa_2.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/72398341"
+    },
+    {
+     "src": "web/scorpaena-scrofa_3.jpg",
+     "autor": "Biray Pinar",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/315272561"
+    },
+    {
+     "src": "web/scorpaena-scrofa_4.jpg",
+     "autor": "BJ Smit",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/261868529"
+    },
+    {
+     "src": "web/scorpaena-scrofa_5.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/156020256"
+    },
+    {
+     "src": "web/scorpaena-scrofa_6.jpg",
+     "autor": "Tom Heijnen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37303728"
+    },
+    {
+     "src": "web/scorpaena-scrofa_7.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37596375"
+    },
+    {
+     "src": "web/scorpaena-scrofa_8.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/27837252"
+    }
    ]
   },
   {
@@ -498,6 +1786,56 @@
    ],
    "imagenes": [
     "img/ameiurus-melas_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/ameiurus-melas_1.jpg",
+     "autor": "Sam Kieschnick",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/1564899"
+    },
+    {
+     "src": "web/ameiurus-melas_2.jpg",
+     "autor": "Juan Martínez Reina",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/267815394"
+    },
+    {
+     "src": "web/ameiurus-melas_3.jpg",
+     "autor": "Lee Cain",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/5070235"
+    },
+    {
+     "src": "web/ameiurus-melas_4.jpg",
+     "autor": "TheMongrelKoi",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/82633524"
+    },
+    {
+     "src": "web/ameiurus-melas_5.jpg",
+     "autor": "Justin Philbois",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/171578354"
+    },
+    {
+     "src": "web/ameiurus-melas_6.jpg",
+     "autor": "Ali Powell",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/218702218"
+    },
+    {
+     "src": "web/ameiurus-melas_7.jpg",
+     "autor": "Michelle Lopez",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/165075987"
+    },
+    {
+     "src": "web/ameiurus-melas_8.jpg",
+     "autor": "Zack Abbey",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/55509830"
+    }
    ]
   },
   {
@@ -516,6 +1854,56 @@
    "imagenes": [
     "img/silurus-glanis_1.jpg",
     "img/silurus-glanis_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/silurus-glanis_1.jpg",
+     "autor": "Davio",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/320609323"
+    },
+    {
+     "src": "web/silurus-glanis_2.jpg",
+     "autor": "Анастасия",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/66408242"
+    },
+    {
+     "src": "web/silurus-glanis_3.jpg",
+     "autor": "Roland Gromes",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/386731877"
+    },
+    {
+     "src": "web/silurus-glanis_4.jpg",
+     "autor": "Gonzalo Ganda Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/393278796"
+    },
+    {
+     "src": "web/silurus-glanis_5.jpg",
+     "autor": "Mattia Menchetti",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/535275"
+    },
+    {
+     "src": "web/silurus-glanis_6.jpg",
+     "autor": "Robin Fokker",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/116703644"
+    },
+    {
+     "src": "web/silurus-glanis_7.jpg",
+     "autor": "Paulo Martins",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/127992876"
+    },
+    {
+     "src": "web/silurus-glanis_8.jpg",
+     "autor": "Philipp Pavelka",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/36925049"
+    }
    ]
   },
   {
@@ -533,6 +1921,56 @@
    ],
    "imagenes": [
     "img/sparus-aurata_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/sparus-aurata_1.jpg",
+     "autor": "etrusko25",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189645991"
+    },
+    {
+     "src": "web/sparus-aurata_2.jpg",
+     "autor": "Ewout Knoester",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/292413061"
+    },
+    {
+     "src": "web/sparus-aurata_3.jpg",
+     "autor": "etrusko25",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/167857766"
+    },
+    {
+     "src": "web/sparus-aurata_4.jpg",
+     "autor": "luluchouette",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/170087469"
+    },
+    {
+     "src": "web/sparus-aurata_5.jpg",
+     "autor": "Tim Johnson",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/264656642"
+    },
+    {
+     "src": "web/sparus-aurata_6.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/356991956"
+    },
+    {
+     "src": "web/sparus-aurata_7.jpg",
+     "autor": "Gavin Skeen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/391044225"
+    },
+    {
+     "src": "web/sparus-aurata_8.jpg",
+     "autor": "Loz Emerson",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/399712146"
+    }
    ]
   },
   {
@@ -550,6 +1988,56 @@
    ],
    "imagenes": [
     "img/hippocampus-hippocampus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/hippocampus-hippocampus_1.jpg",
+     "autor": "Matteo Alvise Fusaro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/268183378"
+    },
+    {
+     "src": "web/hippocampus-hippocampus_2.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/63566272"
+    },
+    {
+     "src": "web/hippocampus-hippocampus_3.jpg",
+     "autor": "Michael Bakker Paiva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37190135"
+    },
+    {
+     "src": "web/hippocampus-hippocampus_4.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254714953"
+    },
+    {
+     "src": "web/hippocampus-hippocampus_5.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254707692"
+    },
+    {
+     "src": "web/hippocampus-hippocampus_6.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254707693"
+    },
+    {
+     "src": "web/hippocampus-hippocampus_7.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69405555"
+    },
+    {
+     "src": "web/hippocampus-hippocampus_8.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254707707"
+    }
    ]
   },
   {
@@ -567,6 +2055,56 @@
    ],
    "imagenes": [
     "img/xiphias-gladius_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/xiphias-gladius_1.jpg",
+     "autor": "Adam J. Searcy",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/7097077"
+    },
+    {
+     "src": "web/xiphias-gladius_2.jpg",
+     "autor": "Sylvain Eichhorn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/156410761"
+    },
+    {
+     "src": "web/xiphias-gladius_3.jpg",
+     "autor": "Bobby McCabe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/175451844"
+    },
+    {
+     "src": "web/xiphias-gladius_4.jpg",
+     "autor": "Roan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/64076097"
+    },
+    {
+     "src": "web/xiphias-gladius_5.jpg",
+     "autor": "Anders Hastings",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/146216342"
+    },
+    {
+     "src": "web/xiphias-gladius_6.jpg",
+     "autor": "Ashwit Shetty",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279464048"
+    },
+    {
+     "src": "web/xiphias-gladius_7.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193398450"
+    },
+    {
+     "src": "web/xiphias-gladius_8.jpg",
+     "autor": "Gabriel Cardoso Fialho",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/399227408"
+    }
    ]
   }
  ]

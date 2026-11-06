@@ -24,6 +24,13 @@
     <p class="intro">Mira la foto y escribe el nombre común, el nombre científico y la clase. Solo es acierto si aciertas los tres.</p>
     <h2>¿Qué quieres practicar?</h2>
     <div id="lista-clases" class="lista-clases"><p class="tenue">Cargando clases…</p></div>
+    <label class="opcion selector">Fotos
+      <select id="opt-fotos">
+        <option value="todas">De internet y de las fichas</option>
+        <option value="web">Solo de internet</option>
+        <option value="ficha">Solo de las fichas</option>
+      </select>
+    </label>
     <label class="opcion"><input type="checkbox" id="opt-falladas"> Solo las que he fallado alguna vez</label>
     <button id="btn-empezar" class="btn-principal" disabled>Empezar</button>
     <p id="resumen-global" class="tenue centrado"></p>
@@ -34,6 +41,7 @@
     <figure class="foto">
       <img id="foto" alt="Especie a identificar">
       <div id="puntos-foto" class="puntos"></div>
+      <figcaption id="credito" class="credito"></figcaption>
     </figure>
     <form id="form-respuesta" autocomplete="off">
       <label>Nombre común

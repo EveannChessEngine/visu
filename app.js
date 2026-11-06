@@ -48,6 +48,8 @@ function barajar(arr) {
 // ---------- Almacenamiento local (estadísticas por ficha) ----------
 const CLAVE_STATS = "visu.stats.v1";
 const CLAVE_SELECCION = "visu.seleccion.v1";
+const CLAVE_FOTOS = "visu.fotos.v1";
+const CLAVE_OCULTAS = "visu.ocultas.v1";
 function leer(clave, defecto) {
   try { return JSON.parse(localStorage.getItem(clave)) ?? defecto; } catch { return defecto; }
 }
@@ -137,10 +139,28 @@ async function empezar() {
     const falladas = tarjetas.filter((t) => stats[t.clave]?.fallos > 0);
     if (falladas.length) tarjetas = falladas;
   }
+  const modo = $("opt-fotos").value;
+  guardar(CLAVE_FOTOS, modo);
+  for (const t of tarjetas) t.fotos = fotosSegunModo(t, modo);
   cola = barajar(tarjetas).map((t) => ({ tarjeta: t, repetida: false }));
   ronda = { total: cola.length, aciertos: 0, respondidas: 0, falladas: new Map() };
   $("btn-empezar").disabled = false;
   siguiente();
+}
+
+// Lista de fotos de una ficha según la opción elegida: [{src, credito, enlace}]
+function fotosSegunModo(t, modo) {
+  const ficha = t.imagenes.map((src) => ({ src: t.base + src, credito: "Foto de la ficha", enlace: null }));
+  const web = (t.fotos_web || []).map((w) => ({
+    src: t.base + w.src,
+    credito: `Foto: ${w.autor || "anónimo"} · ${w.licencia} · ${w.sitio || "iNaturalist"}`,
+    enlace: w.fuente,
+  }));
+  const ocultas = new Set(leer(CLAVE_OCULTAS, []));
+  for (let i = web.length - 1; i >= 0; i--) if (ocultas.has(web[i].src)) web.splice(i, 1);
+  if (modo === "ficha" || !web.length) return ficha;
+  if (modo === "web") return web;
+  return ficha.concat(web);
 }
 
 // ---------- Tarjeta ----------
@@ -148,6 +168,8 @@ function siguiente() {
   if (!cola.length) return terminar();
   actual = cola.shift();
   const t = actual.tarjeta;
+  // Cada vez que sale la tarjeta, las fotos aparecen en un orden al azar.
+  actual.fotos = barajar(t.fotos);
   fotoIdx = 0;
   pintarFoto();
   for (const id of ["r-comun", "r-cientifico", "r-clase"]) {
@@ -161,16 +183,40 @@ function siguiente() {
 }
 
 function pintarFoto() {
-  const t = actual.tarjeta;
-  $("foto").src = t.base + t.imagenes[fotoIdx];
+  const fotos = actual.fotos;
+  const f = fotos[fotoIdx];
+  $("foto").src = f.src;
+  const cred = $("credito");
+  cred.textContent = "";
+  if (f.enlace) {
+    const a = document.createElement("a");
+    a.href = f.enlace; a.target = "_blank"; a.rel = "noopener";
+    a.textContent = f.credito;
+    cred.appendChild(a);
+    // Las fotos de internet varían en calidad: se pueden ocultar las que no sirvan.
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "btn-ocultar"; b.textContent = "Ocultar esta foto";
+    b.onclick = () => {
+      const ocultas = new Set(leer(CLAVE_OCULTAS, []));
+      ocultas.add(f.src);
+      guardar(CLAVE_OCULTAS, [...ocultas]);
+      actual.fotos.splice(fotoIdx, 1);
+      if (!actual.fotos.length) actual.fotos = fotosSegunModo(actual.tarjeta, "ficha");
+      fotoIdx = fotoIdx % actual.fotos.length;
+      pintarFoto();
+    };
+    cred.appendChild(b);
+  } else {
+    cred.textContent = f.credito;
+  }
   const puntos = $("puntos-foto");
   puntos.innerHTML = "";
-  if (t.imagenes.length > 1) {
-    t.imagenes.forEach((_, i) => {
+  if (fotos.length > 1) {
+    fotos.forEach((_, i) => {
       const b = document.createElement("button");
       b.type = "button";
       b.className = i === fotoIdx ? "activo" : "";
-      b.setAttribute("aria-label", `Foto ${i + 1} de ${t.imagenes.length}`);
+      b.setAttribute("aria-label", `Foto ${i + 1} de ${fotos.length}`);
       b.onclick = () => { fotoIdx = i; pintarFoto(); };
       puntos.appendChild(b);
     });
@@ -178,7 +224,7 @@ function pintarFoto() {
 }
 
 function cambiarFoto(paso) {
-  const n = actual?.tarjeta.imagenes.length || 1;
+  const n = actual?.fotos.length || 1;
   if (n < 2) return;
   fotoIdx = (fotoIdx + paso + n) % n;
   pintarFoto();
@@ -304,6 +350,7 @@ $("foto").addEventListener("touchend", (e) => {
   toqueX = null;
 });
 
+$("opt-fotos").value = leer(CLAVE_FOTOS, "todas");
 cargarIndice();
 
 if ("serviceWorker" in navigator) {

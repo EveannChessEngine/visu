@@ -72,6 +72,21 @@ h2 { font-size: 1.1rem; margin: 20px 0 10px; }
 .clase-item .nombre { font-weight: 600; flex: 1; }
 .clase-item .num { color: var(--tenue); font-size: .9rem; }
 
+.selector { justify-content: space-between; }
+.selector select {
+  font-size: 1rem; padding: 6px 8px; border-radius: 8px; max-width: 65%;
+  border: 1px solid var(--borde); background: var(--superficie); color: var(--texto);
+}
+.credito {
+  width: 100%; padding: 0 12px 8px; font-size: .75rem; color: #5c6b7a; text-align: center;
+}
+.credito a { color: inherit; }
+.credito:empty { display: none; }
+.btn-ocultar {
+  display: block; margin: 6px auto 0; padding: 4px 10px; font-size: .75rem;
+  border: 1px solid #c3ccd5; border-radius: 6px; background: transparent; color: #5c6b7a; cursor: pointer;
+}
+
 .btn-principal, .btn-secundario {
   display: block; width: 100%; min-height: 50px;
   border-radius: var(--radio); font-size: 1.05rem; font-weight: 600;

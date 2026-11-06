@@ -1,5 +1,5 @@
 // Service worker: permite usar la app sin conexión una vez abierta.
-const VERSION = "visu-v1";
+const VERSION = "visu-v2";
 const BASICOS = ["./", "index.html", "estilos.css", "app.js", "manifest.webmanifest", "iconos/icono.svg", "iconos/icono-192.png", "iconos/icono-512.png"];
 
 self.addEventListener("install", (e) => {
