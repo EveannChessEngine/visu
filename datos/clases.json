@@ -1,6 +1,12 @@
 {
  "clases": [
   {
+   "id": "ascidiacea",
+   "clase": "Ascidiacea",
+   "grupo": "Cordados",
+   "total": 4
+  },
+  {
    "id": "osteoicteos",
    "clase": "Osteíctios",
    "grupo": "Cordados",

@@ -1,0 +1,290 @@
+{
+ "id": "ascidiacea",
+ "clase": "Ascidiacea",
+ "sinonimos_clase": [
+  "Ascidiacea",
+  "Ascidiáceos",
+  "Ascidiaceos",
+  "Ascidias",
+  "Ascidacea"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "ascidia-mentula",
+   "comun": "Ascidia común",
+   "alternativos": [
+    "Ascidia"
+   ],
+   "cientifico": "Ascidia mentula",
+   "subfilo": "Urochordata",
+   "familia": "Ascidiidae",
+   "rasgos": [
+    "Cuerpo solitario, oblongo y de consistencia cartilaginosa coriácea.",
+    "Túnica gruesa de color translúcido a rojizo o rosáceo opaco.",
+    "Sifón inhalante (bucal) terminal y sifón exhalante lateral y algo retrasado."
+   ],
+   "imagenes": [
+    "img/ascidia-mentula_1.jpg",
+    "img/ascidia-mentula_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/ascidia-mentula_1.jpg",
+     "autor": "Bernard Picton",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/17718393"
+    },
+    {
+     "src": "web/ascidia-mentula_2.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/10621669"
+    },
+    {
+     "src": "web/ascidia-mentula_3.jpg",
+     "autor": "Valentin Moser",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/28793006"
+    },
+    {
+     "src": "web/ascidia-mentula_4.jpg",
+     "autor": "Lou Wagstaffe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193893039"
+    },
+    {
+     "src": "web/ascidia-mentula_5.jpg",
+     "autor": "Lou Wagstaffe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/343706695"
+    },
+    {
+     "src": "web/ascidia-mentula_6.jpg",
+     "autor": "Rebekah Bajkó",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/361768680"
+    },
+    {
+     "src": "web/ascidia-mentula_7.jpg",
+     "autor": "Bernard Picton",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/9705119"
+    },
+    {
+     "src": "web/ascidia-mentula_8.jpg",
+     "autor": "Lara Maleen Beckmann",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/91552475"
+    }
+   ]
+  },
+  {
+   "id": "clavelina-lepadiformis",
+   "comun": "Ascidia bombilla",
+   "alternativos": [],
+   "cientifico": "Clavelina lepadiformis",
+   "subfilo": "Urochordata",
+   "familia": "Clavelinidae",
+   "rasgos": [
+    "Ascidia social que forma colonias unidas por estolones basales.",
+    "Cuerpo en forma de maza, cilíndrico y totalmente transparente (como cristal).",
+    "Órganos internos (cesta branquial y aparato digestivo) visibles a través de la túnica.",
+    "Líneas blancas o amarillentas brillantes que perfilan los sifones y el endostilo."
+   ],
+   "imagenes": [
+    "img/clavelina-lepadiformis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/clavelina-lepadiformis_1.jpg",
+     "autor": "Georgina Jones",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/194166142"
+    },
+    {
+     "src": "web/clavelina-lepadiformis_2.jpg",
+     "autor": "Cricket Raspet",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/402885747"
+    },
+    {
+     "src": "web/clavelina-lepadiformis_3.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/131612681"
+    },
+    {
+     "src": "web/clavelina-lepadiformis_4.jpg",
+     "autor": "Rachel Crane",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/372943278"
+    },
+    {
+     "src": "web/clavelina-lepadiformis_5.jpg",
+     "autor": "Kelvin Perrie",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/198027616"
+    },
+    {
+     "src": "web/clavelina-lepadiformis_6.jpg",
+     "autor": "Zak Russell",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/280560409"
+    },
+    {
+     "src": "web/clavelina-lepadiformis_7.jpg",
+     "autor": "Lou Wagstaffe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/281077271"
+    },
+    {
+     "src": "web/clavelina-lepadiformis_8.jpg",
+     "autor": "Hannes Dahm",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/287819356"
+    }
+   ]
+  },
+  {
+   "id": "ciona-intestinalis",
+   "comun": "Ciona / Ascidia intestinal",
+   "alternativos": [
+    "Ciona",
+    "Ascidia intestinal"
+   ],
+   "cientifico": "Ciona intestinalis",
+   "subfilo": "Urochordata",
+   "familia": "Cionidae",
+   "rasgos": [
+    "Cuerpo alargado, cilíndrico, muy blando y flexible al tacto.",
+    "Túnica translúcida de color verde pálido o amarillento.",
+    "Bordes de los sifones adornados con característicos puntos de color amarillo o naranja vivos.",
+    "Se observan con facilidad las bandas musculares longitudinales internas."
+   ],
+   "imagenes": [
+    "img/ciona-intestinalis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/ciona-intestinalis_1.jpg",
+     "autor": "Micha Baum",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/91648775"
+    },
+    {
+     "src": "web/ciona-intestinalis_2.jpg",
+     "autor": "Jean-Paul Boerekamps",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/99231410"
+    },
+    {
+     "src": "web/ciona-intestinalis_3.jpg",
+     "autor": "Steven Farquhar",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/276717280"
+    },
+    {
+     "src": "web/ciona-intestinalis_4.jpg",
+     "autor": "Jean-Paul Boerekamps",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/129429459"
+    },
+    {
+     "src": "web/ciona-intestinalis_5.jpg",
+     "autor": "Jean-Paul Boerekamps",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/99441745"
+    },
+    {
+     "src": "web/ciona-intestinalis_6.jpg",
+     "autor": "Jean-Paul Boerekamps",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/94904919"
+    },
+    {
+     "src": "web/ciona-intestinalis_7.jpg",
+     "autor": "Rory Wilson",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/305772772"
+    },
+    {
+     "src": "web/ciona-intestinalis_8.jpg",
+     "autor": "Jamie O'Neill",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265580895"
+    }
+   ]
+  },
+  {
+   "id": "halocynthia-papillosa",
+   "comun": "Ascidia roja / Patata de mar",
+   "alternativos": [
+    "Ascidia roja",
+    "Patata de mar"
+   ],
+   "cientifico": "Halocynthia papillosa",
+   "subfilo": "Urochordata",
+   "familia": "Pyuridae",
+   "rasgos": [
+    "Túnica coriácea de un inconfundible color rojo vivo o carmín.",
+    "Superficie rugosa, cubierta de pequeñas papilas o espinas dérmicas.",
+    "Sifones bien desarrollados, orientados hacia arriba y con bordes cuadrangulares.",
+    "Coloración más pálida o blanquecina en zonas umbrías o de la base."
+   ],
+   "imagenes": [
+    "img/halocynthia-papillosa_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/halocynthia-papillosa_1.jpg",
+     "autor": "Dan Wrench",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/137067742"
+    },
+    {
+     "src": "web/halocynthia-papillosa_2.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/272146495"
+    },
+    {
+     "src": "web/halocynthia-papillosa_3.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/154601671"
+    },
+    {
+     "src": "web/halocynthia-papillosa_4.jpg",
+     "autor": "Tom Heijnen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/117757901"
+    },
+    {
+     "src": "web/halocynthia-papillosa_5.jpg",
+     "autor": "Luca Borghesio",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/385574350"
+    },
+    {
+     "src": "web/halocynthia-papillosa_6.jpg",
+     "autor": "Golfopolikayak",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/45169574"
+    },
+    {
+     "src": "web/halocynthia-papillosa_7.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/45983276"
+    },
+    {
+     "src": "web/halocynthia-papillosa_8.jpg",
+     "autor": "vtzanatos",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/180484141"
+    }
+   ]
+  }
+ ]
+}
