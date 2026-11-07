@@ -19,8 +19,20 @@
 </header>
 
 <main>
+  <!-- Contraseña de entrada -->
+  <section id="vista-clave" class="vista" hidden>
+    <form id="form-clave" class="form-clave">
+      <h2>Entrar</h2>
+      <label>Contraseña
+        <input id="clave" type="password" autocomplete="current-password" enterkeyhint="go">
+      </label>
+      <p id="clave-error" class="clave-error" hidden>Contraseña incorrecta.</p>
+      <button type="submit" class="btn-principal">Entrar</button>
+    </form>
+  </section>
+
   <!-- Pantalla de inicio -->
-  <section id="vista-inicio" class="vista">
+  <section id="vista-inicio" class="vista" hidden>
     <p class="intro">Mira la foto y escribe el nombre común, el nombre científico y la clase. Solo es acierto si aciertas los tres.</p>
     <h2>¿Qué quieres practicar?</h2>
     <div id="lista-clases" class="lista-clases"><p class="tenue">Cargando clases…</p></div>

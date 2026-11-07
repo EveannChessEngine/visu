@@ -152,6 +152,9 @@ form input.ko { border-color: var(--mal); background: var(--mal-fondo); }
 .rasgos { margin: 6px 0 0; padding-left: 20px; }
 .rasgos li { margin: 4px 0; }
 
+.form-clave { margin-top: 12vh; }
+.clave-error { color: var(--mal); margin: 8px 0 0; }
+
 .fin-texto { font-size: 1.1rem; }
 .fin-falladas { padding-left: 20px; }
 .fin-falladas li { margin: 4px 0; }

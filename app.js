@@ -68,8 +68,8 @@ let fotoIdx = 0;
 
 // ---------- Vistas ----------
 function mostrar(vista) {
-  for (const v of ["inicio", "tarjeta", "fin"]) $("vista-" + v).hidden = v !== vista;
-  $("btn-inicio").hidden = vista === "inicio";
+  for (const v of ["clave", "inicio", "tarjeta", "fin"]) $("vista-" + v).hidden = v !== vista;
+  $("btn-inicio").hidden = vista === "inicio" || vista === "clave";
   $("marcador").hidden = vista !== "tarjeta";
   window.scrollTo(0, 0);
 }
@@ -351,7 +351,39 @@ $("foto").addEventListener("touchend", (e) => {
 });
 
 $("opt-fotos").value = leer(CLAVE_FOTOS, "todas");
-cargarIndice();
+
+// ---------- Contraseña de entrada ----------
+// Solo una barrera sencilla: los archivos de la web siguen siendo públicos.
+// Se guarda el SHA-256 de "visu:" + contraseña, nunca la contraseña.
+const HASH_CLAVE = "403fbe772697afdfdc8b1fc7ee32aa34869005befdce685b777097f833afdab0";
+const CLAVE_ACCESO = "visu.acceso.v1";
+
+async function hashClave(texto) {
+  const datos = new TextEncoder().encode("visu:" + texto);
+  const h = await crypto.subtle.digest("SHA-256", datos);
+  return [...new Uint8Array(h)].map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+$("form-clave").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  if ((await hashClave($("clave").value)) === HASH_CLAVE) {
+    guardar(CLAVE_ACCESO, HASH_CLAVE); // recordar en este dispositivo
+    $("clave").value = "";
+    mostrar("inicio");
+    cargarIndice();
+  } else {
+    $("clave-error").hidden = false;
+    $("clave").select();
+  }
+});
+
+if (leer(CLAVE_ACCESO, null) === HASH_CLAVE) {
+  mostrar("inicio");
+  cargarIndice();
+} else {
+  mostrar("clave");
+  $("clave").focus();
+}
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
