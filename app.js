@@ -77,7 +77,6 @@ function mostrar(vista) {
 // ---------- Inicio ----------
 async function cargarIndice() {
   const cont = $("lista-clases");
-  await cargarBorradas();
   try {
     const res = await fetch("datos/clases.json", { cache: "no-cache" });
     indiceClases = (await res.json()).clases;
@@ -157,15 +156,11 @@ function fotosSegunModo(t, modo) {
     credito: `Foto: ${w.autor || "anónimo"} · ${w.licencia} · ${w.sitio || "iNaturalist"}`,
     enlace: w.fuente,
   }));
-  // Quitar las fotos borradas (lista común en GitHub) y las ocultadas antes en este dispositivo.
-  const fuera = new Set([...borradas, ...leer(CLAVE_OCULTAS, [])]);
-  const quitar = (lista) => lista.filter((f) => !fuera.has(f.src));
-  const f2 = quitar(ficha), w2 = quitar(web);
-  const todas = f2.concat(w2);
-  if (!todas.length) return ficha.slice(0, 1); // nunca dejar una especie sin foto
-  if (modo === "ficha") return f2.length ? f2 : w2;
-  if (modo === "web") return w2.length ? w2 : f2;
-  return todas;
+  const ocultas = new Set(leer(CLAVE_OCULTAS, []));
+  for (let i = web.length - 1; i >= 0; i--) if (ocultas.has(web[i].src)) web.splice(i, 1);
+  if (modo === "ficha" || !web.length) return ficha;
+  if (modo === "web") return web;
+  return ficha.concat(web);
 }
 
 // ---------- Tarjeta ----------
@@ -198,15 +193,21 @@ function pintarFoto() {
     a.href = f.enlace; a.target = "_blank"; a.rel = "noopener";
     a.textContent = f.credito;
     cred.appendChild(a);
-  } else {
-    cred.appendChild(document.createTextNode(f.credito));
-  }
-  // Borrar la foto para siempre (pide confirmación y contraseña).
-  if (fotos.length > 1) {
+    // Las fotos de internet varían en calidad: se pueden ocultar las que no sirvan.
     const b = document.createElement("button");
-    b.type = "button"; b.className = "btn-ocultar"; b.textContent = "Borrar esta foto";
-    b.onclick = () => abrirBorrado(f.src);
+    b.type = "button"; b.className = "btn-ocultar"; b.textContent = "Ocultar esta foto";
+    b.onclick = () => {
+      const ocultas = new Set(leer(CLAVE_OCULTAS, []));
+      ocultas.add(f.src);
+      guardar(CLAVE_OCULTAS, [...ocultas]);
+      actual.fotos.splice(fotoIdx, 1);
+      if (!actual.fotos.length) actual.fotos = fotosSegunModo(actual.tarjeta, "ficha");
+      fotoIdx = fotoIdx % actual.fotos.length;
+      pintarFoto();
+    };
     cred.appendChild(b);
+  } else {
+    cred.textContent = f.credito;
   }
   const puntos = $("puntos-foto");
   puntos.innerHTML = "";
@@ -352,130 +353,6 @@ $("foto").addEventListener("touchend", (e) => {
 });
 
 $("opt-fotos").value = leer(CLAVE_FOTOS, "todas");
-
-// ---------- Borrar fotos para siempre ----------
-// La web no tiene servidor: al borrar, la app añade la foto a datos/borradas.json
-// en el repositorio de GitHub. Para ello usa un token de GitHub (con permiso solo
-// sobre este repositorio) que se guarda en cada dispositivo cifrado con la contraseña.
-const REPO = "EveannChessEngine/visu";
-const RUTA_BORRADAS = "datos/borradas.json";
-const CLAVE_TOKEN = "visu.token.v1";
-let borradas = [];
-let fotoABorrar = null;
-
-async function cargarBorradas() {
-  try {
-    const res = await fetch(RUTA_BORRADAS, { cache: "no-cache" });
-    if (res.ok) borradas = (await res.json()).fotos || [];
-  } catch { /* sin lista todavía */ }
-}
-
-const b64 = (buf) => btoa(String.fromCharCode(...new Uint8Array(buf)));
-const deb64 = (s) => Uint8Array.from(atob(s), (c) => c.charCodeAt(0));
-
-async function claveCifrado(password, sal) {
-  const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(password), "PBKDF2", false, ["deriveKey"]);
-  return crypto.subtle.deriveKey({ name: "PBKDF2", salt: sal, iterations: 300000, hash: "SHA-256" },
-    base, { name: "AES-GCM", length: 256 }, false, ["encrypt", "decrypt"]);
-}
-
-async function guardarToken(token, password) {
-  const sal = crypto.getRandomValues(new Uint8Array(16));
-  const iv = crypto.getRandomValues(new Uint8Array(12));
-  const ct = await crypto.subtle.encrypt({ name: "AES-GCM", iv }, await claveCifrado(password, sal), new TextEncoder().encode(token));
-  guardar(CLAVE_TOKEN, { sal: b64(sal), iv: b64(iv), ct: b64(ct) });
-}
-
-async function leerToken(password) {
-  const g = leer(CLAVE_TOKEN, null);
-  if (!g) return null;
-  try {
-    const pt = await crypto.subtle.decrypt({ name: "AES-GCM", iv: deb64(g.iv) },
-      await claveCifrado(password, deb64(g.sal)), deb64(g.ct));
-    return new TextDecoder().decode(pt);
-  } catch { return null; }
-}
-
-async function apiGitHub(token, metodo, cuerpo) {
-  return fetch(`https://api.github.com/repos/${REPO}/contents/${RUTA_BORRADAS}`, {
-    method: metodo,
-    headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" },
-    body: cuerpo ? JSON.stringify(cuerpo) : undefined,
-    cache: "no-store",
-  });
-}
-
-async function borrarEnGitHub(token, src) {
-  for (let intento = 0; intento < 3; intento++) {
-    const res = await apiGitHub(token, "GET");
-    if (res.status === 401 || res.status === 403) throw new Error("token");
-    let lista = [], sha;
-    if (res.ok) {
-      const d = await res.json();
-      sha = d.sha;
-      lista = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g, ""))))).fotos || [];
-    } else if (res.status !== 404) throw new Error("red");
-    if (!lista.includes(src)) lista.push(src);
-    const texto = JSON.stringify({ fotos: lista.sort() }, null, 1) + "\n";
-    const put = await apiGitHub(token, "PUT", {
-      message: `Borrar foto ${src}`,
-      content: btoa(unescape(encodeURIComponent(texto))),
-      ...(sha ? { sha } : {}),
-    });
-    if (put.ok) return lista;
-    if (put.status === 401 || put.status === 403) throw new Error("token");
-    if (put.status !== 409 && put.status !== 422) throw new Error("red");
-    // 409/422: otro dispositivo cambió la lista a la vez; se reintenta.
-  }
-  throw new Error("red");
-}
-
-function abrirBorrado(src) {
-  fotoABorrar = src;
-  $("borrar-foto").src = src;
-  $("borrar-clave").value = "";
-  $("borrar-token").value = "";
-  $("borrar-error").hidden = true;
-  $("borrar-bloque-token").hidden = !!leer(CLAVE_TOKEN, null);
-  $("dlg-borrar").showModal();
-}
-
-$("borrar-cancelar").onclick = () => $("dlg-borrar").close();
-
-$("form-borrar").addEventListener("submit", async (e) => {
-  e.preventDefault();
-  const error = (txt) => { $("borrar-error").textContent = txt; $("borrar-error").hidden = false; };
-  const password = $("borrar-clave").value;
-  if ((await hashClave(password)) !== HASH_CLAVE) return error("Contraseña incorrecta.");
-  let token = await leerToken(password);
-  const nuevo = $("borrar-token").value.trim();
-  if (!token) {
-    if (!nuevo) { $("borrar-bloque-token").hidden = false; return error("Falta el token de GitHub de este dispositivo."); }
-    token = nuevo;
-  }
-  $("borrar-ok").disabled = true;
-  $("borrar-ok").textContent = "Borrando…";
-  try {
-    borradas = await borrarEnGitHub(token, fotoABorrar);
-    if (nuevo) await guardarToken(nuevo, password);
-    actual.fotos = actual.fotos.filter((f) => f.src !== fotoABorrar);
-    actual.tarjeta.fotos = actual.tarjeta.fotos.filter((f) => f.src !== fotoABorrar);
-    fotoIdx = Math.min(fotoIdx, actual.fotos.length - 1);
-    pintarFoto();
-    $("dlg-borrar").close();
-  } catch (err) {
-    if (err.message === "token") {
-      try { localStorage.removeItem(CLAVE_TOKEN); } catch { /* nada */ }
-      $("borrar-bloque-token").hidden = false;
-      error("GitHub no acepta el token (¿caducado o sin permiso?). Pega uno nuevo.");
-    } else {
-      error("No se ha podido conectar con GitHub. Prueba otra vez con conexión.");
-    }
-  } finally {
-    $("borrar-ok").disabled = false;
-    $("borrar-ok").textContent = "Borrar para siempre";
-  }
-});
 
 // ---------- Contraseña de entrada ----------
 // Solo una barrera sencilla: los archivos de la web siguen siendo públicos.

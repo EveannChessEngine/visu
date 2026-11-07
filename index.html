@@ -93,27 +93,6 @@
   </section>
 </main>
 
-<dialog id="dlg-borrar" class="dlg">
-  <form id="form-borrar">
-    <h2>¿Borrar esta foto para siempre?</h2>
-    <img id="borrar-foto" class="dlg-foto" alt="Foto que se va a borrar">
-    <p class="tenue">Dejará de salir en todos tus dispositivos (tarda un par de minutos en aplicarse en los demás).</p>
-    <label>Contraseña
-      <input id="borrar-clave" type="password" autocomplete="current-password">
-    </label>
-    <div id="borrar-bloque-token" hidden>
-      <label>Token de GitHub (solo la primera vez en este dispositivo)
-        <input id="borrar-token" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…">
-      </label>
-    </div>
-    <p id="borrar-error" class="clave-error" hidden></p>
-    <div class="acciones">
-      <button type="button" id="borrar-cancelar" class="btn-secundario">Cancelar</button>
-      <button type="submit" id="borrar-ok" class="btn-principal btn-peligro">Borrar para siempre</button>
-    </div>
-  </form>
-</dialog>
-
 <script src="app.js"></script>
 </body>
 </html>
