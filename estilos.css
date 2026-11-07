@@ -153,6 +153,21 @@ form input.ko { border-color: var(--mal); background: var(--mal-fondo); }
 .rasgos li { margin: 4px 0; }
 
 .form-clave { margin-top: 12vh; }
+
+.dlg {
+  width: min(480px, calc(100vw - 32px)); max-height: calc(100dvh - 32px);
+  border: 1px solid var(--borde); border-radius: var(--radio);
+  background: var(--superficie); color: var(--texto); padding: 16px;
+}
+.dlg::backdrop { background: rgba(0, 0, 0, .55); }
+.dlg h2 { margin-top: 0; }
+.dlg-foto { width: 100%; max-height: 28dvh; object-fit: contain; background: #fff; border-radius: 8px; }
+.dlg label { display: block; font-size: .9rem; color: var(--tenue); margin-top: 10px; }
+.dlg input {
+  display: block; width: 100%; margin-top: 4px; font-size: 1.05rem; padding: 12px 14px;
+  border-radius: 10px; border: 1px solid var(--borde); background: var(--fondo); color: var(--texto);
+}
+.btn-peligro { background: var(--mal); color: #fff; }
 .clave-error { color: var(--mal); margin: 8px 0 0; }
 
 .fin-texto { font-size: 1.1rem; }
