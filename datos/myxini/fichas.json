@@ -1,0 +1,68 @@
+{
+ "id": "myxini",
+ "clase": "Myxini",
+ "sinonimos_clase": [
+  "Myxini",
+  "Mixinos",
+  "Mixines",
+  "Myxinos",
+  "Mixini"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "myxine-glutinosa",
+   "comun": "Mixino / Pez babosa",
+   "alternativos": [
+    "Mixino",
+    "Pez babosa"
+   ],
+   "cientifico": "Myxine glutinosa",
+   "orden": "Myxiniformes",
+   "familia": "Myxinidae",
+   "rasgos": [
+    "Ausencia total de mandíbulas, escamas y aletas pares.",
+    "Boca rodeada por 6 tentáculos o barbillones sensoriales.",
+    "Presencia de una sola abertura nasal terminal y ojos vestigiales.",
+    "Glándulas de mucosidad a lo largo del cuerpo capaces de segregar ingentes cantidades de baba diagnóstica.",
+    "Esqueleto cartilaginoso primitivo; carece de verdaderas vértebras (solo cráneo)."
+   ],
+   "imagenes": [
+    "img/myxine-glutinosa_1.jpg",
+    "img/myxine-glutinosa_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/myxine-glutinosa_1.jpg",
+     "autor": "Sergio Garrido Villa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269143403"
+    },
+    {
+     "src": "web/myxine-glutinosa_2.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/184600136"
+    },
+    {
+     "src": "web/myxine-glutinosa_3.jpg",
+     "autor": "Paco Cardenas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/256502118"
+    },
+    {
+     "src": "web/myxine-glutinosa_4.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/107887329"
+    },
+    {
+     "src": "web/myxine-glutinosa_5.jpg",
+     "autor": "Eresus",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/405303829"
+    }
+   ]
+  }
+ ]
+}

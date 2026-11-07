@@ -1,16 +1,46 @@
 {
  "clases": [
   {
+   "id": "amphibia",
+   "clase": "Amphibia",
+   "grupo": "Cordados",
+   "total": 21
+  },
+  {
    "id": "ascidiacea",
    "clase": "Ascidiacea",
    "grupo": "Cordados",
    "total": 4
   },
   {
+   "id": "condrictios",
+   "clase": "Condrictios",
+   "grupo": "Cordados",
+   "total": 8
+  },
+  {
+   "id": "leptocardii",
+   "clase": "Leptocardii",
+   "grupo": "Cordados",
+   "total": 1
+  },
+  {
+   "id": "myxini",
+   "clase": "Myxini",
+   "grupo": "Cordados",
+   "total": 1
+  },
+  {
    "id": "osteoicteos",
    "clase": "Osteíctios",
    "grupo": "Cordados",
    "total": 31
+  },
+  {
+   "id": "petromizontes",
+   "clase": "Petromizontes",
+   "grupo": "Cordados",
+   "total": 2
   },
   {
    "id": "thaliacea",

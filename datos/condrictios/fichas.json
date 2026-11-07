@@ -1,0 +1,558 @@
+{
+ "id": "condrictios",
+ "clase": "Condrictios",
+ "sinonimos_clase": [
+  "Condrictios",
+  "Chondrichthyes",
+  "Condríctios",
+  "Peces cartilaginosos"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "prionace-glauca",
+   "comun": "Tintorera / Tiburón azul",
+   "alternativos": [
+    "Tintorera",
+    "Tiburón azul"
+   ],
+   "cientifico": "Prionace glauca",
+   "orden": "Carcharhiniformes",
+   "familia": "Carcharhinidae",
+   "rasgos": [
+    "Cuerpo muy estilizado con dorso de color azul índigo intenso.",
+    "Aletas pectorales muy largas y estrechas.",
+    "Hocico cónico y alargado; ojos grandes y redondos.",
+    "Tiburón oceánico muy frecuente en el Mediterráneo español."
+   ],
+   "imagenes": [
+    "img/prionace-glauca_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/prionace-glauca_1.jpg",
+     "autor": "Paulo Martins",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/54181981"
+    },
+    {
+     "src": "web/prionace-glauca_2.jpg",
+     "autor": "Diogo Matias",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/292011503"
+    },
+    {
+     "src": "web/prionace-glauca_3.jpg",
+     "autor": "Vítor Jorge",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/106913784"
+    },
+    {
+     "src": "web/prionace-glauca_4.jpg",
+     "autor": "Alidz31",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/361933322"
+    },
+    {
+     "src": "web/prionace-glauca_5.jpg",
+     "autor": "Aiken Lau",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/295177147"
+    },
+    {
+     "src": "web/prionace-glauca_6.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/390392095"
+    },
+    {
+     "src": "web/prionace-glauca_7.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/236498356"
+    },
+    {
+     "src": "web/prionace-glauca_8.jpg",
+     "autor": "Sophia Slater",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/252431432"
+    }
+   ]
+  },
+  {
+   "id": "carcharhinus-plumbeus",
+   "comun": "Tiburón trozo / Tiburón plomo",
+   "alternativos": [
+    "Tiburón trozo",
+    "Tiburón plomo"
+   ],
+   "cientifico": "Carcharhinus plumbeus",
+   "orden": "Carcharhiniformes",
+   "familia": "Carcharhinidae",
+   "rasgos": [
+    "Primera aleta dorsal inusualmente alta, grande y de base ancha.",
+    "El origen de la primera dorsal se sitúa directamente sobre la base de las pectorales.",
+    "Presencia de una cresta dérmica inter-dorsal longitudinal bien definida.",
+    "Hocico corto y redondeado; coloración gris-azulada uniforme."
+   ],
+   "imagenes": [
+    "img/carcharhinus-plumbeus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/carcharhinus-plumbeus_1.jpg",
+     "autor": "biodiversitygr",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/19685498"
+    },
+    {
+     "src": "web/carcharhinus-plumbeus_2.jpg",
+     "autor": "Karen McCabe",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/87069841"
+    },
+    {
+     "src": "web/carcharhinus-plumbeus_3.jpg",
+     "autor": "James-LaFontaine",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/383496453"
+    },
+    {
+     "src": "web/carcharhinus-plumbeus_4.jpg",
+     "autor": "kcthetc1",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/56628110"
+    },
+    {
+     "src": "web/carcharhinus-plumbeus_5.jpg",
+     "autor": "EJ Burns",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/151799756"
+    },
+    {
+     "src": "web/carcharhinus-plumbeus_6.jpg",
+     "autor": "biodiversitygr",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/35406709"
+    },
+    {
+     "src": "web/carcharhinus-plumbeus_7.jpg",
+     "autor": "Haley Daniels",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/96840933"
+    },
+    {
+     "src": "web/carcharhinus-plumbeus_8.jpg",
+     "autor": "portulaca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/166696925"
+    }
+   ]
+  },
+  {
+   "id": "galeorhinus-galeus",
+   "comun": "Cazón / Tope",
+   "alternativos": [
+    "Cazón",
+    "Tope"
+   ],
+   "cientifico": "Galeorhinus galeus",
+   "orden": "Carcharhiniformes",
+   "familia": "Triakidae",
+   "rasgos": [
+    "Cuerpo esbelto con hocico largo, puntiagudo y ligeramente translúcido.",
+    "Aleta anal de tamaño similar a la segunda aleta dorsal.",
+    "Lobo terminal de la aleta caudal muy grande y marcadamente lobulado.",
+    "Ojos ovalados con membrana nictitante; dientes pequeños y aserrados oblicuamente."
+   ],
+   "imagenes": [
+    "img/galeorhinus-galeus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/galeorhinus-galeus_1.jpg",
+     "autor": "Robert Briggs",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/124052549"
+    },
+    {
+     "src": "web/galeorhinus-galeus_2.jpg",
+     "autor": "Zara",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/152329626"
+    },
+    {
+     "src": "web/galeorhinus-galeus_3.jpg",
+     "autor": "Caroline Voget",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/15358071"
+    },
+    {
+     "src": "web/galeorhinus-galeus_4.jpg",
+     "autor": "Charles Swift",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/377046970"
+    },
+    {
+     "src": "web/galeorhinus-galeus_5.jpg",
+     "autor": "Mark Anderson",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/120454986"
+    },
+    {
+     "src": "web/galeorhinus-galeus_6.jpg",
+     "autor": "Arnim Littek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/352557494"
+    },
+    {
+     "src": "web/galeorhinus-galeus_7.jpg",
+     "autor": "Oscar Dove",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/88920390"
+    },
+    {
+     "src": "web/galeorhinus-galeus_8.jpg",
+     "autor": "Arnim Littek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/356310720"
+    }
+   ]
+  },
+  {
+   "id": "isurus-oxyrinchus",
+   "comun": "Marrajo",
+   "alternativos": [],
+   "cientifico": "Isurus oxyrinchus",
+   "orden": "Lamniformes",
+   "familia": "Lamnidae",
+   "rasgos": [
+    "Cuerpo fusiforme robusto; el tiburón más veloz del mundo.",
+    "Hocico puntiagudo y dientes finos, curvados y sin serrar.",
+    "Hendiduras branquiales muy largas que llegan al dorso.",
+    "Cola en forma de media luna casi simétrica."
+   ],
+   "imagenes": [
+    "img/isurus-oxyrinchus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/isurus-oxyrinchus_1.jpg",
+     "autor": "Fábio Olmos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/47062579"
+    },
+    {
+     "src": "web/isurus-oxyrinchus_2.jpg",
+     "autor": "Michel Frisch",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/39111441"
+    },
+    {
+     "src": "web/isurus-oxyrinchus_3.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/390405636"
+    },
+    {
+     "src": "web/isurus-oxyrinchus_4.jpg",
+     "autor": "biodiversitygr",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/19713072"
+    },
+    {
+     "src": "web/isurus-oxyrinchus_5.jpg",
+     "autor": "Elias Freyhof",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/261830924"
+    },
+    {
+     "src": "web/isurus-oxyrinchus_6.jpg",
+     "autor": "Russ Namitz",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/32416425"
+    },
+    {
+     "src": "web/isurus-oxyrinchus_7.jpg",
+     "autor": "Bill Levine",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/243727253"
+    },
+    {
+     "src": "web/isurus-oxyrinchus_8.jpg",
+     "autor": "Arnim Littek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/191137540"
+    }
+   ]
+  },
+  {
+   "id": "scyliorhinus-canicula",
+   "comun": "Pintarroja",
+   "alternativos": [],
+   "cientifico": "Scyliorhinus canicula",
+   "orden": "Carcharhiniformes",
+   "familia": "Scyliorhinidae",
+   "rasgos": [
+    "Tiburón pequeño con piel rugosa moteada de manchas oscuras.",
+    "Válvulas nasales unidas formando un velo nasal continuo.",
+    "Aletas dorsales muy retrasadas, detrás de las pélvicas.",
+    "Es el tiburón más abundante en los mercados españoles."
+   ],
+   "imagenes": [
+    "img/scyliorhinus-canicula_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/scyliorhinus-canicula_1.jpg",
+     "autor": "Petr Knotek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/153161544"
+    },
+    {
+     "src": "web/scyliorhinus-canicula_2.jpg",
+     "autor": "Aaron Chidwick",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/200374594"
+    },
+    {
+     "src": "web/scyliorhinus-canicula_3.jpg",
+     "autor": "Simon Colenutt",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/236124309"
+    },
+    {
+     "src": "web/scyliorhinus-canicula_4.jpg",
+     "autor": "Eli",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/206055302"
+    },
+    {
+     "src": "web/scyliorhinus-canicula_5.jpg",
+     "autor": "Libby Keatley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/227063368"
+    },
+    {
+     "src": "web/scyliorhinus-canicula_6.jpg",
+     "autor": "celticdeep",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/250685873"
+    },
+    {
+     "src": "web/scyliorhinus-canicula_7.jpg",
+     "autor": "Lukas",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/359888765"
+    },
+    {
+     "src": "web/scyliorhinus-canicula_8.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/19716061"
+    }
+   ]
+  },
+  {
+   "id": "dasyatis-pastinaca",
+   "comun": "Raya látigo",
+   "alternativos": [],
+   "cientifico": "Dasyatis pastinaca",
+   "orden": "Myliobatiformes",
+   "familia": "Dasyatidae",
+   "rasgos": [
+    "Disco romboidal con bordes anteriores rectos.",
+    "Cola en forma de látigo provista de un aguijón venenoso aserrado.",
+    "Carece de aleta caudal y de aguijones en el disco dorsales.",
+    "Piel lisa de color gris-oliváceo uniforme."
+   ],
+   "imagenes": [
+    "img/dasyatis-pastinaca_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/dasyatis-pastinaca_1.jpg",
+     "autor": "shahar chaikin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/139567869"
+    },
+    {
+     "src": "web/dasyatis-pastinaca_2.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/318907556"
+    },
+    {
+     "src": "web/dasyatis-pastinaca_3.jpg",
+     "autor": "jeyre",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/82296600"
+    },
+    {
+     "src": "web/dasyatis-pastinaca_4.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/63520799"
+    },
+    {
+     "src": "web/dasyatis-pastinaca_5.jpg",
+     "autor": "Adi Peter",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/399304553"
+    },
+    {
+     "src": "web/dasyatis-pastinaca_6.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/393208665"
+    },
+    {
+     "src": "web/dasyatis-pastinaca_7.jpg",
+     "autor": "jeyre",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/82676274"
+    },
+    {
+     "src": "web/dasyatis-pastinaca_8.jpg",
+     "autor": "Xavier Mas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/391521332"
+    }
+   ]
+  },
+  {
+   "id": "raja-clavata",
+   "comun": "Raya de clavos",
+   "alternativos": [],
+   "cientifico": "Raja clavata",
+   "orden": "Rajiformes",
+   "familia": "Rajidae",
+   "rasgos": [
+    "Superficie dorsal cubierta de tubérculos óseos con espinas (clavos).",
+    "Hocico corto y obtuso; disco con bordes angulosos.",
+    "Fila media de espinas que recorre todo el dorso hasta la cola.",
+    "Coloración parda jaspeada de manchas claras y oscuras."
+   ],
+   "imagenes": [
+    "img/raja-clavata_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/raja-clavata_1.jpg",
+     "autor": "Stephen James McWilliam",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/72429837"
+    },
+    {
+     "src": "web/raja-clavata_2.jpg",
+     "autor": "chloe ⋆˚꩜｡",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/64407391"
+    },
+    {
+     "src": "web/raja-clavata_3.jpg",
+     "autor": "Stephen James McWilliam",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/146565107"
+    },
+    {
+     "src": "web/raja-clavata_4.jpg",
+     "autor": "Ella McCausland",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/191701741"
+    },
+    {
+     "src": "web/raja-clavata_5.jpg",
+     "autor": "Susan Marley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/96135693"
+    },
+    {
+     "src": "web/raja-clavata_6.jpg",
+     "autor": "Dave Shenton",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/253399172"
+    },
+    {
+     "src": "web/raja-clavata_7.jpg",
+     "autor": "Kathryn J. Fegan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/353523305"
+    },
+    {
+     "src": "web/raja-clavata_8.jpg",
+     "autor": "Richard Shirky",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/347274793"
+    }
+   ]
+  },
+  {
+   "id": "torpedo-marmorata",
+   "comun": "Tembladera",
+   "alternativos": [],
+   "cientifico": "Torpedo marmorata",
+   "orden": "Torpediniformes",
+   "familia": "Torpedinidae",
+   "rasgos": [
+    "Disco de forma casi circular y tacto blando.",
+    "Órganos eléctricos laterales capaces de producir descargas.",
+    "Coloración jaspeada similar al mármol pardo.",
+    "Cola corta y robusta con aleta caudal bien desarrollada."
+   ],
+   "imagenes": [
+    "img/torpedo-marmorata_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/torpedo-marmorata_1.jpg",
+     "autor": "Nathan Mesnildrey",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/73190861"
+    },
+    {
+     "src": "web/torpedo-marmorata_2.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/255705116"
+    },
+    {
+     "src": "web/torpedo-marmorata_3.jpg",
+     "autor": "Juraj Ahel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/182378651"
+    },
+    {
+     "src": "web/torpedo-marmorata_4.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/24442980"
+    },
+    {
+     "src": "web/torpedo-marmorata_5.jpg",
+     "autor": "Lasse R",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/303932133"
+    },
+    {
+     "src": "web/torpedo-marmorata_6.jpg",
+     "autor": "Michael Bommerer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/197164060"
+    },
+    {
+     "src": "web/torpedo-marmorata_7.jpg",
+     "autor": "Daniel Benák",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/171104837"
+    },
+    {
+     "src": "web/torpedo-marmorata_8.jpg",
+     "autor": "bogsuckers",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/33764704"
+    }
+   ]
+  }
+ ]
+}

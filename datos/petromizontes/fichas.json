@@ -1,0 +1,153 @@
+{
+ "id": "petromizontes",
+ "clase": "Petromizontes",
+ "sinonimos_clase": [
+  "Petromizontes",
+  "Petromyzonti",
+  "Petromyzontida",
+  "Petromizóntidos",
+  "Petromizontidos",
+  "Lampreas"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "lampetra-fluviatilis",
+   "comun": "Lamprea de río",
+   "alternativos": [],
+   "cientifico": "Lampetra fluviatilis",
+   "orden": "Petromyzontiformes",
+   "familia": "Petromyzontidae",
+   "rasgos": [
+    "Disco oral con dientes córneos menos numerosos que la marina.",
+    "Aletas dorsales claramente separadas por un espacio.",
+    "Coloración uniforme grisácea.",
+    "Siete orificios branquiales externos a cada lado tras el ojo."
+   ],
+   "imagenes": [
+    "img/lampetra-fluviatilis_1.jpg",
+    "img/lampetra-fluviatilis_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/lampetra-fluviatilis_1.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/48940591"
+    },
+    {
+     "src": "web/lampetra-fluviatilis_2.jpg",
+     "autor": "Елена Астахова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231771298"
+    },
+    {
+     "src": "web/lampetra-fluviatilis_3.jpg",
+     "autor": "Елена Астахова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/300223755"
+    },
+    {
+     "src": "web/lampetra-fluviatilis_4.jpg",
+     "autor": "Andre Hosper",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/15532685"
+    },
+    {
+     "src": "web/lampetra-fluviatilis_5.jpg",
+     "autor": "Aurelijus Narbutas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/358602975"
+    },
+    {
+     "src": "web/lampetra-fluviatilis_6.jpg",
+     "autor": "Yuri",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/24722923"
+    },
+    {
+     "src": "web/lampetra-fluviatilis_7.jpg",
+     "autor": "Елена Астахова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231770936"
+    },
+    {
+     "src": "web/lampetra-fluviatilis_8.jpg",
+     "autor": "North Ross",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/368993067"
+    }
+   ]
+  },
+  {
+   "id": "petromyzon-marinus",
+   "comun": "Lamprea marina",
+   "alternativos": [
+    "Lamprea de mar"
+   ],
+   "cientifico": "Petromyzon marinus",
+   "orden": "Petromyzontiformes",
+   "familia": "Petromyzontidae",
+   "rasgos": [
+    "Gran disco bucal succionador erizado de dientes córneos circulares.",
+    "Cuerpo serpentiforme jaspeado de manchas oscuras.",
+    "Aletas dorsales contiguas, casi unidas en la base.",
+    "Parásito externo de grandes peces y mamíferos marinos."
+   ],
+   "imagenes": [
+    "img/petromyzon-marinus_1.jpg",
+    "img/petromyzon-marinus_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/petromyzon-marinus_1.jpg",
+     "autor": "Raffaele Maiorano",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/116319148"
+    },
+    {
+     "src": "web/petromyzon-marinus_2.jpg",
+     "autor": "Ian Murdoch",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/243200258"
+    },
+    {
+     "src": "web/petromyzon-marinus_3.jpg",
+     "autor": "Ian Manning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68579512"
+    },
+    {
+     "src": "web/petromyzon-marinus_4.jpg",
+     "autor": "son_of_wasps",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/374413092"
+    },
+    {
+     "src": "web/petromyzon-marinus_5.jpg",
+     "autor": "Jill DeVito, PhD",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/165189560"
+    },
+    {
+     "src": "web/petromyzon-marinus_6.jpg",
+     "autor": "Jill DeVito, PhD",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/135655931"
+    },
+    {
+     "src": "web/petromyzon-marinus_7.jpg",
+     "autor": "Abby Ciona",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/250200459"
+    },
+    {
+     "src": "web/petromyzon-marinus_8.jpg",
+     "autor": "Kathleen Houlahan Chayer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/220472527"
+    }
+   ]
+  }
+ ]
+}

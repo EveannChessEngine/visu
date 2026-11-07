@@ -1,0 +1,1411 @@
+{
+ "id": "amphibia",
+ "clase": "Amphibia",
+ "sinonimos_clase": [
+  "Amphibia",
+  "Anfibios",
+  "Anfibia",
+  "Amfibios"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "chioglossa-lusitanica",
+   "comun": "Salamandra rabilarga",
+   "alternativos": [],
+   "cientifico": "Chioglossa lusitanica",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Cuerpo extremadamente esbelto y alargado.",
+    "Cola que mide más del doble que el resto del cuerpo.",
+    "Dos bandas doradas longitudinales que convergen en la base de la cola.",
+    "Gran capacidad de autotomía caudal (pierde la cola fácilmente)."
+   ],
+   "imagenes": [
+    "img/chioglossa-lusitanica_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/chioglossa-lusitanica_1.jpg",
+     "autor": "Daniel Castanhal García",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/220255187"
+    },
+    {
+     "src": "web/chioglossa-lusitanica_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/203976731"
+    },
+    {
+     "src": "web/chioglossa-lusitanica_3.jpg",
+     "autor": "Martiño Cabana Otero",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/162764353"
+    },
+    {
+     "src": "web/chioglossa-lusitanica_4.jpg",
+     "autor": "anasacuta",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/43906241"
+    },
+    {
+     "src": "web/chioglossa-lusitanica_5.jpg",
+     "autor": "Free Palestine",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144918248"
+    },
+    {
+     "src": "web/chioglossa-lusitanica_6.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/32068479"
+    },
+    {
+     "src": "web/chioglossa-lusitanica_7.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/216416586"
+    },
+    {
+     "src": "web/chioglossa-lusitanica_8.jpg",
+     "autor": "Carminda Santos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/324553083"
+    }
+   ]
+  },
+  {
+   "id": "salamandra-salamandra",
+   "comun": "Salamandra común",
+   "alternativos": [
+    "Salamandra"
+   ],
+   "cientifico": "Salamandra salamandra",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Diseño de fondo negro con manchas o bandas amarillas muy vivas.",
+    "Glándulas parótidas muy visibles detrás de los ojos.",
+    "Cuerpo robusto y piel brillante.",
+    "Especie terrestre que solo acude al agua para depositar larvas."
+   ],
+   "imagenes": [
+    "img/salamandra-salamandra_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/salamandra-salamandra_1.jpg",
+     "autor": "carnifex",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/110282789"
+    },
+    {
+     "src": "web/salamandra-salamandra_2.jpg",
+     "autor": "Cesare Sandri",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/375355030"
+    },
+    {
+     "src": "web/salamandra-salamandra_3.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/327398018"
+    },
+    {
+     "src": "web/salamandra-salamandra_4.jpg",
+     "autor": "Harukano",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/271825146"
+    },
+    {
+     "src": "web/salamandra-salamandra_5.jpg",
+     "autor": "Lorenzo Emanuele Labate",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/184734752"
+    },
+    {
+     "src": "web/salamandra-salamandra_6.jpg",
+     "autor": "Lars Willighagen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/52744946"
+    },
+    {
+     "src": "web/salamandra-salamandra_7.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231355893"
+    },
+    {
+     "src": "web/salamandra-salamandra_8.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/333461915"
+    }
+   ]
+  },
+  {
+   "id": "calotriton-asper",
+   "comun": "Tritón pirenaico",
+   "alternativos": [],
+   "cientifico": "Calotriton asper",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Piel muy rugosa y granulosa, de aspecto \"coriáceo\".",
+    "Coloración parda, grisácea u olivácea, a veces con línea dorsal amarilla.",
+    "Cabeza muy deprimida y carece de cresta dorsal."
+   ],
+   "imagenes": [
+    "img/calotriton-asper_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/calotriton-asper_1.jpg",
+     "autor": "Jakob Horz",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/218520661"
+    },
+    {
+     "src": "web/calotriton-asper_2.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238405249"
+    },
+    {
+     "src": "web/calotriton-asper_3.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/393286266"
+    },
+    {
+     "src": "web/calotriton-asper_4.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/125362138"
+    },
+    {
+     "src": "web/calotriton-asper_5.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/125362010"
+    },
+    {
+     "src": "web/calotriton-asper_6.jpg",
+     "autor": "Robin Schmidt",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/220675611"
+    },
+    {
+     "src": "web/calotriton-asper_7.jpg",
+     "autor": "Marc Riera",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/230936021"
+    },
+    {
+     "src": "web/calotriton-asper_8.jpg",
+     "autor": "Andreas Schneider",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/99720765"
+    }
+   ]
+  },
+  {
+   "id": "pleurodeles-waltl",
+   "comun": "Gallipato",
+   "alternativos": [],
+   "cientifico": "Pleurodeles waltl",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "El anfibio urodelo más grande de Europa (hasta 30 cm).",
+    "Puntos anaranjados laterales que corresponden a los extremos de las costillas.",
+    "Cabeza muy ancha y aplastada.",
+    "Cola comprimida lateralmente en toda su longitud."
+   ],
+   "imagenes": [
+    "img/pleurodeles-waltl_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/pleurodeles-waltl_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254402726"
+    },
+    {
+     "src": "web/pleurodeles-waltl_2.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/282986393"
+    },
+    {
+     "src": "web/pleurodeles-waltl_3.jpg",
+     "autor": "Paulo Martins",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/288320994"
+    },
+    {
+     "src": "web/pleurodeles-waltl_4.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/14179202"
+    },
+    {
+     "src": "web/pleurodeles-waltl_5.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/340788821"
+    },
+    {
+     "src": "web/pleurodeles-waltl_6.jpg",
+     "autor": "Pedo Reis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/88752278"
+    },
+    {
+     "src": "web/pleurodeles-waltl_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/358269446"
+    },
+    {
+     "src": "web/pleurodeles-waltl_8.jpg",
+     "autor": "Pedro Eça",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/191944295"
+    }
+   ]
+  },
+  {
+   "id": "ichthyosaura-alpestris",
+   "comun": "Tritón alpino",
+   "alternativos": [],
+   "cientifico": "Ichthyosaura alpestris",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Vientre de color naranja intenso o rojo, sin manchas.",
+    "Dorso gris azulado o azulado (especialmente machos en celo).",
+    "Machos con cresta baja, blanca con manchas negras.",
+    "Costados moteados de blanco y azul."
+   ],
+   "imagenes": [
+    "img/ichthyosaura-alpestris_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/ichthyosaura-alpestris_1.jpg",
+     "autor": "Daniel Linzbauer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/88040181"
+    },
+    {
+     "src": "web/ichthyosaura-alpestris_2.jpg",
+     "autor": "Kostas Zontanos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/226767403"
+    },
+    {
+     "src": "web/ichthyosaura-alpestris_3.jpg",
+     "autor": "Tobias",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238931096"
+    },
+    {
+     "src": "web/ichthyosaura-alpestris_4.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/92767924"
+    },
+    {
+     "src": "web/ichthyosaura-alpestris_5.jpg",
+     "autor": "Dan",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/379327853"
+    },
+    {
+     "src": "web/ichthyosaura-alpestris_6.jpg",
+     "autor": "Saskia",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/170322710"
+    },
+    {
+     "src": "web/ichthyosaura-alpestris_7.jpg",
+     "autor": "Kostas Zontanos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/226506101"
+    },
+    {
+     "src": "web/ichthyosaura-alpestris_8.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/199263599"
+    }
+   ]
+  },
+  {
+   "id": "lissotriton-boscai",
+   "comun": "Tritón ibérico",
+   "alternativos": [],
+   "cientifico": "Lissotriton boscai",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Tamaño pequeño y cuerpo de sección cuadrangular.",
+    "Vientre naranja o amarillento con motas negras en los bordes.",
+    "Surco longitudinal en el centro del dorso.",
+    "Garganta del mismo color que el vientre, a diferencia del palmeado."
+   ],
+   "imagenes": [
+    "img/lissotriton-boscai_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/lissotriton-boscai_1.jpg",
+     "autor": "Juan Rodríguez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265607469"
+    },
+    {
+     "src": "web/lissotriton-boscai_2.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269167899"
+    },
+    {
+     "src": "web/lissotriton-boscai_3.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/50918651"
+    },
+    {
+     "src": "web/lissotriton-boscai_4.jpg",
+     "autor": "Carminda Santos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/351163931"
+    },
+    {
+     "src": "web/lissotriton-boscai_5.jpg",
+     "autor": "Isabel Silva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/373612035"
+    },
+    {
+     "src": "web/lissotriton-boscai_6.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/260803238"
+    },
+    {
+     "src": "web/lissotriton-boscai_7.jpg",
+     "autor": "Carminda Santos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/166974664"
+    },
+    {
+     "src": "web/lissotriton-boscai_8.jpg",
+     "autor": "Samuel Ramón Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/292438480"
+    }
+   ]
+  },
+  {
+   "id": "lissotriton-helveticus",
+   "comun": "Tritón palmeado",
+   "alternativos": [],
+   "cientifico": "Lissotriton helveticus",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Machos con pies posteriores palmeados (membranas negras).",
+    "Cola que termina en un filamento corto en los machos.",
+    "Garganta blanca o rosada, generalmente sin manchas.",
+    "Dorso pardo u oliváceo con dos líneas longitudinales claras."
+   ],
+   "imagenes": [
+    "img/lissotriton-helveticus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/lissotriton-helveticus_1.jpg",
+     "autor": "Ludivine Lamare",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189222052"
+    },
+    {
+     "src": "web/lissotriton-helveticus_2.jpg",
+     "autor": "Collège Berthelot",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/251686020"
+    },
+    {
+     "src": "web/lissotriton-helveticus_3.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/306081223"
+    },
+    {
+     "src": "web/lissotriton-helveticus_4.jpg",
+     "autor": "eloise kerroux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/148862711"
+    },
+    {
+     "src": "web/lissotriton-helveticus_5.jpg",
+     "autor": "nenp_pannalprimary",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/375220538"
+    },
+    {
+     "src": "web/lissotriton-helveticus_6.jpg",
+     "autor": "nenp_pannalprimary",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/375223634"
+    },
+    {
+     "src": "web/lissotriton-helveticus_7.jpg",
+     "autor": "plant512",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/169187053"
+    },
+    {
+     "src": "web/lissotriton-helveticus_8.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238405245"
+    }
+   ]
+  },
+  {
+   "id": "triturus-marmoratus",
+   "comun": "Tritón jaspeado",
+   "alternativos": [],
+   "cientifico": "Triturus marmoratus",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Coloración verde brillante con jaspeado negro muy marcado.",
+    "Línea dorsal naranja muy llamativa (hembras y juveniles).",
+    "Machos con gran cresta dorsal y caudal alta en celo.",
+    "Vientre oscuro con pequeños puntos blancos.",
+    "Nota: más rechoncho que el pigmeo; las manchas oscuras se funden."
+   ],
+   "imagenes": [
+    "img/triturus-marmoratus_1.jpg",
+    "img/triturus-marmoratus_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/triturus-marmoratus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/183958768"
+    },
+    {
+     "src": "web/triturus-marmoratus_2.jpg",
+     "autor": "Bruno Peixoto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/208876822"
+    },
+    {
+     "src": "web/triturus-marmoratus_3.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/101034306"
+    },
+    {
+     "src": "web/triturus-marmoratus_4.jpg",
+     "autor": "Roland Godon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/64471997"
+    },
+    {
+     "src": "web/triturus-marmoratus_5.jpg",
+     "autor": "Nuno Fialho",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/142705912"
+    },
+    {
+     "src": "web/triturus-marmoratus_6.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254411729"
+    },
+    {
+     "src": "web/triturus-marmoratus_7.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231402879"
+    },
+    {
+     "src": "web/triturus-marmoratus_8.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/260511555"
+    }
+   ]
+  },
+  {
+   "id": "triturus-pygmaeus",
+   "comun": "Tritón pigmeo",
+   "alternativos": [],
+   "cientifico": "Triturus pygmaeus",
+   "orden": "Urodela",
+   "familia": "Salamandridae",
+   "rasgos": [
+    "Muy similar al jaspeado pero de menor tamaño.",
+    "Distribución limitada al centro y sur de la península.",
+    "Vientre más claro (blanquecino o amarillento) que el marmoratus.",
+    "Jaspeado negro sobre fondo verde menos intenso.",
+    "Nota: más esbelto; las manchas negras no se unen."
+   ],
+   "imagenes": [
+    "img/triturus-pygmaeus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/triturus-pygmaeus_1.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/101034306"
+    },
+    {
+     "src": "web/triturus-pygmaeus_2.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231402879"
+    },
+    {
+     "src": "web/triturus-pygmaeus_3.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/260511555"
+    },
+    {
+     "src": "web/triturus-pygmaeus_4.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/184556709"
+    },
+    {
+     "src": "web/triturus-pygmaeus_5.jpg",
+     "autor": "BJ Smit",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/203584196"
+    },
+    {
+     "src": "web/triturus-pygmaeus_6.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/184556712"
+    },
+    {
+     "src": "web/triturus-pygmaeus_7.jpg",
+     "autor": "Borja Fierro-Leva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/326699454"
+    },
+    {
+     "src": "web/triturus-pygmaeus_8.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/153617113"
+    }
+   ]
+  },
+  {
+   "id": "alytes-obstetricans",
+   "comun": "Sapo partero común",
+   "alternativos": [
+    "Sapo partero"
+   ],
+   "cientifico": "Alytes obstetricans",
+   "orden": "Anura",
+   "familia": "Alytidae",
+   "rasgos": [
+    "Pupila vertical y glándula parótida poco visible.",
+    "Tercer tubérculo metacarpiano presente en la mano.",
+    "Macho carga con los huevos enrollados en sus patas traseras."
+   ],
+   "imagenes": [
+    "img/alytes-obstetricans_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/alytes-obstetricans_1.jpg",
+     "autor": "Matteo Bellucci",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/310806878"
+    },
+    {
+     "src": "web/alytes-obstetricans_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/219657798"
+    },
+    {
+     "src": "web/alytes-obstetricans_3.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/249779365"
+    },
+    {
+     "src": "web/alytes-obstetricans_4.jpg",
+     "autor": "L. Miles Horne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/161035722"
+    },
+    {
+     "src": "web/alytes-obstetricans_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189241084"
+    },
+    {
+     "src": "web/alytes-obstetricans_6.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/387138760"
+    },
+    {
+     "src": "web/alytes-obstetricans_7.jpg",
+     "autor": "Valentin Moser",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/145294044"
+    },
+    {
+     "src": "web/alytes-obstetricans_8.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/401615770"
+    }
+   ]
+  },
+  {
+   "id": "discoglossus-pictus",
+   "comun": "Sapillo mediterráneo",
+   "alternativos": [],
+   "cientifico": "Discoglossus pictus",
+   "orden": "Anura",
+   "familia": "Alytidae",
+   "rasgos": [
+    "Introducido en el NE de la Península (Gerona).",
+    "Más robusto que el ibérico y con el hocico más redondeado.",
+    "Presenta tres tipos de diseño (pintojo, bandeado o uniforme).",
+    "Nota: Discoglossus = lengua en disco; pictus = pintado."
+   ],
+   "imagenes": [
+    "img/discoglossus-pictus_1.jpg",
+    "img/discoglossus-pictus_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/discoglossus-pictus_1.jpg",
+     "autor": "Thomas Koffel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/4044771"
+    },
+    {
+     "src": "web/discoglossus-pictus_2.jpg",
+     "autor": "eloise kerroux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/335858363"
+    },
+    {
+     "src": "web/discoglossus-pictus_3.jpg",
+     "autor": "Franck Cabot",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/150051481"
+    },
+    {
+     "src": "web/discoglossus-pictus_4.jpg",
+     "autor": "Riccardo Rocca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/126046438"
+    },
+    {
+     "src": "web/discoglossus-pictus_5.jpg",
+     "autor": "eloise kerroux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/136204412"
+    },
+    {
+     "src": "web/discoglossus-pictus_6.jpg",
+     "autor": "Philip Schaffer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204392791"
+    },
+    {
+     "src": "web/discoglossus-pictus_7.jpg",
+     "autor": "Leonardo Rapisarda",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/202256889"
+    },
+    {
+     "src": "web/discoglossus-pictus_8.jpg",
+     "autor": "Jean Jacques Godon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/44716090"
+    }
+   ]
+  },
+  {
+   "id": "pelobates-cultripes",
+   "comun": "Sapo de espuelas",
+   "alternativos": [],
+   "cientifico": "Pelobates cultripes",
+   "orden": "Anura",
+   "familia": "Pelobatidae",
+   "rasgos": [
+    "Pupila vertical y ojos muy prominentes (aspecto globoso).",
+    "Espuelas córneas negras en los pies (para excavar).",
+    "Carece de glándulas parótidas.",
+    "Renacuajos de tamaño gigantesco (más que los adultos).",
+    "Nota: sapo = piel áspera y verrugosa, patas traseras cortas, gran glándula parótida; rana = piel suave y viscosa, patas traseras largas."
+   ],
+   "imagenes": [
+    "img/pelobates-cultripes_1.jpg",
+    "img/pelobates-cultripes_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/pelobates-cultripes_1.jpg",
+     "autor": "Borja Fierro-Leva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/342143046"
+    },
+    {
+     "src": "web/pelobates-cultripes_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/293735872"
+    },
+    {
+     "src": "web/pelobates-cultripes_3.jpg",
+     "autor": "eloise kerroux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/341771145"
+    },
+    {
+     "src": "web/pelobates-cultripes_4.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/106852086"
+    },
+    {
+     "src": "web/pelobates-cultripes_5.jpg",
+     "autor": "David Pereira",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/259138746"
+    },
+    {
+     "src": "web/pelobates-cultripes_6.jpg",
+     "autor": "David Pereira",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/257529595"
+    },
+    {
+     "src": "web/pelobates-cultripes_7.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/75054661"
+    },
+    {
+     "src": "web/pelobates-cultripes_8.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193377653"
+    }
+   ]
+  },
+  {
+   "id": "pelodytes-ibericus",
+   "comun": "Sapillo moteado ibérico",
+   "alternativos": [],
+   "cientifico": "Pelodytes ibericus",
+   "orden": "Anura",
+   "familia": "Pelodytidae",
+   "rasgos": [
+    "Ligeramente más pequeño que el punctatus.",
+    "Distribución en la mitad sur de la Península Ibérica.",
+    "Hocico más corto y redondeado.",
+    "Diferencias notables en la estructura del canto."
+   ],
+   "imagenes": [
+    "img/pelodytes-ibericus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/pelodytes-ibericus_1.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/232944010"
+    },
+    {
+     "src": "web/pelodytes-ibericus_2.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231599382"
+    },
+    {
+     "src": "web/pelodytes-ibericus_3.jpg",
+     "autor": "Antón David Pérez Rodríguez",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/411988970"
+    },
+    {
+     "src": "web/pelodytes-ibericus_4.jpg",
+     "autor": "nbasargin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/351203386"
+    }
+   ]
+  },
+  {
+   "id": "bufo-spinosus",
+   "comun": "Sapo común ibérico",
+   "alternativos": [
+    "Sapo común"
+   ],
+   "cientifico": "Bufo spinosus",
+   "orden": "Anura",
+   "familia": "Bufonidae",
+   "rasgos": [
+    "El anfibio anuro más grande de España.",
+    "Pupila horizontal e iris de color cobre o rojizo.",
+    "Piel muy verrugosa con verrugas que terminan en punta córnea.",
+    "Glándulas parótidas divergentes y muy grandes."
+   ],
+   "imagenes": [
+    "img/bufo-spinosus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/bufo-spinosus_1.jpg",
+     "autor": "Ludivine Lamare",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/250906580"
+    },
+    {
+     "src": "web/bufo-spinosus_2.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/108353951"
+    },
+    {
+     "src": "web/bufo-spinosus_3.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/253190594"
+    },
+    {
+     "src": "web/bufo-spinosus_4.jpg",
+     "autor": "Ludivine Lamare",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/179678669"
+    },
+    {
+     "src": "web/bufo-spinosus_5.jpg",
+     "autor": "Samuel Ramón Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/366972306"
+    },
+    {
+     "src": "web/bufo-spinosus_6.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/215356780"
+    },
+    {
+     "src": "web/bufo-spinosus_7.jpg",
+     "autor": "Samuel Ramón Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/379963747"
+    },
+    {
+     "src": "web/bufo-spinosus_8.jpg",
+     "autor": "Sylvain Montagner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/186669826"
+    }
+   ]
+  },
+  {
+   "id": "epidalea-calamita",
+   "comun": "Sapo corredor",
+   "alternativos": [],
+   "cientifico": "Epidalea calamita",
+   "orden": "Anura",
+   "familia": "Bufonidae",
+   "rasgos": [
+    "Línea vertebral amarilla clara muy característica.",
+    "Patas traseras cortas, no salta, corre como un ratón.",
+    "Pupila horizontal e iris verde-amarillento metálico.",
+    "Glándulas parótidas paralelas y cortas."
+   ],
+   "imagenes": [
+    "img/epidalea-calamita_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/epidalea-calamita_1.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/9468854"
+    },
+    {
+     "src": "web/epidalea-calamita_2.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/78670869"
+    },
+    {
+     "src": "web/epidalea-calamita_3.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/278820811"
+    },
+    {
+     "src": "web/epidalea-calamita_4.jpg",
+     "autor": "Gilles San Martin",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/215126324"
+    },
+    {
+     "src": "web/epidalea-calamita_5.jpg",
+     "autor": "Sean Hartnett",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/350661553"
+    },
+    {
+     "src": "web/epidalea-calamita_6.jpg",
+     "autor": "Julia Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/102597638"
+    },
+    {
+     "src": "web/epidalea-calamita_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/324499936"
+    },
+    {
+     "src": "web/epidalea-calamita_8.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/188909387"
+    }
+   ]
+  },
+  {
+   "id": "hyla-molleri",
+   "comun": "Ranita de San Antonio",
+   "alternativos": [],
+   "cientifico": "Hyla molleri",
+   "orden": "Anura",
+   "familia": "Hylidae",
+   "rasgos": [
+    "Piel lisa, verde brillante (pueden cambiar a pardo).",
+    "Banda lateral oscura que llega hasta la ingle.",
+    "Discos adhesivos en la punta de los dedos (trepadora).",
+    "Pupila horizontal e iris dorado."
+   ],
+   "imagenes": [
+    "img/hyla-molleri_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/hyla-molleri_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/222459048"
+    },
+    {
+     "src": "web/hyla-molleri_2.jpg",
+     "autor": "Martiño Cabana Otero",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/148094637"
+    },
+    {
+     "src": "web/hyla-molleri_3.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/115803048"
+    },
+    {
+     "src": "web/hyla-molleri_4.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/222459060"
+    },
+    {
+     "src": "web/hyla-molleri_5.jpg",
+     "autor": "F. Bemmerlein-Lux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/180416944"
+    },
+    {
+     "src": "web/hyla-molleri_6.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/222459052"
+    },
+    {
+     "src": "web/hyla-molleri_7.jpg",
+     "autor": "Daniel Castanhal García",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/261995498"
+    },
+    {
+     "src": "web/hyla-molleri_8.jpg",
+     "autor": "Paulo Caseirito",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/307831211"
+    }
+   ]
+  },
+  {
+   "id": "hyla-meridionalis",
+   "comun": "Ranita meridional",
+   "alternativos": [],
+   "cientifico": "Hyla meridionalis",
+   "orden": "Anura",
+   "familia": "Hylidae",
+   "rasgos": [
+    "Banda lateral oscura solo llega hasta la pata delantera.",
+    "Generalmente algo más grande que Hyla molleri.",
+    "Mismo sistema de discos adhesivos en dedos.",
+    "Canto más lento y grave que el de Hyla molleri."
+   ],
+   "imagenes": [
+    "img/hyla-meridionalis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/hyla-meridionalis_1.jpg",
+     "autor": "Léo Souillard",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/272115749"
+    },
+    {
+     "src": "web/hyla-meridionalis_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/259912071"
+    },
+    {
+     "src": "web/hyla-meridionalis_3.jpg",
+     "autor": "Yves Bas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/153346395"
+    },
+    {
+     "src": "web/hyla-meridionalis_4.jpg",
+     "autor": "Thomas Galewski",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/74764662"
+    },
+    {
+     "src": "web/hyla-meridionalis_5.jpg",
+     "autor": "andrew2285",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/189248942"
+    },
+    {
+     "src": "web/hyla-meridionalis_6.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/20706802"
+    },
+    {
+     "src": "web/hyla-meridionalis_7.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/240127429"
+    },
+    {
+     "src": "web/hyla-meridionalis_8.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233683334"
+    }
+   ]
+  },
+  {
+   "id": "rana-dalmatina",
+   "comun": "Rana ágil",
+   "alternativos": [],
+   "cientifico": "Rana dalmatina",
+   "orden": "Anura",
+   "familia": "Ranidae",
+   "rasgos": [
+    "Patas traseras extremadamente largas (pasan el hocico si se doblan).",
+    "Coloración parda o rosácea con pocas manchas.",
+    "Tímpano muy grande y cercano al ojo.",
+    "Hocico muy puntiagudo.",
+    "Nota: si el tímpano es igual o más grande que el ojo y está cerca de él, es rana ágil."
+   ],
+   "imagenes": [
+    "img/rana-dalmatina_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/rana-dalmatina_1.jpg",
+     "autor": "Alin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/362712277"
+    },
+    {
+     "src": "web/rana-dalmatina_2.jpg",
+     "autor": "Radu Teodoreanu",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/303095665"
+    },
+    {
+     "src": "web/rana-dalmatina_3.jpg",
+     "autor": "Philip Schaffer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/252178722"
+    },
+    {
+     "src": "web/rana-dalmatina_4.jpg",
+     "autor": "Philipp Pavelka",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/42180824"
+    },
+    {
+     "src": "web/rana-dalmatina_5.jpg",
+     "autor": "Philip Schaffer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/341572403"
+    },
+    {
+     "src": "web/rana-dalmatina_6.jpg",
+     "autor": "Thierry Arbault",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/196347731"
+    },
+    {
+     "src": "web/rana-dalmatina_7.jpg",
+     "autor": "Conrad Altmann",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/8073478"
+    },
+    {
+     "src": "web/rana-dalmatina_8.jpg",
+     "autor": "Philip Schaffer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/152828481"
+    }
+   ]
+  },
+  {
+   "id": "rana-iberica",
+   "comun": "Rana patilarga",
+   "alternativos": [],
+   "cientifico": "Rana iberica",
+   "orden": "Anura",
+   "familia": "Ranidae",
+   "rasgos": [
+    "Mancha oscura detrás del ojo (máscara) muy definida.",
+    "Pliegues dorsolaterales muy marcados.",
+    "Patas muy largas y talón que sobrepasa el hocico.",
+    "Típica de arroyos limpios de montaña.",
+    "Nota: no se ve el tímpano."
+   ],
+   "imagenes": [
+    "img/rana-iberica_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/rana-iberica_1.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/325208868"
+    },
+    {
+     "src": "web/rana-iberica_2.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/253190152"
+    },
+    {
+     "src": "web/rana-iberica_3.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/253190306"
+    },
+    {
+     "src": "web/rana-iberica_4.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/241948002"
+    },
+    {
+     "src": "web/rana-iberica_5.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/1079936"
+    },
+    {
+     "src": "web/rana-iberica_6.jpg",
+     "autor": "Juan Rodríguez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/165272777"
+    },
+    {
+     "src": "web/rana-iberica_7.jpg",
+     "autor": "Jorge Íñiguez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/392604146"
+    },
+    {
+     "src": "web/rana-iberica_8.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/129952299"
+    }
+   ]
+  },
+  {
+   "id": "rana-temporaria",
+   "comun": "Rana bermeja",
+   "alternativos": [],
+   "cientifico": "Rana temporaria",
+   "orden": "Anura",
+   "familia": "Ranidae",
+   "rasgos": [
+    "Robusta con el hocico redondeado y patas cortas.",
+    "Coloración parda, rojiza o amarillenta muy variable.",
+    "Vientre blanquecino con jaspeado oscuro.",
+    "Pliegues dorsolaterales convergen en la zona de los hombros.",
+    "Nota: tímpano más pequeño que el ojo y más separado."
+   ],
+   "imagenes": [
+    "img/rana-temporaria_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/rana-temporaria_1.jpg",
+     "autor": "Gergely Nigg",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/220733617"
+    },
+    {
+     "src": "web/rana-temporaria_2.jpg",
+     "autor": "Marcello Manara",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/248022299"
+    },
+    {
+     "src": "web/rana-temporaria_3.jpg",
+     "autor": "Edoardo Razzetti",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/179656912"
+    },
+    {
+     "src": "web/rana-temporaria_4.jpg",
+     "autor": "Lera Miles",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/92773375"
+    },
+    {
+     "src": "web/rana-temporaria_5.jpg",
+     "autor": "Thierry Arbault",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/192716413"
+    },
+    {
+     "src": "web/rana-temporaria_6.jpg",
+     "autor": "Олеся",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/206969174"
+    },
+    {
+     "src": "web/rana-temporaria_7.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/385584899"
+    },
+    {
+     "src": "web/rana-temporaria_8.jpg",
+     "autor": "Valentin",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/52588036"
+    }
+   ]
+  },
+  {
+   "id": "pelophylax-perezi",
+   "comun": "Rana común",
+   "alternativos": [
+    "Rana verde"
+   ],
+   "cientifico": "Pelophylax perezi",
+   "orden": "Anura",
+   "familia": "Ranidae",
+   "rasgos": [
+    "Rana verde por excelencia, muy ligada al agua.",
+    "Línea vertebral clara muy frecuente.",
+    "Sacos vocales externos de color grisáceo en los machos.",
+    "Membranas interdigitales muy desarrolladas."
+   ],
+   "imagenes": [
+    "img/pelophylax-perezi_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/pelophylax-perezi_1.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/372656453"
+    },
+    {
+     "src": "web/pelophylax-perezi_2.jpg",
+     "autor": "Vítor Jorge",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/207002433"
+    },
+    {
+     "src": "web/pelophylax-perezi_3.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/339805545"
+    },
+    {
+     "src": "web/pelophylax-perezi_4.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254449713"
+    },
+    {
+     "src": "web/pelophylax-perezi_5.jpg",
+     "autor": "Ruben Moutinho",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/406173718"
+    },
+    {
+     "src": "web/pelophylax-perezi_6.jpg",
+     "autor": "Frank Sengpiel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/30183500"
+    },
+    {
+     "src": "web/pelophylax-perezi_7.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/256772441"
+    },
+    {
+     "src": "web/pelophylax-perezi_8.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/253190455"
+    }
+   ]
+  }
+ ]
+}

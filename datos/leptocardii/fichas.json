@@ -1,0 +1,71 @@
+{
+ "id": "leptocardii",
+ "clase": "Leptocardii",
+ "sinonimos_clase": [
+  "Leptocardii",
+  "Leptocardios",
+  "Leptocardio"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "branchiostoma-lanceolatum",
+   "comun": "Anfioxo / Lanceta de mar",
+   "alternativos": [
+    "Anfioxo",
+    "Lanceta de mar",
+    "Lanceta"
+   ],
+   "cientifico": "Branchiostoma lanceolatum",
+   "subfilo": "Cephalochordata",
+   "familia": "Branchiostomatidae",
+   "rasgos": [
+    "Cuerpo pequeño (hasta 5-7 cm), fusiforme y aguzado en ambos extremos (pico de lanzeta).",
+    "Completamente translúcido; miómeros (bloques musculares en \"V\") visibles lateralmente.",
+    "Ausencia de cabeza diferenciada, ojos verdaderos u mandíbulas; presencia de cirros bucales.",
+    "Notocorda persistente que recorre todo el cuerpo de extremo a extremo."
+   ],
+   "imagenes": [
+    "img/branchiostoma-lanceolatum_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/branchiostoma-lanceolatum_1.jpg",
+     "autor": "przese",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69950574"
+    },
+    {
+     "src": "web/branchiostoma-lanceolatum_2.jpg",
+     "autor": "Adi Peter",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/345894383"
+    },
+    {
+     "src": "web/branchiostoma-lanceolatum_3.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/246450469"
+    },
+    {
+     "src": "web/branchiostoma-lanceolatum_4.jpg",
+     "autor": "Valentin Moser",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/85234300"
+    },
+    {
+     "src": "web/branchiostoma-lanceolatum_5.jpg",
+     "autor": "Michal Maňas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/408457762"
+    },
+    {
+     "src": "web/branchiostoma-lanceolatum_6.jpg",
+     "autor": "Lukas Schärer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/105734508"
+    }
+   ]
+  }
+ ]
+}
