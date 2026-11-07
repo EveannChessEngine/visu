@@ -1,0 +1,133 @@
+{
+ "id": "thaliacea",
+ "clase": "Thaliacea",
+ "sinonimos_clase": [
+  "Thaliacea",
+  "Taliáceos",
+  "Taliaceos",
+  "Taliacea",
+  "Thaliaceos"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "salpa-maxima",
+   "comun": "Salpa máxima",
+   "alternativos": [
+    "Salpa"
+   ],
+   "cientifico": "Salpa maxima",
+   "subfilo": "Urochordata",
+   "familia": "Salpidae",
+   "rasgos": [
+    "Cuerpo cilíndrico, gelatinoso y completamente transparente.",
+    "Bandas musculares transversales visibles que rodean el cuerpo como anillos.",
+    "Frecuentemente forma largas colonias flotantes en cadena en mar abierto.",
+    "Sifones bucal y cloacal situados en extremos opuestos del eje corporal."
+   ],
+   "imagenes": [
+    "img/salpa-maxima_1.jpg",
+    "img/salpa-maxima_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/salpa-maxima_1.jpg",
+     "autor": "Jennie Pistevos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/213981523"
+    },
+    {
+     "src": "web/salpa-maxima_2.jpg",
+     "autor": "Sarah Faulwetter",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/217912645"
+    },
+    {
+     "src": "web/salpa-maxima_3.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/154729580"
+    },
+    {
+     "src": "web/salpa-maxima_4.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/49150686"
+    },
+    {
+     "src": "web/salpa-maxima_5.jpg",
+     "autor": "Chris Taklis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/127380364"
+    }
+   ]
+  },
+  {
+   "id": "pyrosoma-atlanticum",
+   "comun": "Pirosoma",
+   "alternativos": [],
+   "cientifico": "Pyrosoma atlanticum",
+   "subfilo": "Urochordata",
+   "familia": "Pyrosomatidae",
+   "rasgos": [
+    "Colonia pelágica flotante en forma de tubo rígido hueco cerrado por un extremo.",
+    "Pared exterior cubierta de pequeñas proyecciones o mamelones gelatinosos.",
+    "Capacidad de emitir una intensa bioluminiscencia verde-azulada al ser estimulado.",
+    "Compuesto por miles de zooides individuales integrados en la túnica común."
+   ],
+   "imagenes": [
+    "img/pyrosoma-atlanticum_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/pyrosoma-atlanticum_1.jpg",
+     "autor": "Luca Davenport-Thomas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/135866082"
+    },
+    {
+     "src": "web/pyrosoma-atlanticum_2.jpg",
+     "autor": "metanature",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/71407335"
+    },
+    {
+     "src": "web/pyrosoma-atlanticum_3.jpg",
+     "autor": "evn",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/104155430"
+    },
+    {
+     "src": "web/pyrosoma-atlanticum_4.jpg",
+     "autor": "Dan Horowitz",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/82874826"
+    },
+    {
+     "src": "web/pyrosoma-atlanticum_5.jpg",
+     "autor": "Marina",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/86193882"
+    },
+    {
+     "src": "web/pyrosoma-atlanticum_6.jpg",
+     "autor": "Sean Vanderluit",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/255823991"
+    },
+    {
+     "src": "web/pyrosoma-atlanticum_7.jpg",
+     "autor": "Cricket Raspet",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/258093010"
+    },
+    {
+     "src": "web/pyrosoma-atlanticum_8.jpg",
+     "autor": "Alison K",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/257516564"
+    }
+   ]
+  }
+ ]
+}

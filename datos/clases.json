@@ -5,6 +5,12 @@
    "clase": "Osteíctios",
    "grupo": "Cordados",
    "total": 31
+  },
+  {
+   "id": "thaliacea",
+   "clase": "Thaliacea",
+   "grupo": "Cordados",
+   "total": 2
   }
  ]
 }

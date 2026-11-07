@@ -276,7 +276,9 @@ function comprobar(rendirse) {
   $("f-comun").textContent = t.comun;
   $("f-cientifico").textContent = t.cientifico;
   $("f-clase").textContent = "Clase: " + t.clase;
-  $("f-orden").textContent = "Orden: " + t.orden;
+  // Algunas clases traen orden y otras subfilo: se muestra lo que haya.
+  $("f-orden").textContent = t.orden ? "Orden: " + t.orden : t.subfilo ? "Subfilo: " + t.subfilo : "";
+  $("f-orden").hidden = !t.orden && !t.subfilo;
   $("f-familia").textContent = "Familia: " + t.familia;
   $("f-rasgos").innerHTML = "";
   for (const r of t.rasgos) {
