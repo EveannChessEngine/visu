@@ -13,6 +13,12 @@
    "total": 4
   },
   {
+   "id": "aves",
+   "clase": "Aves",
+   "grupo": "Cordados",
+   "total": 67
+  },
+  {
    "id": "condrictios",
    "clase": "Condrictios",
    "grupo": "Cordados",

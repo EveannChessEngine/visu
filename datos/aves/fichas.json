@@ -1,0 +1,4561 @@
+{
+ "id": "aves",
+ "clase": "Aves",
+ "sinonimos_clase": [
+  "Aves",
+  "Ave"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "gyps-fulvus",
+   "comun": "Buitre leonado",
+   "alternativos": [],
+   "cientifico": "Gyps fulvus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Gran envergadura; plumaje leonado con plumas de vuelo negras.",
+    "Cuello largo cubierto de plumón blanco y gorguera pálida.",
+    "Pico macizo y fuerte adaptado a la carroña.",
+    "En vuelo: alas anchas y cola muy corta, cuadrada."
+   ],
+   "imagenes": [
+    "img/gyps-fulvus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/gyps-fulvus_1.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/65080571"
+    },
+    {
+     "src": "web/gyps-fulvus_2.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193367847"
+    },
+    {
+     "src": "web/gyps-fulvus_3.jpg",
+     "autor": "Людмила Алимова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/236273282"
+    },
+    {
+     "src": "web/gyps-fulvus_4.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/393830211"
+    },
+    {
+     "src": "web/gyps-fulvus_5.jpg",
+     "autor": "Fred Derks",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/86757235"
+    },
+    {
+     "src": "web/gyps-fulvus_6.jpg",
+     "autor": "Алина Урусова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/38382948"
+    },
+    {
+     "src": "web/gyps-fulvus_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/317526057"
+    },
+    {
+     "src": "web/gyps-fulvus_8.jpg",
+     "autor": "Andre Hosper",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/12739557"
+    }
+   ]
+  },
+  {
+   "id": "aegypius-monachus",
+   "comun": "Buitre negro",
+   "alternativos": [],
+   "cientifico": "Aegypius monachus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Una de las aves más grandes del mundo; plumaje marrón muy oscuro.",
+    "Gorguera de plumas negras y cara azulada pálida.",
+    "Cola corta y alas inmensas, rectangulares en vuelo.",
+    "Nidifica típicamente en copas de grandes árboles."
+   ],
+   "imagenes": [
+    "img/aegypius-monachus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/aegypius-monachus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/252947270"
+    },
+    {
+     "src": "web/aegypius-monachus_2.jpg",
+     "autor": "Tom Heijnen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/229958419"
+    },
+    {
+     "src": "web/aegypius-monachus_3.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/147327482"
+    },
+    {
+     "src": "web/aegypius-monachus_4.jpg",
+     "autor": "Полина Полежанкина",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/311626029"
+    },
+    {
+     "src": "web/aegypius-monachus_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/357965402"
+    },
+    {
+     "src": "web/aegypius-monachus_6.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/188895561"
+    },
+    {
+     "src": "web/aegypius-monachus_7.jpg",
+     "autor": "egorbirder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83594972"
+    },
+    {
+     "src": "web/aegypius-monachus_8.jpg",
+     "autor": "Kudaibergen Amirekul",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/109047685"
+    }
+   ]
+  },
+  {
+   "id": "neophron-percnopterus",
+   "comun": "Alimoche común",
+   "alternativos": [
+    "Alimoche"
+   ],
+   "cientifico": "Neophron percnopterus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Pequeño buitre de plumaje blanco-crema y alas negras.",
+    "Cara desnuda de piel amarilla intensa y plumas nucales erizadas.",
+    "Cola blanca en forma de cuña nítida.",
+    "Visitante estival y migrador transahariano."
+   ],
+   "imagenes": [
+    "img/neophron-percnopterus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/neophron-percnopterus_1.jpg",
+     "autor": "Kudaibergen Amirekul",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/84741493"
+    },
+    {
+     "src": "web/neophron-percnopterus_2.jpg",
+     "autor": "S.MORE",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/101196558"
+    },
+    {
+     "src": "web/neophron-percnopterus_3.jpg",
+     "autor": "Gijs Romijn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/213274720"
+    },
+    {
+     "src": "web/neophron-percnopterus_4.jpg",
+     "autor": "avocat",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/167115651"
+    },
+    {
+     "src": "web/neophron-percnopterus_5.jpg",
+     "autor": "Mirela",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/150018870"
+    },
+    {
+     "src": "web/neophron-percnopterus_6.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/75087248"
+    },
+    {
+     "src": "web/neophron-percnopterus_7.jpg",
+     "autor": "Yedidya Popper",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/351462608"
+    },
+    {
+     "src": "web/neophron-percnopterus_8.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/222656251"
+    }
+   ]
+  },
+  {
+   "id": "gypaetus-barbatus",
+   "comun": "Quebrantahuesos",
+   "alternativos": [],
+   "cientifico": "Gypaetus barbatus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Silueta de vuelo única: alas largas estrechas y cola romboidal.",
+    "Llamativas barbas de cerdas negras bajo el pico.",
+    "Zonas inferiores anaranjadas (baños en óxido de hierro).",
+    "Especialista en ingerir huesos, que rompe contra las rocas."
+   ],
+   "imagenes": [
+    "img/gypaetus-barbatus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/gypaetus-barbatus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/393603516"
+    },
+    {
+     "src": "web/gypaetus-barbatus_2.jpg",
+     "autor": "Jagdish Singh Negi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/123903146"
+    },
+    {
+     "src": "web/gypaetus-barbatus_3.jpg",
+     "autor": "Antoine MARNAT",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193786395"
+    },
+    {
+     "src": "web/gypaetus-barbatus_4.jpg",
+     "autor": "Justin Ponder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/205957319"
+    },
+    {
+     "src": "web/gypaetus-barbatus_5.jpg",
+     "autor": "Nils",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/150124982"
+    },
+    {
+     "src": "web/gypaetus-barbatus_6.jpg",
+     "autor": "Justin Ponder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/205957341"
+    },
+    {
+     "src": "web/gypaetus-barbatus_7.jpg",
+     "autor": "Michael Bakker Paiva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/77907177"
+    },
+    {
+     "src": "web/gypaetus-barbatus_8.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/147344021"
+    }
+   ]
+  },
+  {
+   "id": "aquila-chrysaetos",
+   "comun": "Águila real",
+   "alternativos": [],
+   "cientifico": "Aquila chrysaetos",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Gran rapaz; plumaje marrón oscuro con nuca dorado-leonada.",
+    "Pico y garras colosales; tarsos emplumados hasta los dedos.",
+    "Jóvenes con manchas blancas basales en alas y cola.",
+    "Cola ancha con banda oscura terminal."
+   ],
+   "imagenes": [
+    "img/aquila-chrysaetos_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/aquila-chrysaetos_1.jpg",
+     "autor": "Morten Ross",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/73963285"
+    },
+    {
+     "src": "web/aquila-chrysaetos_2.jpg",
+     "autor": "Richard Littauer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69174683"
+    },
+    {
+     "src": "web/aquila-chrysaetos_3.jpg",
+     "autor": "Anne Parsons",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/130644086"
+    },
+    {
+     "src": "web/aquila-chrysaetos_4.jpg",
+     "autor": "Brooke J.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/346314808"
+    },
+    {
+     "src": "web/aquila-chrysaetos_5.jpg",
+     "autor": "Nils",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/205121160"
+    },
+    {
+     "src": "web/aquila-chrysaetos_6.jpg",
+     "autor": "highsinger",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/212464807"
+    },
+    {
+     "src": "web/aquila-chrysaetos_7.jpg",
+     "autor": "Олеся",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/191604398"
+    },
+    {
+     "src": "web/aquila-chrysaetos_8.jpg",
+     "autor": "Brooke J.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/345421527"
+    }
+   ]
+  },
+  {
+   "id": "aquila-adalberti",
+   "comun": "Águila imperial ibérica",
+   "alternativos": [
+    "Águila imperial"
+   ],
+   "cientifico": "Aquila adalberti",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Endemismo ibérico. Adulto marrón casi negro con hombros blancos.",
+    "Nuca de color pajizo o amarillento pálido.",
+    "Jóvenes pardo-rojizos uniformes (fase damero).",
+    "Nidifica en grandes árboles de dehesas y montes."
+   ],
+   "imagenes": [
+    "img/aquila-adalberti_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/aquila-adalberti_1.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/200098300"
+    },
+    {
+     "src": "web/aquila-adalberti_2.jpg",
+     "autor": "euqirneto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/333060436"
+    },
+    {
+     "src": "web/aquila-adalberti_3.jpg",
+     "autor": "antoterryn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269494453"
+    },
+    {
+     "src": "web/aquila-adalberti_4.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/74284111"
+    },
+    {
+     "src": "web/aquila-adalberti_5.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/108362251"
+    },
+    {
+     "src": "web/aquila-adalberti_6.jpg",
+     "autor": "Juan Rodríguez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/251901751"
+    },
+    {
+     "src": "web/aquila-adalberti_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254402722"
+    },
+    {
+     "src": "web/aquila-adalberti_8.jpg",
+     "autor": "Millie Basden",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/17795666"
+    }
+   ]
+  },
+  {
+   "id": "accipiter-gentilis",
+   "comun": "Azor común",
+   "alternativos": [
+    "Azor"
+   ],
+   "cientifico": "Accipiter gentilis",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Rapaz forestal. Adulto con dorso gris pizarra y pecho blanco barrado transversalmente.",
+    "Ceja blanca (supercilio) muy ancha y marcada.",
+    "Ojos con iris de un llamativo color naranja o rojo intenso en adultos.",
+    "Silueta de vuelo característica: alas cortas redondeadas y cola muy larga."
+   ],
+   "imagenes": [
+    "img/accipiter-gentilis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/accipiter-gentilis_1.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18522341"
+    },
+    {
+     "src": "web/accipiter-gentilis_2.jpg",
+     "autor": "Валерия Ковалева",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/107460492"
+    },
+    {
+     "src": "web/accipiter-gentilis_3.jpg",
+     "autor": "Kevin",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/121581301"
+    },
+    {
+     "src": "web/accipiter-gentilis_4.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2435460"
+    },
+    {
+     "src": "web/accipiter-gentilis_5.jpg",
+     "autor": "Fyodor Pudovikov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/315578298"
+    },
+    {
+     "src": "web/accipiter-gentilis_6.jpg",
+     "autor": "Denis A",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/134005599"
+    },
+    {
+     "src": "web/accipiter-gentilis_7.jpg",
+     "autor": "richyfourtytwo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/221360561"
+    },
+    {
+     "src": "web/accipiter-gentilis_8.jpg",
+     "autor": "Andrey Gulivanov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/60957324"
+    }
+   ]
+  },
+  {
+   "id": "elanus-caeruleus",
+   "comun": "Elanio azul",
+   "alternativos": [
+    "Elanio"
+   ],
+   "cientifico": "Elanus caeruleus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Rapaz pequeña de aspecto muy pálido. Dorso gris azulado y vientre blanco puro.",
+    "\"Hombros de luto\": manchas negras muy conspicuas en los hombros.",
+    "Ojos frontales inconfundibles de un vivo color rojo rubí.",
+    "Alas apuntadas en vuelo; suele cernirse en el aire con las alas en forma de V."
+   ],
+   "imagenes": [
+    "img/elanus-caeruleus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/elanus-caeruleus_1.jpg",
+     "autor": "Stephen Matthews",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/189746908"
+    },
+    {
+     "src": "web/elanus-caeruleus_2.jpg",
+     "autor": "尹若宇",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/19671922"
+    },
+    {
+     "src": "web/elanus-caeruleus_3.jpg",
+     "autor": "雲一百香果",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68148309"
+    },
+    {
+     "src": "web/elanus-caeruleus_4.jpg",
+     "autor": "Paul Hoekman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/186820341"
+    },
+    {
+     "src": "web/elanus-caeruleus_5.jpg",
+     "autor": "雲一百香果",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/130911641"
+    },
+    {
+     "src": "web/elanus-caeruleus_6.jpg",
+     "autor": "David Pereira",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/320278007"
+    },
+    {
+     "src": "web/elanus-caeruleus_7.jpg",
+     "autor": "Utain Pummarin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/140140222"
+    },
+    {
+     "src": "web/elanus-caeruleus_8.jpg",
+     "autor": "尹若宇",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/44469166"
+    }
+   ]
+  },
+  {
+   "id": "circus-pygargus",
+   "comun": "Aguilucho cenizo",
+   "alternativos": [],
+   "cientifico": "Circus pygargus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Rapaz muy esbelta de medios abiertos. Macho de color gris ceniza.",
+    "Macho con puntas de las alas negras y una fina barra negra en las secundarias.",
+    "Hembra parda y barrada, difícil de distinguir del aguilucho pálido sin ver el obispillo.",
+    "Nidifica típicamente en el suelo entre cultivos de cereal."
+   ],
+   "imagenes": [
+    "img/circus-pygargus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/circus-pygargus_1.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18372885"
+    },
+    {
+     "src": "web/circus-pygargus_2.jpg",
+     "autor": "Михаил Голомысов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/162364222"
+    },
+    {
+     "src": "web/circus-pygargus_3.jpg",
+     "autor": "Aiken Lau",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/385553247"
+    },
+    {
+     "src": "web/circus-pygargus_4.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/30891739"
+    },
+    {
+     "src": "web/circus-pygargus_5.jpg",
+     "autor": "Parth Kansara",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/138740099"
+    },
+    {
+     "src": "web/circus-pygargus_6.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/52496111"
+    },
+    {
+     "src": "web/circus-pygargus_7.jpg",
+     "autor": "Сергей Неклюдов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/102357068"
+    },
+    {
+     "src": "web/circus-pygargus_8.jpg",
+     "autor": "Ani Sarkisyan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2964266"
+    }
+   ]
+  },
+  {
+   "id": "pandion-haliaetus",
+   "comun": "Águila pescadora",
+   "alternativos": [],
+   "cientifico": "Pandion haliaetus",
+   "orden": "Accipitriformes",
+   "familia": "Pandionidae",
+   "rasgos": [
+    "Especialista en pesca. Dorso marrón oscuro y zonas inferiores blanco puro.",
+    "Cabeza blanca con una ancha y nítida banda negra que cruza el ojo (antifaz).",
+    "Iris del ojo de color amarillo brillante; patas gris azuladas con garras espinosas.",
+    "En vuelo presenta las alas marcadamente angulosas o flexionadas."
+   ],
+   "imagenes": [
+    "img/pandion-haliaetus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/pandion-haliaetus_1.jpg",
+     "autor": "Alina Martin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144114174"
+    },
+    {
+     "src": "web/pandion-haliaetus_2.jpg",
+     "autor": "Jasper Shide",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/176662160"
+    },
+    {
+     "src": "web/pandion-haliaetus_3.jpg",
+     "autor": "Kevin Lynch",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/203382356"
+    },
+    {
+     "src": "web/pandion-haliaetus_4.jpg",
+     "autor": "Glenn Berry",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/90170837"
+    },
+    {
+     "src": "web/pandion-haliaetus_5.jpg",
+     "autor": "inbetweenbays",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/345111443"
+    },
+    {
+     "src": "web/pandion-haliaetus_6.jpg",
+     "autor": "pimelea",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/105598887"
+    },
+    {
+     "src": "web/pandion-haliaetus_7.jpg",
+     "autor": "carnifex",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/212215129"
+    },
+    {
+     "src": "web/pandion-haliaetus_8.jpg",
+     "autor": "Taylor DiTarando",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/223982533"
+    }
+   ]
+  },
+  {
+   "id": "aquila-fasciata",
+   "comun": "Águila perdicera",
+   "alternativos": [],
+   "cientifico": "Aquila fasciata",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Rapaz mediterránea de tamaño medio-grande y porte muy esbelto.",
+    "Dorso oscuro con una característica mancha blanca en la espalda de los adultos.",
+    "Partes inferiores blanco puro con un fino moteado longitudinal oscuro.",
+    "Cola con una ancha banda terminal negra muy visible al volar."
+   ],
+   "imagenes": [
+    "img/aquila-fasciata_1.jpg",
+    "img/aquila-fasciata_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/aquila-fasciata_1.jpg",
+     "autor": "Aditya Rao",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/306191054"
+    },
+    {
+     "src": "web/aquila-fasciata_2.jpg",
+     "autor": "andygpos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204253171"
+    },
+    {
+     "src": "web/aquila-fasciata_3.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/227524926"
+    },
+    {
+     "src": "web/aquila-fasciata_4.jpg",
+     "autor": "Daniel Capilla",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/104188669"
+    },
+    {
+     "src": "web/aquila-fasciata_5.jpg",
+     "autor": "karim Attouche",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/57582054"
+    },
+    {
+     "src": "web/aquila-fasciata_6.jpg",
+     "autor": "Aditya Rao",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/306191052"
+    },
+    {
+     "src": "web/aquila-fasciata_7.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/71650541"
+    },
+    {
+     "src": "web/aquila-fasciata_8.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/145190318"
+    }
+   ]
+  },
+  {
+   "id": "milvus-milvus",
+   "comun": "Milano real",
+   "alternativos": [],
+   "cientifico": "Milvus milvus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Cola larga, rojiza y profundamente ahorquillada.",
+    "Cabeza grisácea clara y grandes ventanas blancas en las alas.",
+    "Vuelo extremadamente ágil y elegante usando la cola como timón.",
+    "Plumaje castaño-rojizo con estrías negras."
+   ],
+   "imagenes": [
+    "img/milvus-milvus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/milvus-milvus_1.jpg",
+     "autor": "Charlotte Kirchner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/38980950"
+    },
+    {
+     "src": "web/milvus-milvus_2.jpg",
+     "autor": "Frank Sengpiel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/32790975"
+    },
+    {
+     "src": "web/milvus-milvus_3.jpg",
+     "autor": "Paul Lewis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/61371234"
+    },
+    {
+     "src": "web/milvus-milvus_4.jpg",
+     "autor": "Paul Lewis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/64250050"
+    },
+    {
+     "src": "web/milvus-milvus_5.jpg",
+     "autor": "Dr. Sven Gippner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/217856101"
+    },
+    {
+     "src": "web/milvus-milvus_6.jpg",
+     "autor": "bigben747400",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/163852654"
+    },
+    {
+     "src": "web/milvus-milvus_7.jpg",
+     "autor": "Paul Lewis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/148320819"
+    },
+    {
+     "src": "web/milvus-milvus_8.jpg",
+     "autor": "Judy Gallagher",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/129166271"
+    }
+   ]
+  },
+  {
+   "id": "milvus-migrans",
+   "comun": "Milano negro",
+   "alternativos": [],
+   "cientifico": "Milvus migrans",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Cola solo ligeramente ahorquillada (escotada), casi recta al abrirse.",
+    "Plumaje marrón oscuro más monótono que el milano real.",
+    "Migrador estival abundante cerca de ríos y basureros.",
+    "Ventanas alares menos contrastadas que en el real."
+   ],
+   "imagenes": [
+    "img/milvus-migrans_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/milvus-migrans_1.jpg",
+     "autor": "Laura Sewell",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/182027143"
+    },
+    {
+     "src": "web/milvus-migrans_2.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18966313"
+    },
+    {
+     "src": "web/milvus-migrans_3.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/110593828"
+    },
+    {
+     "src": "web/milvus-migrans_4.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18653651"
+    },
+    {
+     "src": "web/milvus-migrans_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/226873044"
+    },
+    {
+     "src": "web/milvus-migrans_6.jpg",
+     "autor": "Шальнов Кирилл",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/167361554"
+    },
+    {
+     "src": "web/milvus-migrans_7.jpg",
+     "autor": "Murielle Desrois",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/221814975"
+    },
+    {
+     "src": "web/milvus-migrans_8.jpg",
+     "autor": "Luis M. Muñoz",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/297852231"
+    }
+   ]
+  },
+  {
+   "id": "buteo-buteo",
+   "comun": "Busardo ratonero",
+   "alternativos": [
+    "Ratonero"
+   ],
+   "cientifico": "Buteo buteo",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Rapaz mediana muy variable en color; suele tener una banda pectoral blanca.",
+    "Alas anchas redondeadas y cola corta en abanico con barras finas.",
+    "Muy común posado en postes de cercas y señales de tráfico.",
+    "Silueta de vuelo compacta y pesada."
+   ],
+   "imagenes": [
+    "img/buteo-buteo_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/buteo-buteo_1.jpg",
+     "autor": "Alexis Williams",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/149490364"
+    },
+    {
+     "src": "web/buteo-buteo_2.jpg",
+     "autor": "Alexis Tinker-Tsavalas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/35711111"
+    },
+    {
+     "src": "web/buteo-buteo_3.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/139240550"
+    },
+    {
+     "src": "web/buteo-buteo_4.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/192097624"
+    },
+    {
+     "src": "web/buteo-buteo_5.jpg",
+     "autor": "Paolo Zucca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/8762286"
+    },
+    {
+     "src": "web/buteo-buteo_6.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/111545924"
+    },
+    {
+     "src": "web/buteo-buteo_7.jpg",
+     "autor": "Ani Sarkisyan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2906718"
+    },
+    {
+     "src": "web/buteo-buteo_8.jpg",
+     "autor": "Alexis Tinker-Tsavalas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/25390413"
+    }
+   ]
+  },
+  {
+   "id": "circus-aeruginosus",
+   "comun": "Aguilucho lagunero",
+   "alternativos": [],
+   "cientifico": "Circus aeruginosus",
+   "orden": "Accipitriformes",
+   "familia": "Accipitridae",
+   "rasgos": [
+    "Rapaz de humedal. Macho tricolor (marrón, gris y puntas negras).",
+    "Hembra marrón oscuro con corona y garganta crema amarillento.",
+    "Vuelo bajo con las alas en marcada \"V\" abierta sobre el carrizal.",
+    "Silueta estilizada de aguilucho pero más robusta que los demás."
+   ],
+   "imagenes": [
+    "img/circus-aeruginosus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/circus-aeruginosus_1.jpg",
+     "autor": "Paolo Zucca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/9241452"
+    },
+    {
+     "src": "web/circus-aeruginosus_2.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/271701128"
+    },
+    {
+     "src": "web/circus-aeruginosus_3.jpg",
+     "autor": "Richard Nuttall",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/404676769"
+    },
+    {
+     "src": "web/circus-aeruginosus_4.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/268933386"
+    },
+    {
+     "src": "web/circus-aeruginosus_5.jpg",
+     "autor": "Matthew Morgan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/277172540"
+    },
+    {
+     "src": "web/circus-aeruginosus_6.jpg",
+     "autor": "Roman Titov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/171742298"
+    },
+    {
+     "src": "web/circus-aeruginosus_7.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/162307964"
+    },
+    {
+     "src": "web/circus-aeruginosus_8.jpg",
+     "autor": "Artem Kuznetsov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/74337384"
+    }
+   ]
+  },
+  {
+   "id": "anas-platyrhynchos",
+   "comun": "Ánade azulón",
+   "alternativos": [
+    "Azulón",
+    "Ánade real"
+   ],
+   "cientifico": "Anas platyrhynchos",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Macho con cabeza verde iridiscente, collar blanco y pecho castaño.",
+    "Espejuelo azul-violáceo bordeado de blanco en ambos sexos.",
+    "Pico amarillo-verdoso en el macho; naranja y negro en la hembra.",
+    "El pato de superficie más común de la península.",
+    "Nota: hembras con pico mezclado negro y naranja."
+   ],
+   "imagenes": [
+    "img/anas-platyrhynchos_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/anas-platyrhynchos_1.jpg",
+     "autor": "Diego Carús",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/21203884"
+    },
+    {
+     "src": "web/anas-platyrhynchos_2.jpg",
+     "autor": "Michel Langeveld",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/71710579"
+    },
+    {
+     "src": "web/anas-platyrhynchos_3.jpg",
+     "autor": "John Brew",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/159942431"
+    },
+    {
+     "src": "web/anas-platyrhynchos_4.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/105737491"
+    },
+    {
+     "src": "web/anas-platyrhynchos_5.jpg",
+     "autor": "euqirneto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/65460972"
+    },
+    {
+     "src": "web/anas-platyrhynchos_6.jpg",
+     "autor": "Carol Ann Vermeer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/167610980"
+    },
+    {
+     "src": "web/anas-platyrhynchos_7.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/107276403"
+    },
+    {
+     "src": "web/anas-platyrhynchos_8.jpg",
+     "autor": "Claude Lyneis",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/247429400"
+    }
+   ]
+  },
+  {
+   "id": "mareca-strepera",
+   "comun": "Ánade friso",
+   "alternativos": [],
+   "cientifico": "Mareca strepera",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Plumaje del macho grisáceo finamente estriado; popa negra azabache.",
+    "Llamativo espejuelo blanco puro en el ala (único entre ánades).",
+    "Pico gris oscuro uniforme en el macho.",
+    "Hembra muy similar a la del azulón pero con espejuelo blanco.",
+    "Nota: más pequeño; frente en pendiente; cuello estilizado. Hembras con pico oscuro y línea naranja."
+   ],
+   "imagenes": [
+    "img/mareca-strepera_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/mareca-strepera_1.jpg",
+     "autor": "Megan Ralph",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/64789751"
+    },
+    {
+     "src": "web/mareca-strepera_2.jpg",
+     "autor": "Валерия Ковалева",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/345435820"
+    },
+    {
+     "src": "web/mareca-strepera_3.jpg",
+     "autor": "Ben",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/413177517"
+    },
+    {
+     "src": "web/mareca-strepera_4.jpg",
+     "autor": "ChrisMcV",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/259468779"
+    },
+    {
+     "src": "web/mareca-strepera_5.jpg",
+     "autor": "Luke",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/71316866"
+    },
+    {
+     "src": "web/mareca-strepera_6.jpg",
+     "autor": "Gavin Slater",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/115840359"
+    },
+    {
+     "src": "web/mareca-strepera_7.jpg",
+     "autor": "Ирина Хохрякова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/356569328"
+    },
+    {
+     "src": "web/mareca-strepera_8.jpg",
+     "autor": "Glenn Berry",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/60463448"
+    }
+   ]
+  },
+  {
+   "id": "mareca-penelope",
+   "comun": "Ánade silbón",
+   "alternativos": [],
+   "cientifico": "Mareca penelope",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Macho con cabeza castaña y frente de un vivo color crema.",
+    "Cuerpo grisáceo con el pecho rosáceo y popa negra.",
+    "Silbido característico que delata su presencia en bandos grandes.",
+    "Pico corto de color gris azulado con la punta negra."
+   ],
+   "imagenes": [
+    "img/mareca-penelope_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/mareca-penelope_1.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2491393"
+    },
+    {
+     "src": "web/mareca-penelope_2.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68954460"
+    },
+    {
+     "src": "web/mareca-penelope_3.jpg",
+     "autor": "Jason Alexander",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/195309255"
+    },
+    {
+     "src": "web/mareca-penelope_4.jpg",
+     "autor": "Mathew Robinson",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/336352575"
+    },
+    {
+     "src": "web/mareca-penelope_5.jpg",
+     "autor": "Dave",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/146981948"
+    },
+    {
+     "src": "web/mareca-penelope_6.jpg",
+     "autor": "Millie Basden",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/253240013"
+    },
+    {
+     "src": "web/mareca-penelope_7.jpg",
+     "autor": "Alex Press",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254418626"
+    },
+    {
+     "src": "web/mareca-penelope_8.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68954462"
+    }
+   ]
+  },
+  {
+   "id": "anas-acuta",
+   "comun": "Ánade rabudo",
+   "alternativos": [],
+   "cientifico": "Anas acuta",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Silueta muy estilizada con cuello largo y delgado.",
+    "Macho con cabeza chocolate y franja blanca que sube por el cuello.",
+    "Dos rectrices centrales de la cola larguísimas y apuntadas.",
+    "Pecho blanco puro muy contrastado."
+   ],
+   "imagenes": [
+    "img/anas-acuta_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/anas-acuta_1.jpg",
+     "autor": "Matt Felperin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/200474404"
+    },
+    {
+     "src": "web/anas-acuta_2.jpg",
+     "autor": "Reuven Martin",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/20733428"
+    },
+    {
+     "src": "web/anas-acuta_3.jpg",
+     "autor": "psweet",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/19579207"
+    },
+    {
+     "src": "web/anas-acuta_4.jpg",
+     "autor": "Oscar Alejandro Morales Juárez",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/37226814"
+    },
+    {
+     "src": "web/anas-acuta_5.jpg",
+     "autor": "Sam Kieschnick",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2510501"
+    },
+    {
+     "src": "web/anas-acuta_6.jpg",
+     "autor": "Radu Teodoreanu",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/400159337"
+    },
+    {
+     "src": "web/anas-acuta_7.jpg",
+     "autor": "Ben",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/401136568"
+    },
+    {
+     "src": "web/anas-acuta_8.jpg",
+     "autor": "Matt Felperin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/227200452"
+    }
+   ]
+  },
+  {
+   "id": "spatula-clypeata",
+   "comun": "Pato cuchara",
+   "alternativos": [],
+   "cientifico": "Spatula clypeata",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Pico inconfundible: enorme, espatulado y mucho más ancho en la punta.",
+    "Macho con cabeza verde, pecho blanco y flancos castaños.",
+    "Iris del ojo de color amarillo brillante (macho).",
+    "Suele nadar con el pico sumergido filtrando el agua."
+   ],
+   "imagenes": [
+    "img/spatula-clypeata_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/spatula-clypeata_1.jpg",
+     "autor": "Daniel Benák",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/143500108"
+    },
+    {
+     "src": "web/spatula-clypeata_2.jpg",
+     "autor": "Claude Lyneis",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/194955806"
+    },
+    {
+     "src": "web/spatula-clypeata_3.jpg",
+     "autor": "Charlotte Kirchner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/34052132"
+    },
+    {
+     "src": "web/spatula-clypeata_4.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/45383361"
+    },
+    {
+     "src": "web/spatula-clypeata_5.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/140813782"
+    },
+    {
+     "src": "web/spatula-clypeata_6.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/140813856"
+    },
+    {
+     "src": "web/spatula-clypeata_7.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/120043049"
+    },
+    {
+     "src": "web/spatula-clypeata_8.jpg",
+     "autor": "Dan Vickers",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/262164450"
+    }
+   ]
+  },
+  {
+   "id": "anas-crecca",
+   "comun": "Cerceta común",
+   "alternativos": [
+    "Cerceta"
+   ],
+   "cientifico": "Anas crecca",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "El pato más pequeño de la península.",
+    "Macho con cabeza castaña y ancha franja verde tras el ojo.",
+    "Llamativo espejuelo verde esmeralda brillante en el ala.",
+    "Línea blanca horizontal en los flancos del macho."
+   ],
+   "imagenes": [
+    "img/anas-crecca_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/anas-crecca_1.jpg",
+     "autor": "Daniel Pineda Vera",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/206341523"
+    },
+    {
+     "src": "web/anas-crecca_2.jpg",
+     "autor": "Елена Смирнова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/104525876"
+    },
+    {
+     "src": "web/anas-crecca_3.jpg",
+     "autor": "Dario Taraborelli",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/67024246"
+    },
+    {
+     "src": "web/anas-crecca_4.jpg",
+     "autor": "wweellll",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/335108472"
+    },
+    {
+     "src": "web/anas-crecca_5.jpg",
+     "autor": "Laura Liedtke",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/148344723"
+    },
+    {
+     "src": "web/anas-crecca_6.jpg",
+     "autor": "Михаил Голомысов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/118572448"
+    },
+    {
+     "src": "web/anas-crecca_7.jpg",
+     "autor": "Mark",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/389793098"
+    },
+    {
+     "src": "web/anas-crecca_8.jpg",
+     "autor": "Евгений Маринкин",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/213741978"
+    }
+   ]
+  },
+  {
+   "id": "netta-rufina",
+   "comun": "Pato colorado",
+   "alternativos": [],
+   "cientifico": "Netta rufina",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Macho con cabeza voluminosa naranja vivo y pico rojo coral.",
+    "Pecho, popa y línea dorsal negros; flancos blancos puros.",
+    "Es un pato buceador; ojo de color rojo carmín.",
+    "En vuelo muestra una ancha franja alar blanca."
+   ],
+   "imagenes": [
+    "img/netta-rufina_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/netta-rufina_1.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/106081060"
+    },
+    {
+     "src": "web/netta-rufina_2.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/77408655"
+    },
+    {
+     "src": "web/netta-rufina_3.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/148702821"
+    },
+    {
+     "src": "web/netta-rufina_4.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83513503"
+    },
+    {
+     "src": "web/netta-rufina_5.jpg",
+     "autor": "bristolian",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/78580626"
+    },
+    {
+     "src": "web/netta-rufina_6.jpg",
+     "autor": "Jose Gutierrez Higa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/410469526"
+    },
+    {
+     "src": "web/netta-rufina_7.jpg",
+     "autor": "rober025",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/65142423"
+    },
+    {
+     "src": "web/netta-rufina_8.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/202258743"
+    }
+   ]
+  },
+  {
+   "id": "aythya-fuligula",
+   "comun": "Porrón moñudo",
+   "alternativos": [],
+   "cientifico": "Aythya fuligula",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Pato buceador negro con flancos blancos muy limpios.",
+    "Pequeño moño o penacho colgante tras la cabeza (macho).",
+    "Ojo de iris amarillo oro muy llamativo.",
+    "Pico gris azulado con punta negra nítida."
+   ],
+   "imagenes": [
+    "img/aythya-fuligula_1.jpg",
+    "img/aythya-fuligula_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/aythya-fuligula_1.jpg",
+     "autor": "Adi Peter",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/217055622"
+    },
+    {
+     "src": "web/aythya-fuligula_2.jpg",
+     "autor": "Nigel Voaden",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/73090470"
+    },
+    {
+     "src": "web/aythya-fuligula_3.jpg",
+     "autor": "alicia penney",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/4995159"
+    },
+    {
+     "src": "web/aythya-fuligula_4.jpg",
+     "autor": "Attila Oláh",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/137167616"
+    },
+    {
+     "src": "web/aythya-fuligula_5.jpg",
+     "autor": "Вадим Ибрагимов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/340056307"
+    },
+    {
+     "src": "web/aythya-fuligula_6.jpg",
+     "autor": "Justin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/5292868"
+    },
+    {
+     "src": "web/aythya-fuligula_7.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/70050197"
+    },
+    {
+     "src": "web/aythya-fuligula_8.jpg",
+     "autor": "Susan Marley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/108256346"
+    }
+   ]
+  },
+  {
+   "id": "aythya-ferina",
+   "comun": "Porrón común",
+   "alternativos": [],
+   "cientifico": "Aythya ferina",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Macho tricolor: cabeza castaño rojiza, pecho negro y cuerpo gris ceniza.",
+    "Pico oscuro con banda transversal de color gris azulado pálido.",
+    "Ojo rojo carmín; perfil de la cabeza marcadamente triangular.",
+    "Buceador habitual en lagunas profundas y embalses."
+   ],
+   "imagenes": [
+    "img/aythya-ferina_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/aythya-ferina_1.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/188912656"
+    },
+    {
+     "src": "web/aythya-ferina_2.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/61445334"
+    },
+    {
+     "src": "web/aythya-ferina_3.jpg",
+     "autor": "Braden J. Judson",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/69469427"
+    },
+    {
+     "src": "web/aythya-ferina_4.jpg",
+     "autor": "SIA",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/197118485"
+    },
+    {
+     "src": "web/aythya-ferina_5.jpg",
+     "autor": "Raffaele Maiorano",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/96060914"
+    },
+    {
+     "src": "web/aythya-ferina_6.jpg",
+     "autor": "Anatoliy Ananin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/81826011"
+    },
+    {
+     "src": "web/aythya-ferina_7.jpg",
+     "autor": "Ирина Хохрякова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/352548530"
+    },
+    {
+     "src": "web/aythya-ferina_8.jpg",
+     "autor": "Tomas Pocius",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/206730258"
+    }
+   ]
+  },
+  {
+   "id": "tadorna-tadorna",
+   "comun": "Tarro blanco",
+   "alternativos": [],
+   "cientifico": "Tadorna tadorna",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Plumaje blanco con banda pectoral castaña que rodea el cuerpo.",
+    "Cabeza verde oscura (casi negra) y pico de un rojo vivo.",
+    "Macho con protuberancia carnosa roja en la base del pico en celo.",
+    "Habita estuarios y lagunas salobres de costa."
+   ],
+   "imagenes": [
+    "img/tadorna-tadorna_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tadorna-tadorna_1.jpg",
+     "autor": "Daniel Seth Jackson",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/122077710"
+    },
+    {
+     "src": "web/tadorna-tadorna_2.jpg",
+     "autor": "Kostas Zontanos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/344490260"
+    },
+    {
+     "src": "web/tadorna-tadorna_3.jpg",
+     "autor": "William Stephens",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/71805252"
+    },
+    {
+     "src": "web/tadorna-tadorna_4.jpg",
+     "autor": "Guy Babineau",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/223376477"
+    },
+    {
+     "src": "web/tadorna-tadorna_5.jpg",
+     "autor": "Kostas Zontanos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/70546885"
+    },
+    {
+     "src": "web/tadorna-tadorna_6.jpg",
+     "autor": "pete_gateley",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/289228840"
+    },
+    {
+     "src": "web/tadorna-tadorna_7.jpg",
+     "autor": "Sheelagh Halsey",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83558379"
+    },
+    {
+     "src": "web/tadorna-tadorna_8.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/77411550"
+    }
+   ]
+  },
+  {
+   "id": "anser-anser",
+   "comun": "Ánsar común",
+   "alternativos": [
+    "Ánsar",
+    "Ganso común"
+   ],
+   "cientifico": "Anser anser",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Ganso grande de plumaje grisáceo-pardo barreado.",
+    "Pico naranja macizo sin marcas negras y patas rosáceas.",
+    "Invernante masivo en Doñana y humedales esteparios.",
+    "Ancestro directo del ganso doméstico.",
+    "Nota: los gansos son más grandes, altos y robustos, con cuellos más largos; no tienen dimorfismo sexual (ambos sexos se parecen), al contrario que los patos."
+   ],
+   "imagenes": [
+    "img/anser-anser_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/anser-anser_1.jpg",
+     "autor": "olmagon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/281640151"
+    },
+    {
+     "src": "web/anser-anser_2.jpg",
+     "autor": "Rhys",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/339953969"
+    },
+    {
+     "src": "web/anser-anser_3.jpg",
+     "autor": "Dr. Sven Gippner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/110510665"
+    },
+    {
+     "src": "web/anser-anser_4.jpg",
+     "autor": "SIA",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/274898523"
+    },
+    {
+     "src": "web/anser-anser_5.jpg",
+     "autor": "Nigel Voaden",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/5280057"
+    },
+    {
+     "src": "web/anser-anser_6.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/262051749"
+    },
+    {
+     "src": "web/anser-anser_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/258405470"
+    },
+    {
+     "src": "web/anser-anser_8.jpg",
+     "autor": "Rhys",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/350093691"
+    }
+   ]
+  },
+  {
+   "id": "cygnus-olor",
+   "comun": "Cisne vulgar",
+   "alternativos": [
+    "Cisne",
+    "Cisne común"
+   ],
+   "cientifico": "Cygnus olor",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Ave acuática colosal enteramente blanca.",
+    "Pico de color naranja vivo con bordes y base negros.",
+    "Tubérculo carnoso negro muy prominente en la frente (mayor en machos).",
+    "Suele nadar manteniendo el cuello en una elegante curva en forma de \"S\"."
+   ],
+   "imagenes": [
+    "img/cygnus-olor_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/cygnus-olor_1.jpg",
+     "autor": "carnifex",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/10064753"
+    },
+    {
+     "src": "web/cygnus-olor_2.jpg",
+     "autor": "Philipp Pavelka",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/13231757"
+    },
+    {
+     "src": "web/cygnus-olor_3.jpg",
+     "autor": "Radu Teodoreanu",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/340807169"
+    },
+    {
+     "src": "web/cygnus-olor_4.jpg",
+     "autor": "Thomas Koffel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/297841724"
+    },
+    {
+     "src": "web/cygnus-olor_5.jpg",
+     "autor": "Laura Mae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/163743160"
+    },
+    {
+     "src": "web/cygnus-olor_6.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/70107122"
+    },
+    {
+     "src": "web/cygnus-olor_7.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/150837821"
+    },
+    {
+     "src": "web/cygnus-olor_8.jpg",
+     "autor": "Allison Zon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233717507"
+    }
+   ]
+  },
+  {
+   "id": "oxyura-leucocephala",
+   "comun": "Malvasía cabeciblanca",
+   "alternativos": [],
+   "cientifico": "Oxyura leucocephala",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Macho con cabeza blanca, corona negra y pico azul celeste hinchado.",
+    "Pato buceador pequeño con cola rígida que suele llevar erguida.",
+    "Cuerpo rechoncho de color pardo castaño.",
+    "Especie en peligro de extinción, emblemática de lagunas andaluzas."
+   ],
+   "imagenes": [
+    "img/oxyura-leucocephala_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/oxyura-leucocephala_1.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/68488192"
+    },
+    {
+     "src": "web/oxyura-leucocephala_2.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/322263961"
+    },
+    {
+     "src": "web/oxyura-leucocephala_3.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/319293982"
+    },
+    {
+     "src": "web/oxyura-leucocephala_4.jpg",
+     "autor": "Настя Бухвалова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/365426224"
+    },
+    {
+     "src": "web/oxyura-leucocephala_5.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/319293974"
+    },
+    {
+     "src": "web/oxyura-leucocephala_6.jpg",
+     "autor": "Natalya Ivanova",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/355091824"
+    },
+    {
+     "src": "web/oxyura-leucocephala_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/262051752"
+    },
+    {
+     "src": "web/oxyura-leucocephala_8.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/154946814"
+    }
+   ]
+  },
+  {
+   "id": "oxyura-jamaicensis",
+   "comun": "Malvasía canela",
+   "alternativos": [],
+   "cientifico": "Oxyura jamaicensis",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Macho nupcial con cuerpo castaño rojizo y cabeza negra con mejillas blancas.",
+    "Pico azul celeste brillante, cóncavo y notablemente abultado en la base.",
+    "Cola rígida y oscura que suele mantener levantada en ángulo vertical.",
+    "Especie exótica invasora de origen americano que hibrida con la malvasía cabeciblanca."
+   ],
+   "imagenes": [
+    "img/oxyura-jamaicensis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/oxyura-jamaicensis_1.jpg",
+     "autor": "Daniel Pineda Vera",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/206341579"
+    },
+    {
+     "src": "web/oxyura-jamaicensis_2.jpg",
+     "autor": "Rob Wadsworth",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/40581332"
+    },
+    {
+     "src": "web/oxyura-jamaicensis_3.jpg",
+     "autor": "Pam Hardy",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/358561614"
+    },
+    {
+     "src": "web/oxyura-jamaicensis_4.jpg",
+     "autor": "Jade Fortnash",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/142405044"
+    },
+    {
+     "src": "web/oxyura-jamaicensis_5.jpg",
+     "autor": "Millie Basden",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/10281605"
+    },
+    {
+     "src": "web/oxyura-jamaicensis_6.jpg",
+     "autor": "Jonathan Eisen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/222381013"
+    },
+    {
+     "src": "web/oxyura-jamaicensis_7.jpg",
+     "autor": "Nathanael Aff",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/74810320"
+    },
+    {
+     "src": "web/oxyura-jamaicensis_8.jpg",
+     "autor": "Ben",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/387384468"
+    }
+   ]
+  },
+  {
+   "id": "marmaronetta-angustirostris",
+   "comun": "Cerceta pardilla",
+   "alternativos": [],
+   "cientifico": "Marmaronetta angustirostris",
+   "orden": "Anseriformes",
+   "familia": "Anatidae",
+   "rasgos": [
+    "Plumaje muy pálido, marmoleado o moteado de beige y crema.",
+    "Característico antifaz oscuro difuso alrededor del ojo.",
+    "Carece de espejuelo brillante en las alas (carácter único entre cercetas).",
+    "Muy amenazada; habita marismas someras con mucha vegetación."
+   ],
+   "imagenes": [
+    "img/marmaronetta-angustirostris_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/marmaronetta-angustirostris_1.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/57814501"
+    },
+    {
+     "src": "web/marmaronetta-angustirostris_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/255811533"
+    },
+    {
+     "src": "web/marmaronetta-angustirostris_3.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/255811528"
+    },
+    {
+     "src": "web/marmaronetta-angustirostris_4.jpg",
+     "autor": "ecovore",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/290678536"
+    },
+    {
+     "src": "web/marmaronetta-angustirostris_5.jpg",
+     "autor": "Cristina Hutchison",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/388880479"
+    },
+    {
+     "src": "web/marmaronetta-angustirostris_6.jpg",
+     "autor": "David Alarcon Moreno",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/313097095"
+    },
+    {
+     "src": "web/marmaronetta-angustirostris_7.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/150964420"
+    },
+    {
+     "src": "web/marmaronetta-angustirostris_8.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/57811248"
+    }
+   ]
+  },
+  {
+   "id": "apus-apus",
+   "comun": "Vencejo común",
+   "alternativos": [],
+   "cientifico": "Apus apus",
+   "orden": "Apodiformes",
+   "familia": "Apodidae",
+   "rasgos": [
+    "Silueta en ballesta con alas largas en guadaña.",
+    "Plumaje enteramente negro-marrón excepto mancha blanca en garganta.",
+    "Vida aérea casi total; nunca se posa en el suelo.",
+    "Grito sibilante agudo muy común en núcleos urbanos en verano."
+   ],
+   "imagenes": [
+    "img/apus-apus_1.jpg",
+    "img/apus-apus_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/apus-apus_1.jpg",
+     "autor": "Константин Селивёрстов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/163450373"
+    },
+    {
+     "src": "web/apus-apus_2.jpg",
+     "autor": "Luis Ferreira",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/216170697"
+    },
+    {
+     "src": "web/apus-apus_3.jpg",
+     "autor": "Stanislav Murashkin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/168712307"
+    },
+    {
+     "src": "web/apus-apus_4.jpg",
+     "autor": "Настя Бухвалова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/385189352"
+    },
+    {
+     "src": "web/apus-apus_5.jpg",
+     "autor": "euqirneto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/230851928"
+    },
+    {
+     "src": "web/apus-apus_6.jpg",
+     "autor": "Edoardo Nardelli",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204953412"
+    },
+    {
+     "src": "web/apus-apus_7.jpg",
+     "autor": "Георгий Виноградов (Georgy Vinogradov)",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/61339675"
+    },
+    {
+     "src": "web/apus-apus_8.jpg",
+     "autor": "Margherita Ferraiuolo",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/120801394"
+    }
+   ]
+  },
+  {
+   "id": "apus-pallidus",
+   "comun": "Vencejo pálido",
+   "alternativos": [],
+   "cientifico": "Apus pallidus",
+   "orden": "Apodiformes",
+   "familia": "Apodidae",
+   "rasgos": [
+    "Coloración marrón más clara y terrosa que el vencejo común.",
+    "Mancha blanca de la garganta más extensa y nítida.",
+    "Cabeza más ancha y \"escamas\" visibles en el plumaje.",
+    "Llega antes de la migración y se marcha más tarde que el común."
+   ],
+   "imagenes": [
+    "img/apus-pallidus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/apus-pallidus_1.jpg",
+     "autor": "Janne Teivonen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/122321204"
+    },
+    {
+     "src": "web/apus-pallidus_2.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/161580155"
+    },
+    {
+     "src": "web/apus-pallidus_3.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/336511531"
+    },
+    {
+     "src": "web/apus-pallidus_4.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/168339252"
+    },
+    {
+     "src": "web/apus-pallidus_5.jpg",
+     "autor": "Gianluca Congi🪶🦆🌲",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/389729473"
+    },
+    {
+     "src": "web/apus-pallidus_6.jpg",
+     "autor": "Darío Calvente Viera",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/167879174"
+    },
+    {
+     "src": "web/apus-pallidus_7.jpg",
+     "autor": "Dan Harville",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/144802215"
+    },
+    {
+     "src": "web/apus-pallidus_8.jpg",
+     "autor": "scolym",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/137466801"
+    }
+   ]
+  },
+  {
+   "id": "tachymarptis-melba",
+   "comun": "Vencejo real",
+   "alternativos": [],
+   "cientifico": "Tachymarptis melba",
+   "orden": "Apodiformes",
+   "familia": "Apodidae",
+   "rasgos": [
+    "Vencejo de gran tamaño (envergadura notable).",
+    "Vientre y garganta de color blanco puro, separados por banda pectoral oscura.",
+    "Vuelo potente y rápido en cortados rocosos y edificios altos.",
+    "Dorso y alas de color marrón grisáceo."
+   ],
+   "imagenes": [
+    "img/tachymarptis-melba_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tachymarptis-melba_1.jpg",
+     "autor": "Paulo Caseirito",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/112188135"
+    },
+    {
+     "src": "web/tachymarptis-melba_2.jpg",
+     "autor": "Mitul and Vijul Singh",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/332270151"
+    },
+    {
+     "src": "web/tachymarptis-melba_3.jpg",
+     "autor": "Mirela",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/167421169"
+    },
+    {
+     "src": "web/tachymarptis-melba_4.jpg",
+     "autor": "Gianluca Congi🪶🦆🌲",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/173860489"
+    },
+    {
+     "src": "web/tachymarptis-melba_5.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/49344144"
+    },
+    {
+     "src": "web/tachymarptis-melba_6.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/125323556"
+    },
+    {
+     "src": "web/tachymarptis-melba_7.jpg",
+     "autor": "Gergely Nigg",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/47891811"
+    },
+    {
+     "src": "web/tachymarptis-melba_8.jpg",
+     "autor": "avocat",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/104322360"
+    }
+   ]
+  },
+  {
+   "id": "caprimulgus-europaeus",
+   "comun": "Chotacabras europeo",
+   "alternativos": [
+    "Chotacabras gris"
+   ],
+   "cientifico": "Caprimulgus europaeus",
+   "orden": "Caprimulgiformes",
+   "familia": "Caprimulgidae",
+   "rasgos": [
+    "Plumaje extremadamente críptico (imitación de hojas secas y corteza).",
+    "Nocturno; boca enorme con vibrisas para cazar insectos al vuelo.",
+    "Macho con manchas blancas en puntas de alas y cola.",
+    "Canto característico: un ronroneo monótono y sostenido."
+   ],
+   "imagenes": [
+    "img/caprimulgus-europaeus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/caprimulgus-europaeus_1.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/97243486"
+    },
+    {
+     "src": "web/caprimulgus-europaeus_2.jpg",
+     "autor": "Георгий Виноградов (Georgy Vinogradov)",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/97124946"
+    },
+    {
+     "src": "web/caprimulgus-europaeus_3.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18372864"
+    },
+    {
+     "src": "web/caprimulgus-europaeus_4.jpg",
+     "autor": "Виктор",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83435058"
+    },
+    {
+     "src": "web/caprimulgus-europaeus_5.jpg",
+     "autor": "Leonardo Ancillotto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2622000"
+    },
+    {
+     "src": "web/caprimulgus-europaeus_6.jpg",
+     "autor": "ikelman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/218739578"
+    },
+    {
+     "src": "web/caprimulgus-europaeus_7.jpg",
+     "autor": "zj_adram",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/150315238"
+    },
+    {
+     "src": "web/caprimulgus-europaeus_8.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/57366294"
+    }
+   ]
+  },
+  {
+   "id": "caprimulgus-ruficollis",
+   "comun": "Chotacabras cuellirrojo",
+   "alternativos": [],
+   "cientifico": "Caprimulgus ruficollis",
+   "orden": "Caprimulgiformes",
+   "familia": "Caprimulgidae",
+   "rasgos": [
+    "Más grande que el europeo; marcado collar de color castaño-rojizo.",
+    "Plumaje más ocre y claro con diseño de rayas negras.",
+    "Hábito de posarse en caminos de tierra durante la noche.",
+    "Voz característica sorda: \"cutóc-cutóc\"."
+   ],
+   "imagenes": [
+    "img/caprimulgus-ruficollis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/caprimulgus-ruficollis_1.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/6251682"
+    },
+    {
+     "src": "web/caprimulgus-ruficollis_2.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/74259291"
+    },
+    {
+     "src": "web/caprimulgus-ruficollis_3.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/82337535"
+    },
+    {
+     "src": "web/caprimulgus-ruficollis_4.jpg",
+     "autor": "Juan Rodríguez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/218065776"
+    },
+    {
+     "src": "web/caprimulgus-ruficollis_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/317561567"
+    },
+    {
+     "src": "web/caprimulgus-ruficollis_6.jpg",
+     "autor": "Naturalista",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/163462113"
+    },
+    {
+     "src": "web/caprimulgus-ruficollis_7.jpg",
+     "autor": "Demian Hiß",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265410304"
+    },
+    {
+     "src": "web/caprimulgus-ruficollis_8.jpg",
+     "autor": "Jacek Pietruszewski",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279356145"
+    }
+   ]
+  },
+  {
+   "id": "himantopus-himantopus",
+   "comun": "Cigüeñuela común",
+   "alternativos": [
+    "Cigüeñuela"
+   ],
+   "cientifico": "Himantopus himantopus",
+   "orden": "Charadriiformes",
+   "familia": "Recurvirostridae",
+   "rasgos": [
+    "Patas desproporcionadamente largas de un color rosa rojizo.",
+    "Fuerte contraste blanco (vientre) y negro (manto/alas).",
+    "Pico negro largo, recto y muy fino.",
+    "Elegante zancuda común en salinas y lagunas someras."
+   ],
+   "imagenes": [
+    "img/himantopus-himantopus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/himantopus-himantopus_1.jpg",
+     "autor": "Parth Kansara",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/143343973"
+    },
+    {
+     "src": "web/himantopus-himantopus_2.jpg",
+     "autor": "Tero Linjama",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/124245261"
+    },
+    {
+     "src": "web/himantopus-himantopus_3.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/80332147"
+    },
+    {
+     "src": "web/himantopus-himantopus_4.jpg",
+     "autor": "David Pereira",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/383096709"
+    },
+    {
+     "src": "web/himantopus-himantopus_5.jpg",
+     "autor": "Kostas Zontanos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/76925516"
+    },
+    {
+     "src": "web/himantopus-himantopus_6.jpg",
+     "autor": "Nachman bones",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/240379833"
+    },
+    {
+     "src": "web/himantopus-himantopus_7.jpg",
+     "autor": "Алина Урусова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/370144680"
+    },
+    {
+     "src": "web/himantopus-himantopus_8.jpg",
+     "autor": "Tony Rebelo",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/202720843"
+    }
+   ]
+  },
+  {
+   "id": "recurvirostra-avosetta",
+   "comun": "Avoceta común",
+   "alternativos": [
+    "Avoceta"
+   ],
+   "cientifico": "Recurvirostra avosetta",
+   "orden": "Charadriiformes",
+   "familia": "Recurvirostridae",
+   "rasgos": [
+    "Pico largo negro marcadamente curvado hacia arriba.",
+    "Diseño geométrico elegante de plumaje blanco y negro.",
+    "Patas largas de color gris azulado.",
+    "Alimenta barriendo el limo de lado a lado con el pico."
+   ],
+   "imagenes": [
+    "img/recurvirostra-avosetta_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/recurvirostra-avosetta_1.jpg",
+     "autor": "Leonard Wägele",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/32013073"
+    },
+    {
+     "src": "web/recurvirostra-avosetta_2.jpg",
+     "autor": "Алина Урусова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/36347850"
+    },
+    {
+     "src": "web/recurvirostra-avosetta_3.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/75534963"
+    },
+    {
+     "src": "web/recurvirostra-avosetta_4.jpg",
+     "autor": "Gergely Nigg",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/45618255"
+    },
+    {
+     "src": "web/recurvirostra-avosetta_5.jpg",
+     "autor": "Daniel Hinckley",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/353840980"
+    },
+    {
+     "src": "web/recurvirostra-avosetta_6.jpg",
+     "autor": "葉子",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/188522275"
+    },
+    {
+     "src": "web/recurvirostra-avosetta_7.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/154946822"
+    },
+    {
+     "src": "web/recurvirostra-avosetta_8.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/85489847"
+    }
+   ]
+  },
+  {
+   "id": "vanellus-vanellus",
+   "comun": "Avefría",
+   "alternativos": [
+    "Avefría europea"
+   ],
+   "cientifico": "Vanellus vanellus",
+   "orden": "Charadriiformes",
+   "familia": "Charadriidae",
+   "rasgos": [
+    "Largo penacho o cresta eréctil de color negro en la cabeza.",
+    "Dorso verde metálico; pecho negro y vientre blanco.",
+    "Alas anchas y redondeadas en vuelo; voz \"pi-ui\".",
+    "Invernante abundante en campos de labranza y regadíos."
+   ],
+   "imagenes": [
+    "img/vanellus-vanellus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/vanellus-vanellus_1.jpg",
+     "autor": "Nikita Gerasin",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/162303213"
+    },
+    {
+     "src": "web/vanellus-vanellus_2.jpg",
+     "autor": "Roy Lowry",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/52008806"
+    },
+    {
+     "src": "web/vanellus-vanellus_3.jpg",
+     "autor": "egorbirder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189438474"
+    },
+    {
+     "src": "web/vanellus-vanellus_4.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/272460517"
+    },
+    {
+     "src": "web/vanellus-vanellus_5.jpg",
+     "autor": "雲一百香果",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/143935728"
+    },
+    {
+     "src": "web/vanellus-vanellus_6.jpg",
+     "autor": "Marco Mussita",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68098192"
+    },
+    {
+     "src": "web/vanellus-vanellus_7.jpg",
+     "autor": "Thorsten Hackbarth",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/338226136"
+    },
+    {
+     "src": "web/vanellus-vanellus_8.jpg",
+     "autor": "Roman A. Lagazyuk (Роман А. Лагазюк)",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/217675487"
+    }
+   ]
+  },
+  {
+   "id": "charadrius-alexandrinus",
+   "comun": "Chorlitejo patinegro",
+   "alternativos": [],
+   "cientifico": "Charadrius alexandrinus",
+   "orden": "Charadriiformes",
+   "familia": "Charadriidae",
+   "rasgos": [
+    "Limícola pequeño con patas oscuras (negras).",
+    "Collar interrumpido (dos manchas laterales en el pecho).",
+    "Frente negra y nuca de tono rojizo (macho).",
+    "Nidifica en playas vírgenes y dunas costeras.",
+    "Nota: los chorlitejos se reconocen por sus collares negros."
+   ],
+   "imagenes": [
+    "img/charadrius-alexandrinus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/charadrius-alexandrinus_1.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2391330"
+    },
+    {
+     "src": "web/charadrius-alexandrinus_2.jpg",
+     "autor": "Zinogre",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/80026495"
+    },
+    {
+     "src": "web/charadrius-alexandrinus_3.jpg",
+     "autor": "Jennifer Frey",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/240610918"
+    },
+    {
+     "src": "web/charadrius-alexandrinus_4.jpg",
+     "autor": "Bruno Peixoto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/167170830"
+    },
+    {
+     "src": "web/charadrius-alexandrinus_5.jpg",
+     "autor": "Bruno Peixoto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/167169989"
+    },
+    {
+     "src": "web/charadrius-alexandrinus_6.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2391372"
+    },
+    {
+     "src": "web/charadrius-alexandrinus_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204739540"
+    },
+    {
+     "src": "web/charadrius-alexandrinus_8.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2391300"
+    }
+   ]
+  },
+  {
+   "id": "charadrius-dubius",
+   "comun": "Chorlitejo chico",
+   "alternativos": [],
+   "cientifico": "Charadrius dubius",
+   "orden": "Charadriiformes",
+   "familia": "Charadriidae",
+   "rasgos": [
+    "Plumaje dorsal pardo arenoso, partes inferiores blancas y nítido collar negro.",
+    "Anillo ocular de color amarillo.",
+    "Nota: los chorlitejos se reconocen por sus collares negros."
+   ],
+   "imagenes": [
+    "img/charadrius-dubius_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/charadrius-dubius_1.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2390245"
+    },
+    {
+     "src": "web/charadrius-dubius_2.jpg",
+     "autor": "Griha Hasanov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/75648696"
+    },
+    {
+     "src": "web/charadrius-dubius_3.jpg",
+     "autor": "Константин Селивёрстов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/36349870"
+    },
+    {
+     "src": "web/charadrius-dubius_4.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/60839336"
+    },
+    {
+     "src": "web/charadrius-dubius_5.jpg",
+     "autor": "Brian du Preez",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/20175433"
+    },
+    {
+     "src": "web/charadrius-dubius_6.jpg",
+     "autor": "Donsky",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/346344837"
+    },
+    {
+     "src": "web/charadrius-dubius_7.jpg",
+     "autor": "Donsky",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/372539444"
+    },
+    {
+     "src": "web/charadrius-dubius_8.jpg",
+     "autor": "Олеся",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/359931915"
+    }
+   ]
+  },
+  {
+   "id": "limosa-limosa",
+   "comun": "Aguja colinegra",
+   "alternativos": [],
+   "cientifico": "Limosa limosa",
+   "orden": "Charadriiformes",
+   "familia": "Scolopacidae",
+   "rasgos": [
+    "Gran porte y silueta esbelta; elegante ave limícola de unos 40 cm de longitud con cuello alargado y patas oscuras zancudas.",
+    "Largo pico recto en forma de aguja, muy característico por su base anaranjada y su punta negra contrastante."
+   ],
+   "imagenes": [
+    "img/limosa-limosa_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/limosa-limosa_1.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/140813776"
+    },
+    {
+     "src": "web/limosa-limosa_2.jpg",
+     "autor": "Phil James",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109743486"
+    },
+    {
+     "src": "web/limosa-limosa_3.jpg",
+     "autor": "petehawkins",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/192481560"
+    },
+    {
+     "src": "web/limosa-limosa_4.jpg",
+     "autor": "Pål A. Olsvik",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144791289"
+    },
+    {
+     "src": "web/limosa-limosa_5.jpg",
+     "autor": "Gannu03",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/210190764"
+    },
+    {
+     "src": "web/limosa-limosa_6.jpg",
+     "autor": "ian_mcallan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/260959484"
+    },
+    {
+     "src": "web/limosa-limosa_7.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2357032"
+    },
+    {
+     "src": "web/limosa-limosa_8.jpg",
+     "autor": "Ian Dugdale",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/303337383"
+    }
+   ]
+  },
+  {
+   "id": "burhinus-oedicnemus",
+   "comun": "Alcaraván común",
+   "alternativos": [
+    "Alcaraván"
+   ],
+   "cientifico": "Burhinus oedicnemus",
+   "orden": "Charadriiformes",
+   "familia": "Burhinidae",
+   "rasgos": [
+    "Grandes ojos de iris amarillo vivo; hábitos crepusculares.",
+    "Plumaje críptico arenoso-pardo; patas amarillas robustas.",
+    "Se tumba en el suelo agazapado para camuflarse.",
+    "Habita estepas secas y campos de cultivo de secano."
+   ],
+   "imagenes": [
+    "img/burhinus-oedicnemus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/burhinus-oedicnemus_1.jpg",
+     "autor": "Julia Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144241622"
+    },
+    {
+     "src": "web/burhinus-oedicnemus_2.jpg",
+     "autor": "Kudaibergen Amirekul",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/123055059"
+    },
+    {
+     "src": "web/burhinus-oedicnemus_3.jpg",
+     "autor": "Daniel Benák",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/143500122"
+    },
+    {
+     "src": "web/burhinus-oedicnemus_4.jpg",
+     "autor": "Kudaibergen Amirekul",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/123060779"
+    },
+    {
+     "src": "web/burhinus-oedicnemus_5.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109221751"
+    },
+    {
+     "src": "web/burhinus-oedicnemus_6.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109221754"
+    },
+    {
+     "src": "web/burhinus-oedicnemus_7.jpg",
+     "autor": "egorbirder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/215457826"
+    },
+    {
+     "src": "web/burhinus-oedicnemus_8.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109221758"
+    }
+   ]
+  },
+  {
+   "id": "larus-michahellis",
+   "comun": "Gaviota patiamarilla",
+   "alternativos": [],
+   "cientifico": "Larus michahellis",
+   "orden": "Charadriiformes",
+   "familia": "Laridae",
+   "rasgos": [
+    "Manto gris plata y patas amarillas nítidas (adultos).",
+    "Pico amarillo con mancha roja en la mandíbula inferior.",
+    "Gaviota grande más común de los litorales ibéricos.",
+    "Muy adaptable, presente también en embalses y ciudades."
+   ],
+   "imagenes": [
+    "img/larus-michahellis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/larus-michahellis_1.jpg",
+     "autor": "katunchik",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/5096566"
+    },
+    {
+     "src": "web/larus-michahellis_2.jpg",
+     "autor": "Nodnarb Nedloh",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/50054278"
+    },
+    {
+     "src": "web/larus-michahellis_3.jpg",
+     "autor": "Leonardo Rapisarda",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279499386"
+    },
+    {
+     "src": "web/larus-michahellis_4.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/262115563"
+    },
+    {
+     "src": "web/larus-michahellis_5.jpg",
+     "autor": "nick_goldwater",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279432481"
+    },
+    {
+     "src": "web/larus-michahellis_6.jpg",
+     "autor": "Radu Teodoreanu",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/239342914"
+    },
+    {
+     "src": "web/larus-michahellis_7.jpg",
+     "autor": "emilyd47",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/348958850"
+    },
+    {
+     "src": "web/larus-michahellis_8.jpg",
+     "autor": "Gianmaria Bonari",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/42464099"
+    }
+   ]
+  },
+  {
+   "id": "chroicocephalus-ridibundus",
+   "comun": "Gaviota reidora",
+   "alternativos": [],
+   "cientifico": "Chroicocephalus ridibundus",
+   "orden": "Charadriiformes",
+   "familia": "Laridae",
+   "rasgos": [
+    "Caperuza marrón chocolate (nupcial) o mancha tras el ojo (invierno).",
+    "Pico y patas de color rojo oscuro; tamaño pequeño.",
+    "Borde anterior del ala de color blanco muy visible en vuelo.",
+    "Frecuente en puertos, ríos y lagunas interiores."
+   ],
+   "imagenes": [
+    "img/chroicocephalus-ridibundus_1.jpg",
+    "img/chroicocephalus-ridibundus_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/chroicocephalus-ridibundus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/369715830"
+    },
+    {
+     "src": "web/chroicocephalus-ridibundus_2.jpg",
+     "autor": "Owen Strickland",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/278297590"
+    },
+    {
+     "src": "web/chroicocephalus-ridibundus_3.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/58483685"
+    },
+    {
+     "src": "web/chroicocephalus-ridibundus_4.jpg",
+     "autor": "Brian Gratwicke",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/814609"
+    },
+    {
+     "src": "web/chroicocephalus-ridibundus_5.jpg",
+     "autor": "Jacek Pietruszewski",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/104335351"
+    },
+    {
+     "src": "web/chroicocephalus-ridibundus_6.jpg",
+     "autor": "Charlie Farrell",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/100267753"
+    },
+    {
+     "src": "web/chroicocephalus-ridibundus_7.jpg",
+     "autor": "Alexis Lours",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/214447342"
+    },
+    {
+     "src": "web/chroicocephalus-ridibundus_8.jpg",
+     "autor": "Олеся",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/346226419"
+    }
+   ]
+  },
+  {
+   "id": "larus-fuscus",
+   "comun": "Gaviota sombría",
+   "alternativos": [],
+   "cientifico": "Larus fuscus",
+   "orden": "Charadriiformes",
+   "familia": "Laridae",
+   "rasgos": [
+    "Manto de color gris pizarra oscuro (casi negro).",
+    "Patas amarillas. Semejante a la patiamarilla pero dorso oscuro.",
+    "Invernante masiva en vertederos interiores y costas.",
+    "Menor tamaño que la patiamarilla por lo general."
+   ],
+   "imagenes": [
+    "img/larus-fuscus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/larus-fuscus_1.jpg",
+     "autor": "Kim, Hyun-tae",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2459587"
+    },
+    {
+     "src": "web/larus-fuscus_2.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68596022"
+    },
+    {
+     "src": "web/larus-fuscus_3.jpg",
+     "autor": "Tero Linjama",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/252013201"
+    },
+    {
+     "src": "web/larus-fuscus_4.jpg",
+     "autor": "Esa Aalto",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/52494784"
+    },
+    {
+     "src": "web/larus-fuscus_5.jpg",
+     "autor": "danielarah",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/348352329"
+    },
+    {
+     "src": "web/larus-fuscus_6.jpg",
+     "autor": "Rich Agar",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265498547"
+    },
+    {
+     "src": "web/larus-fuscus_7.jpg",
+     "autor": "Blake Ross",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/142426849"
+    },
+    {
+     "src": "web/larus-fuscus_8.jpg",
+     "autor": "Tom Field",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/331870463"
+    }
+   ]
+  },
+  {
+   "id": "sterna-hirundo",
+   "comun": "Charrán común",
+   "alternativos": [],
+   "cientifico": "Sterna hirundo",
+   "orden": "Charadriiformes",
+   "familia": "Laridae",
+   "rasgos": [
+    "Silueta de \"golondrina de mar\"; cola larga ahorquillada.",
+    "Capirote negro y pico rojo intenso con la punta negra.",
+    "Vuelo ligero y picados espectaculares para pescar.",
+    "Migrador estival de salinas y costas."
+   ],
+   "imagenes": [
+    "img/sterna-hirundo_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/sterna-hirundo_1.jpg",
+     "autor": "Jonathan Layman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/14902467"
+    },
+    {
+     "src": "web/sterna-hirundo_2.jpg",
+     "autor": "Evan M. Raskin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/29241901"
+    },
+    {
+     "src": "web/sterna-hirundo_3.jpg",
+     "autor": "Dan Riley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/196252824"
+    },
+    {
+     "src": "web/sterna-hirundo_4.jpg",
+     "autor": "Joey Devine",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/173698243"
+    },
+    {
+     "src": "web/sterna-hirundo_5.jpg",
+     "autor": "David Bird",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/79877448"
+    },
+    {
+     "src": "web/sterna-hirundo_6.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/270158340"
+    },
+    {
+     "src": "web/sterna-hirundo_7.jpg",
+     "autor": "Blake Ross",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/138342161"
+    },
+    {
+     "src": "web/sterna-hirundo_8.jpg",
+     "autor": "scaup",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/312712167"
+    }
+   ]
+  },
+  {
+   "id": "scolopax-rusticola",
+   "comun": "Becada",
+   "alternativos": [
+    "Chocha perdiz"
+   ],
+   "cientifico": "Scolopax rusticola",
+   "orden": "Charadriiformes",
+   "familia": "Scolopacidae",
+   "rasgos": [
+    "Limícola forestal de pico rectilíneo muy largo.",
+    "Ojos situados muy atrás en la cabeza para visión 360°.",
+    "Plumaje críptico de \"hojas secas\" excelente.",
+    "Franjas negras transversales en la nuca."
+   ],
+   "imagenes": [
+    "img/scolopax-rusticola_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/scolopax-rusticola_1.jpg",
+     "autor": "Guy Babineau",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/223451195"
+    },
+    {
+     "src": "web/scolopax-rusticola_2.jpg",
+     "autor": "Ryan Hodnett",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/105195868"
+    },
+    {
+     "src": "web/scolopax-rusticola_3.jpg",
+     "autor": "Stephen Matthews",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/8613967"
+    },
+    {
+     "src": "web/scolopax-rusticola_4.jpg",
+     "autor": "chornobyl_research_initiative",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/325577167"
+    },
+    {
+     "src": "web/scolopax-rusticola_5.jpg",
+     "autor": "Quentin Groom",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/10748091"
+    },
+    {
+     "src": "web/scolopax-rusticola_6.jpg",
+     "autor": "Matthew Morgan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/192866504"
+    },
+    {
+     "src": "web/scolopax-rusticola_7.jpg",
+     "autor": "Antti Latikka",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/379934951"
+    },
+    {
+     "src": "web/scolopax-rusticola_8.jpg",
+     "autor": "Kevin",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/142373841"
+    }
+   ]
+  },
+  {
+   "id": "haematopus-ostralegus",
+   "comun": "Ostrero",
+   "alternativos": [
+    "Ostrero euroasiático"
+   ],
+   "cientifico": "Haematopus ostralegus",
+   "orden": "Charadriiformes",
+   "familia": "Haematopodidae",
+   "rasgos": [
+    "Fuerte contraste bicolor; inconfundible limícola de unos 42 cm, caracterizado por su plumaje negro azabache en cabeza, dorso y pecho, y blanco níveo en las partes inferiores.",
+    "Pico rojo anaranjado: una potente y larga estructura recta adaptada para romper y abrir las duras conchas de bivalvos, lapas y crustáceos."
+   ],
+   "imagenes": [
+    "img/haematopus-ostralegus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/haematopus-ostralegus_1.jpg",
+     "autor": "Олеся",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/371927806"
+    },
+    {
+     "src": "web/haematopus-ostralegus_2.jpg",
+     "autor": "Rafael Rosa",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/369928762"
+    },
+    {
+     "src": "web/haematopus-ostralegus_3.jpg",
+     "autor": "Вячеслав Шуплецов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/351425592"
+    },
+    {
+     "src": "web/haematopus-ostralegus_4.jpg",
+     "autor": "Олеся",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/379538351"
+    },
+    {
+     "src": "web/haematopus-ostralegus_5.jpg",
+     "autor": "Mikhail Nevsky",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/122946922"
+    },
+    {
+     "src": "web/haematopus-ostralegus_6.jpg",
+     "autor": "Ged Tranter",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/241437631"
+    },
+    {
+     "src": "web/haematopus-ostralegus_7.jpg",
+     "autor": "Attila Oláh",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/127385853"
+    },
+    {
+     "src": "web/haematopus-ostralegus_8.jpg",
+     "autor": "Charlotte Kirchner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/366330994"
+    }
+   ]
+  },
+  {
+   "id": "ciconia-ciconia",
+   "comun": "Cigüeña blanca",
+   "alternativos": [],
+   "cientifico": "Ciconia ciconia",
+   "orden": "Ciconiiformes",
+   "familia": "Ciconiidae",
+   "rasgos": [
+    "Plumaje blanco con plumas de vuelo (primarias) negras.",
+    "Pico y patas largas de un color rojo intenso en adultos.",
+    "Nidifica en estructuras elevadas (iglesias, torres, postes).",
+    "Vuelo planeado con cuello y patas totalmente estirados."
+   ],
+   "imagenes": [
+    "img/ciconia-ciconia_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/ciconia-ciconia_1.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/331422707"
+    },
+    {
+     "src": "web/ciconia-ciconia_2.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/152829548"
+    },
+    {
+     "src": "web/ciconia-ciconia_3.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/202678318"
+    },
+    {
+     "src": "web/ciconia-ciconia_4.jpg",
+     "autor": "Gergely Nigg",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68174961"
+    },
+    {
+     "src": "web/ciconia-ciconia_5.jpg",
+     "autor": "Дмитрий Кошелев",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/346769800"
+    },
+    {
+     "src": "web/ciconia-ciconia_6.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/156429936"
+    },
+    {
+     "src": "web/ciconia-ciconia_7.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/186998038"
+    },
+    {
+     "src": "web/ciconia-ciconia_8.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/148447863"
+    }
+   ]
+  },
+  {
+   "id": "ciconia-nigra",
+   "comun": "Cigüeña negra",
+   "alternativos": [],
+   "cientifico": "Ciconia nigra",
+   "orden": "Ciconiiformes",
+   "familia": "Ciconiidae",
+   "rasgos": [
+    "Plumaje negro con irisaciones metálicas verdes y púrpuras.",
+    "Vientre blanco puro; pico y patas de color rojo vivo.",
+    "Especie forestal y esquiva; nidifica en cortados rocosos.",
+    "Fina línea roja desnuda alrededor del ojo."
+   ],
+   "imagenes": [
+    "img/ciconia-nigra_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/ciconia-nigra_1.jpg",
+     "autor": "Zinogre",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/258658098"
+    },
+    {
+     "src": "web/ciconia-nigra_2.jpg",
+     "autor": "Dave Brown",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/332569359"
+    },
+    {
+     "src": "web/ciconia-nigra_3.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/292578766"
+    },
+    {
+     "src": "web/ciconia-nigra_4.jpg",
+     "autor": "Liubov Ilminska",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/116666856"
+    },
+    {
+     "src": "web/ciconia-nigra_5.jpg",
+     "autor": "Francesco Cecere",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/67914583"
+    },
+    {
+     "src": "web/ciconia-nigra_6.jpg",
+     "autor": "Liubov Ilminska",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/124287045"
+    },
+    {
+     "src": "web/ciconia-nigra_7.jpg",
+     "autor": "Юлия",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/59691066"
+    },
+    {
+     "src": "web/ciconia-nigra_8.jpg",
+     "autor": "Luke Lythgoe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193830428"
+    }
+   ]
+  },
+  {
+   "id": "columba-palumbus",
+   "comun": "Paloma torcaz",
+   "alternativos": [],
+   "cientifico": "Columba palumbus",
+   "orden": "Columbiformes",
+   "familia": "Columbidae",
+   "rasgos": [
+    "La paloma más grande de España. Gris azulada.",
+    "Mancha blanca lateral en el cuello (característica clave).",
+    "Ancha franja blanca transversal en el ala visible en vuelo.",
+    "Pecho de tonalidad rosácea o vinosa."
+   ],
+   "imagenes": [
+    "img/columba-palumbus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/columba-palumbus_1.jpg",
+     "autor": "Juan Rodríguez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/399079615"
+    },
+    {
+     "src": "web/columba-palumbus_2.jpg",
+     "autor": "Nick Butcher",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/365362792"
+    },
+    {
+     "src": "web/columba-palumbus_3.jpg",
+     "autor": "Nigel Bentley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/227555715"
+    },
+    {
+     "src": "web/columba-palumbus_4.jpg",
+     "autor": "Owen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/298864321"
+    },
+    {
+     "src": "web/columba-palumbus_5.jpg",
+     "autor": "Albert Rainbow",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/283469773"
+    },
+    {
+     "src": "web/columba-palumbus_6.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/127095661"
+    },
+    {
+     "src": "web/columba-palumbus_7.jpg",
+     "autor": "Алёна Карцева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/168804439"
+    },
+    {
+     "src": "web/columba-palumbus_8.jpg",
+     "autor": "Bobo-X",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/179748477"
+    }
+   ]
+  },
+  {
+   "id": "streptopelia-turtur",
+   "comun": "Tórtola europea",
+   "alternativos": [
+    "Tórtola común",
+    "Tórtola"
+   ],
+   "cientifico": "Streptopelia turtur",
+   "orden": "Columbiformes",
+   "familia": "Columbidae",
+   "rasgos": [
+    "Dorso bellamente moteado de castaño y negro (patrón escamoso).",
+    "Mancha de líneas blancas y negras en el lateral del cuello.",
+    "Cola ribeteada de blanco muy nítido al volar.",
+    "Migradora estival ligada a dehesas y campiñas."
+   ],
+   "imagenes": [
+    "img/streptopelia-turtur_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/streptopelia-turtur_1.jpg",
+     "autor": "Barry Stewart",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/386688420"
+    },
+    {
+     "src": "web/streptopelia-turtur_2.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/79680063"
+    },
+    {
+     "src": "web/streptopelia-turtur_3.jpg",
+     "autor": "Viktor",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/232044753"
+    },
+    {
+     "src": "web/streptopelia-turtur_4.jpg",
+     "autor": "Gergely Nigg",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/44915224"
+    },
+    {
+     "src": "web/streptopelia-turtur_5.jpg",
+     "autor": "Дмитрий Кошелев",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/170257549"
+    },
+    {
+     "src": "web/streptopelia-turtur_6.jpg",
+     "autor": "egorbirder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/215457436"
+    },
+    {
+     "src": "web/streptopelia-turtur_7.jpg",
+     "autor": "Paolo Zucca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/28225971"
+    },
+    {
+     "src": "web/streptopelia-turtur_8.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/304219725"
+    }
+   ]
+  },
+  {
+   "id": "columba-livia",
+   "comun": "Paloma bravía",
+   "alternativos": [],
+   "cientifico": "Columba livia",
+   "orden": "Columbiformes",
+   "familia": "Columbidae",
+   "rasgos": [
+    "Dorso gris claro con dos franjas negras paralelas en el ala.",
+    "Obispillo (rabadilla) de color blanco puro muy visible.",
+    "Cuello con intensas irisaciones verdes y púrpuras.",
+    "Ancestro de la paloma doméstica; vive en cortados rocosos."
+   ],
+   "imagenes": [
+    "img/columba-livia_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/columba-livia_1.jpg",
+     "autor": "Tyler Bishop",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/80165733"
+    },
+    {
+     "src": "web/columba-livia_2.jpg",
+     "autor": "Swarochi Tathagath",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/66171836"
+    },
+    {
+     "src": "web/columba-livia_3.jpg",
+     "autor": "Andrew Garn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/26803050"
+    },
+    {
+     "src": "web/columba-livia_4.jpg",
+     "autor": "Diego Carús",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/17804031"
+    },
+    {
+     "src": "web/columba-livia_5.jpg",
+     "autor": "Carrie Seltzer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/15197468"
+    },
+    {
+     "src": "web/columba-livia_6.jpg",
+     "autor": "Holly Hodges",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/337442093"
+    },
+    {
+     "src": "web/columba-livia_7.jpg",
+     "autor": "Paul Braun",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/319939673"
+    },
+    {
+     "src": "web/columba-livia_8.jpg",
+     "autor": "Sockrosma",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/213657545"
+    }
+   ]
+  },
+  {
+   "id": "merops-apiaster",
+   "comun": "Abejaruco europeo",
+   "alternativos": [
+    "Abejaruco",
+    "Abejaruco común"
+   ],
+   "cientifico": "Merops apiaster",
+   "orden": "Coraciiformes",
+   "familia": "Meropidae",
+   "rasgos": [
+    "Plumaje policromo espectacular: amarillo, azul, castaño y verde.",
+    "Garganta amarilla con línea negra; rectrices centrales de la cola largas.",
+    "Caza himenópteros al vuelo con gran pericia.",
+    "Nidifica en taludes de tierra excavando túneles profundos."
+   ],
+   "imagenes": [
+    "img/merops-apiaster_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/merops-apiaster_1.jpg",
+     "autor": "Sem Khatov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/120488175"
+    },
+    {
+     "src": "web/merops-apiaster_2.jpg",
+     "autor": "Dario Taraborelli",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/175093548"
+    },
+    {
+     "src": "web/merops-apiaster_3.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/177799732"
+    },
+    {
+     "src": "web/merops-apiaster_4.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279954690"
+    },
+    {
+     "src": "web/merops-apiaster_5.jpg",
+     "autor": "Tomas Broucek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/219995225"
+    },
+    {
+     "src": "web/merops-apiaster_6.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/117108816"
+    },
+    {
+     "src": "web/merops-apiaster_7.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/392040916"
+    },
+    {
+     "src": "web/merops-apiaster_8.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/177799559"
+    }
+   ]
+  },
+  {
+   "id": "coracias-garrulus",
+   "comun": "Carraca europea",
+   "alternativos": [
+    "Carraca"
+   ],
+   "cientifico": "Coracias garrulus",
+   "orden": "Coraciiformes",
+   "familia": "Coraciidae",
+   "rasgos": [
+    "Coloración general de un llamativo azul turquesa o celeste claro.",
+    "Manto (espalda) de color castaño-rojizo muy contrastado.",
+    "En vuelo muestra un vistoso patrón azul cobalto con puntas alares negras.",
+    "Pico negro, robusto y ligeramente ganchudo en el extremo."
+   ],
+   "imagenes": [
+    "img/coracias-garrulus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/coracias-garrulus_1.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/86316481"
+    },
+    {
+     "src": "web/coracias-garrulus_2.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/219602331"
+    },
+    {
+     "src": "web/coracias-garrulus_3.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/229440455"
+    },
+    {
+     "src": "web/coracias-garrulus_4.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/71157696"
+    },
+    {
+     "src": "web/coracias-garrulus_5.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/365672199"
+    },
+    {
+     "src": "web/coracias-garrulus_6.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83945348"
+    },
+    {
+     "src": "web/coracias-garrulus_7.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/82043239"
+    },
+    {
+     "src": "web/coracias-garrulus_8.jpg",
+     "autor": "Radek Ošlejšek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/93032073"
+    }
+   ]
+  },
+  {
+   "id": "alcedo-atthis",
+   "comun": "Martín pescador",
+   "alternativos": [
+    "Martín pescador común"
+   ],
+   "cientifico": "Alcedo atthis",
+   "orden": "Coraciiformes",
+   "familia": "Alcedinidae",
+   "rasgos": [
+    "Dorso azul turquesa brillante y vientre naranja encendido.",
+    "Pico negro desproporcionadamente largo; cola cortísima.",
+    "Vuelo rasante y rectilíneo sobre cursos de agua limpia.",
+    "Se lanza en picado para capturar pequeños peces."
+   ],
+   "imagenes": [
+    "img/alcedo-atthis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/alcedo-atthis_1.jpg",
+     "autor": "Alexis Lours",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/98375354"
+    },
+    {
+     "src": "web/alcedo-atthis_2.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/197233516"
+    },
+    {
+     "src": "web/alcedo-atthis_3.jpg",
+     "autor": "carnifex",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/71206541"
+    },
+    {
+     "src": "web/alcedo-atthis_4.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/182911525"
+    },
+    {
+     "src": "web/alcedo-atthis_5.jpg",
+     "autor": "Crap Fou",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/28942757"
+    },
+    {
+     "src": "web/alcedo-atthis_6.jpg",
+     "autor": "Nils",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/99561718"
+    },
+    {
+     "src": "web/alcedo-atthis_7.jpg",
+     "autor": "Frank Sengpiel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69725166"
+    },
+    {
+     "src": "web/alcedo-atthis_8.jpg",
+     "autor": "Sebek",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/328736865"
+    }
+   ]
+  },
+  {
+   "id": "cuculus-canorus",
+   "comun": "Cuco común",
+   "alternativos": [
+    "Cuco"
+   ],
+   "cientifico": "Cuculus canorus",
+   "orden": "Cuculiformes",
+   "familia": "Cuculidae",
+   "rasgos": [
+    "Silueta de vuelo que recuerda a un pequeño halcón.",
+    "Dorso gris; pecho y vientre blanco con fino barreado negro.",
+    "Ojo y patas de color amarillo vivo.",
+    "Famoso por depositar sus huevos en nidos ajenos (paseriformes)."
+   ],
+   "imagenes": [
+    "img/cuculus-canorus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/cuculus-canorus_1.jpg",
+     "autor": "Ramnarayan K",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/85476479"
+    },
+    {
+     "src": "web/cuculus-canorus_2.jpg",
+     "autor": "Safina Rezeda",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/53722074"
+    },
+    {
+     "src": "web/cuculus-canorus_3.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/46645572"
+    },
+    {
+     "src": "web/cuculus-canorus_4.jpg",
+     "autor": "Tyler Ekholm",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/64192945"
+    },
+    {
+     "src": "web/cuculus-canorus_5.jpg",
+     "autor": "Aryan K",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/317598280"
+    },
+    {
+     "src": "web/cuculus-canorus_6.jpg",
+     "autor": "shadow_385",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/241081445"
+    },
+    {
+     "src": "web/cuculus-canorus_7.jpg",
+     "autor": "Adrien Nouailhane",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/78030593"
+    },
+    {
+     "src": "web/cuculus-canorus_8.jpg",
+     "autor": "Андрей Агафонов",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/402501055"
+    }
+   ]
+  },
+  {
+   "id": "falco-peregrinus",
+   "comun": "Halcón peregrino",
+   "alternativos": [],
+   "cientifico": "Falco peregrinus",
+   "orden": "Falconiformes",
+   "familia": "Falconidae",
+   "rasgos": [
+    "Bigotera negra muy ancha y marcada sobre mejilla blanca.",
+    "Dorso azul pizarra; partes inferiores densamente barradas.",
+    "Alas apuntadas y cola corta; el animal más rápido en picado.",
+    "Silueta de vuelo \"en ballesta\" perfecta."
+   ],
+   "imagenes": [
+    "img/falco-peregrinus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/falco-peregrinus_1.jpg",
+     "autor": "sunnyjosef",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/344008468"
+    },
+    {
+     "src": "web/falco-peregrinus_2.jpg",
+     "autor": "Andrea Poggi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/142247285"
+    },
+    {
+     "src": "web/falco-peregrinus_3.jpg",
+     "autor": "Andrea Poggi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/107502796"
+    },
+    {
+     "src": "web/falco-peregrinus_4.jpg",
+     "autor": "Luke",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/22995183"
+    },
+    {
+     "src": "web/falco-peregrinus_5.jpg",
+     "autor": "Shirley Zundell",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/12075369"
+    },
+    {
+     "src": "web/falco-peregrinus_6.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/330445652"
+    },
+    {
+     "src": "web/falco-peregrinus_7.jpg",
+     "autor": "Brooke J.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/345609021"
+    },
+    {
+     "src": "web/falco-peregrinus_8.jpg",
+     "autor": "Vladimir Kharuk",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/40072653"
+    }
+   ]
+  },
+  {
+   "id": "falco-tinnunculus",
+   "comun": "Cernícalo vulgar",
+   "alternativos": [
+    "Cernícalo común",
+    "Cernícalo"
+   ],
+   "cientifico": "Falco tinnunculus",
+   "orden": "Falconiformes",
+   "familia": "Falconidae",
+   "rasgos": [
+    "Hábito de \"cernirse\" en el aire batiendo alas inmóvil.",
+    "Macho con cabeza gris azulada, dorso rojizo moteado y cola gris.",
+    "Uñas negras (diferencia fundamental con primilla).",
+    "Muy común en bordes de carreteras y campos de cultivo."
+   ],
+   "imagenes": [
+    "img/falco-tinnunculus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/falco-tinnunculus_1.jpg",
+     "autor": "Дмитрий Кошелев",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/349725257"
+    },
+    {
+     "src": "web/falco-tinnunculus_2.jpg",
+     "autor": "Corinna",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/284754857"
+    },
+    {
+     "src": "web/falco-tinnunculus_3.jpg",
+     "autor": "Luis Ferreira",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/148613413"
+    },
+    {
+     "src": "web/falco-tinnunculus_4.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/111181813"
+    },
+    {
+     "src": "web/falco-tinnunculus_5.jpg",
+     "autor": "Thorsten Hackbarth",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/105032479"
+    },
+    {
+     "src": "web/falco-tinnunculus_6.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/101096192"
+    },
+    {
+     "src": "web/falco-tinnunculus_7.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/110593838"
+    },
+    {
+     "src": "web/falco-tinnunculus_8.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/108970242"
+    }
+   ]
+  },
+  {
+   "id": "falco-naumanni",
+   "comun": "Cernícalo primilla",
+   "alternativos": [],
+   "cientifico": "Falco naumanni",
+   "orden": "Falconiformes",
+   "familia": "Falconidae",
+   "rasgos": [
+    "Uñas de color blanco-marfil (rasgo clave para visu).",
+    "Macho con dorso rojizo limpio, sin motas negras.",
+    "Colonial; nidifica bajo tejas de iglesias y castillos viejos.",
+    "Alimentación insectívora predominante."
+   ],
+   "imagenes": [
+    "img/falco-naumanni_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/falco-naumanni_1.jpg",
+     "autor": "egorbirder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/121567264"
+    },
+    {
+     "src": "web/falco-naumanni_2.jpg",
+     "autor": "Addshore",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/166275121"
+    },
+    {
+     "src": "web/falco-naumanni_3.jpg",
+     "autor": "Nuno Fialho",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/362161509"
+    },
+    {
+     "src": "web/falco-naumanni_4.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/111394333"
+    },
+    {
+     "src": "web/falco-naumanni_5.jpg",
+     "autor": "Ani Sarkisyan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/12643451"
+    },
+    {
+     "src": "web/falco-naumanni_6.jpg",
+     "autor": "Андрей Агафонов",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/401149507"
+    },
+    {
+     "src": "web/falco-naumanni_7.jpg",
+     "autor": "Johannes S.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/346401479"
+    },
+    {
+     "src": "web/falco-naumanni_8.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/266881442"
+    }
+   ]
+  },
+  {
+   "id": "falco-subbuteo",
+   "comun": "Alcotán europeo",
+   "alternativos": [
+    "Alcotán"
+   ],
+   "cientifico": "Falco subbuteo",
+   "orden": "Falconiformes",
+   "familia": "Falconidae",
+   "rasgos": [
+    "Alas extremadamente largas y afiladas (silueta de vencejo gigante).",
+    "Llamativos \"pantalones\" (muslos) y subcaudales rojos óxido.",
+    "Bigotera negra fina; pecho blanco fuertemente listado.",
+    "Estival cazador de libélulas y pajarillos al vuelo."
+   ],
+   "imagenes": [
+    "img/falco-subbuteo_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/falco-subbuteo_1.jpg",
+     "autor": "Людмила Алимова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/119262366"
+    },
+    {
+     "src": "web/falco-subbuteo_2.jpg",
+     "autor": "Андрей",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/225166751"
+    },
+    {
+     "src": "web/falco-subbuteo_3.jpg",
+     "autor": "Иван Елисеев",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/57159112"
+    },
+    {
+     "src": "web/falco-subbuteo_4.jpg",
+     "autor": "Griha Hasanov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/166248945"
+    },
+    {
+     "src": "web/falco-subbuteo_5.jpg",
+     "autor": "Viktor N. Chekan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/84536146"
+    },
+    {
+     "src": "web/falco-subbuteo_6.jpg",
+     "autor": "Andrew Simon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/224345446"
+    },
+    {
+     "src": "web/falco-subbuteo_7.jpg",
+     "autor": "egorbirder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/162096829"
+    },
+    {
+     "src": "web/falco-subbuteo_8.jpg",
+     "autor": "Михаил Малышев",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/117318876"
+    }
+   ]
+  },
+  {
+   "id": "alectoris-rufa",
+   "comun": "Perdiz roja",
+   "alternativos": [],
+   "cientifico": "Alectoris rufa",
+   "orden": "Galliformes",
+   "familia": "Phasianidae",
+   "rasgos": [
+    "Garganta blanca orlada por una nítida línea negra.",
+    "Flancos bellamente barrados en castaño, negro y blanco.",
+    "Pico, patas y anillo ocular de un color rojo carmín vivo.",
+    "Especie cinegética más representativa del medio mediterráneo."
+   ],
+   "imagenes": [
+    "img/alectoris-rufa_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/alectoris-rufa_1.jpg",
+     "autor": "Sockrosma",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/192884567"
+    },
+    {
+     "src": "web/alectoris-rufa_2.jpg",
+     "autor": "Joeb",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/332310598"
+    },
+    {
+     "src": "web/alectoris-rufa_3.jpg",
+     "autor": "Steve Lawson",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/50317623"
+    },
+    {
+     "src": "web/alectoris-rufa_4.jpg",
+     "autor": "Jerry Lanfear",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/118624905"
+    },
+    {
+     "src": "web/alectoris-rufa_5.jpg",
+     "autor": "Carles Pastor",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/4740597"
+    },
+    {
+     "src": "web/alectoris-rufa_6.jpg",
+     "autor": "William Stephens",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/70746188"
+    },
+    {
+     "src": "web/alectoris-rufa_7.jpg",
+     "autor": "João Pedro Gato",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/41110092"
+    },
+    {
+     "src": "web/alectoris-rufa_8.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/290094926"
+    }
+   ]
+  },
+  {
+   "id": "coturnix-coturnix",
+   "comun": "Codorniz común",
+   "alternativos": [
+    "Codorniz"
+   ],
+   "cientifico": "Coturnix coturnix",
+   "orden": "Galliformes",
+   "familia": "Phasianidae",
+   "rasgos": [
+    "Pequeño tamaño y forma rechoncha, casi sin cola visible.",
+    "Plumaje críptico pardo amarillento con listado crema.",
+    "Hábito terrestre esquivo; se oculta en sembrados de cereal.",
+    "Canto trisilábico muy sonoro en primavera: \"pal-pala-pal\"."
+   ],
+   "imagenes": [
+    "img/coturnix-coturnix_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/coturnix-coturnix_1.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/58401593"
+    },
+    {
+     "src": "web/coturnix-coturnix_2.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/63649703"
+    },
+    {
+     "src": "web/coturnix-coturnix_3.jpg",
+     "autor": "Anton Popovich",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/35465139"
+    },
+    {
+     "src": "web/coturnix-coturnix_4.jpg",
+     "autor": "David Kelly",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/408610750"
+    },
+    {
+     "src": "web/coturnix-coturnix_5.jpg",
+     "autor": "Óscar Sampedro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/277768289"
+    },
+    {
+     "src": "web/coturnix-coturnix_6.jpg",
+     "autor": "Islam Galymzhanov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/318408121"
+    },
+    {
+     "src": "web/coturnix-coturnix_7.jpg",
+     "autor": "Aissa Djamel Filali",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/47972783"
+    },
+    {
+     "src": "web/coturnix-coturnix_8.jpg",
+     "autor": "Kudaibergen Amirekul",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/255888433"
+    }
+   ]
+  },
+  {
+   "id": "phasianus-colchicus",
+   "comun": "Faisán común",
+   "alternativos": [
+    "Faisán"
+   ],
+   "cientifico": "Phasianus colchicus",
+   "orden": "Galliformes",
+   "familia": "Phasianidae",
+   "rasgos": [
+    "Macho con cola larguísima y plumaje cobrizo brillante.",
+    "Cabeza verde botella con carúnculas rojas alrededor del ojo.",
+    "Hembra parda críptica pero con la cola larga característica.",
+    "Especie introducida habitual en cotos y campiñas del norte."
+   ],
+   "imagenes": [
+    "img/phasianus-colchicus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/phasianus-colchicus_1.jpg",
+     "autor": "John Krampl",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/77794790"
+    },
+    {
+     "src": "web/phasianus-colchicus_2.jpg",
+     "autor": "Jacqui Geux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18820744"
+    },
+    {
+     "src": "web/phasianus-colchicus_3.jpg",
+     "autor": "John Krampl",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/64745794"
+    },
+    {
+     "src": "web/phasianus-colchicus_4.jpg",
+     "autor": "Jon Sullivan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/940117"
+    },
+    {
+     "src": "web/phasianus-colchicus_5.jpg",
+     "autor": "Jon Sullivan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/313069490"
+    },
+    {
+     "src": "web/phasianus-colchicus_6.jpg",
+     "autor": "Jacqui Geux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/30022935"
+    },
+    {
+     "src": "web/phasianus-colchicus_7.jpg",
+     "autor": "Kathlin Simpkins",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/83347342"
+    },
+    {
+     "src": "web/phasianus-colchicus_8.jpg",
+     "autor": "Daughter Dad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/342178415"
+    }
+   ]
+  },
+  {
+   "id": "perdix-perdix",
+   "comun": "Perdiz pardilla",
+   "alternativos": [],
+   "cientifico": "Perdix perdix",
+   "orden": "Galliformes",
+   "familia": "Phasianidae",
+   "rasgos": [
+    "Cara de color naranja ocre; dorso grisáceo finamente barreado.",
+    "Macho con una gran mancha de herradura negra en el vientre.",
+    "Pico y patas grisáceas (nunca rojos como en la perdiz roja).",
+    "Habitante de la alta montaña cantábrica y pirenaica."
+   ],
+   "imagenes": [
+    "img/perdix-perdix_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/perdix-perdix_1.jpg",
+     "autor": "Patrascu Lucian-Marius",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/69253535"
+    },
+    {
+     "src": "web/perdix-perdix_2.jpg",
+     "autor": "Julia Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/192232902"
+    },
+    {
+     "src": "web/perdix-perdix_3.jpg",
+     "autor": "Елена Смирнова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/194999673"
+    },
+    {
+     "src": "web/perdix-perdix_4.jpg",
+     "autor": "ngoomie",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/207014889"
+    },
+    {
+     "src": "web/perdix-perdix_5.jpg",
+     "autor": "Kazimieras Martinaitis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69762167"
+    },
+    {
+     "src": "web/perdix-perdix_6.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189441613"
+    },
+    {
+     "src": "web/perdix-perdix_7.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/102817430"
+    },
+    {
+     "src": "web/perdix-perdix_8.jpg",
+     "autor": "Fotojunkie8’s",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189805628"
+    }
+   ]
+  },
+  {
+   "id": "tetrao-urogallus",
+   "comun": "Urogallo común",
+   "alternativos": [
+    "Urogallo"
+   ],
+   "cientifico": "Tetrao urogallus",
+   "orden": "Galliformes",
+   "familia": "Phasianidae",
+   "rasgos": [
+    "Gallinácea forestal de gran tamaño. Macho negro azulado.",
+    "Cola ancha en abanico con motas blancas; barba de plumas negra.",
+    "Hembra (parpaya) mucho menor y de plumaje críptico barreado.",
+    "Reliquia glacial en peligro crítico en el norte de España."
+   ],
+   "imagenes": [
+    "img/tetrao-urogallus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tetrao-urogallus_1.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/75559133"
+    },
+    {
+     "src": "web/tetrao-urogallus_2.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/57927627"
+    },
+    {
+     "src": "web/tetrao-urogallus_3.jpg",
+     "autor": "Andrea Battisti",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/215709377"
+    },
+    {
+     "src": "web/tetrao-urogallus_4.jpg",
+     "autor": "Patrick Meurin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/116538747"
+    },
+    {
+     "src": "web/tetrao-urogallus_5.jpg",
+     "autor": "Julia Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/101601132"
+    },
+    {
+     "src": "web/tetrao-urogallus_6.jpg",
+     "autor": "Pål A. Olsvik",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/172119290"
+    },
+    {
+     "src": "web/tetrao-urogallus_7.jpg",
+     "autor": "wkee4ager",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/215227896"
+    },
+    {
+     "src": "web/tetrao-urogallus_8.jpg",
+     "autor": "Юлия",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83091680"
+    }
+   ]
+  },
+  {
+   "id": "alectoris-barbara",
+   "comun": "Perdiz moruna",
+   "alternativos": [],
+   "cientifico": "Alectoris barbara",
+   "orden": "Galliformes",
+   "familia": "Phasianidae",
+   "rasgos": [
+    "Llamativo collar ancho de color pardo-castaño con motas blancas.",
+    "Cara y garganta de un tono gris azulado pálido.",
+    "Semejante a la perdiz roja pero con el diseño del cuello único.",
+    "Presente en Gibraltar y las Islas Canarias."
+   ],
+   "imagenes": [
+    "img/alectoris-barbara_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/alectoris-barbara_1.jpg",
+     "autor": "Yves Bas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/67741311"
+    },
+    {
+     "src": "web/alectoris-barbara_2.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109230729"
+    },
+    {
+     "src": "web/alectoris-barbara_3.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/257830099"
+    },
+    {
+     "src": "web/alectoris-barbara_4.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109230721"
+    },
+    {
+     "src": "web/alectoris-barbara_5.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/146048501"
+    },
+    {
+     "src": "web/alectoris-barbara_6.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/146043802"
+    },
+    {
+     "src": "web/alectoris-barbara_7.jpg",
+     "autor": "Mourad Harzallah",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/146697607"
+    },
+    {
+     "src": "web/alectoris-barbara_8.jpg",
+     "autor": "Marcelo Cabrera",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/103494310"
+    }
+   ]
+  }
+ ]
+}
