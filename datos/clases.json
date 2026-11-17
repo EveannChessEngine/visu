@@ -49,6 +49,12 @@
    "total": 2
   },
   {
+   "id": "reptilia",
+   "clase": "Reptilia",
+   "grupo": "Cordados",
+   "total": 32
+  },
+  {
    "id": "thaliacea",
    "clase": "Thaliacea",
    "grupo": "Cordados",

@@ -1,0 +1,2166 @@
+{
+ "id": "reptilia",
+ "clase": "Reptilia",
+ "sinonimos_clase": [
+  "Reptilia",
+  "Reptiles",
+  "Reptil"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "testudo-graeca",
+   "comun": "Tortuga mora",
+   "alternativos": [],
+   "cientifico": "Testudo graeca",
+   "orden": "Testudines",
+   "familia": "Testudinidae",
+   "rasgos": [
+    "Placa supracaudal única (no dividida).",
+    "Tubérculo córneo grande en la cara posterior de cada muslo.",
+    "Caparazón muy abombado con dibujos amarillos y negros.",
+    "Escama del extremo de la cola pequeña."
+   ],
+   "imagenes": [
+    "img/testudo-graeca_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/testudo-graeca_1.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/190377106"
+    },
+    {
+     "src": "web/testudo-graeca_2.jpg",
+     "autor": "nature of Nineveh",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269359785"
+    },
+    {
+     "src": "web/testudo-graeca_3.jpg",
+     "autor": "Thanos Tourtouras",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/92328690"
+    },
+    {
+     "src": "web/testudo-graeca_4.jpg",
+     "autor": "Shaan Aroeste",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/81860320"
+    },
+    {
+     "src": "web/testudo-graeca_5.jpg",
+     "autor": "Joey Bom",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/248651814"
+    },
+    {
+     "src": "web/testudo-graeca_6.jpg",
+     "autor": "Tom Field",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/283121260"
+    },
+    {
+     "src": "web/testudo-graeca_7.jpg",
+     "autor": "Mohammad Amin Ghaffari",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/102933218"
+    },
+    {
+     "src": "web/testudo-graeca_8.jpg",
+     "autor": "Aissa Djamel Filali",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/42945813"
+    }
+   ]
+  },
+  {
+   "id": "testudo-hermanni",
+   "comun": "Tortuga mediterránea",
+   "alternativos": [],
+   "cientifico": "Testudo hermanni",
+   "orden": "Testudines",
+   "familia": "Testudinidae",
+   "rasgos": [
+    "Placa supracaudal dividida en dos.",
+    "Estuche córneo o uña al final de la cola.",
+    "Carece de tubérculos en los muslos posteriores.",
+    "Bandas negras longitudinales muy marcadas en el plastrón."
+   ],
+   "imagenes": [
+    "img/testudo-hermanni_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/testudo-hermanni_1.jpg",
+     "autor": "Kostas Zontanos",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/10389032"
+    },
+    {
+     "src": "web/testudo-hermanni_2.jpg",
+     "autor": "Céline",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/16744147"
+    },
+    {
+     "src": "web/testudo-hermanni_3.jpg",
+     "autor": "Matt Neidert",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/13577970"
+    },
+    {
+     "src": "web/testudo-hermanni_4.jpg",
+     "autor": "Drepanostoma",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/8233172"
+    },
+    {
+     "src": "web/testudo-hermanni_5.jpg",
+     "autor": "Francesco Cecere",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/4084532"
+    },
+    {
+     "src": "web/testudo-hermanni_6.jpg",
+     "autor": "Eduardo Martínez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/3157793"
+    },
+    {
+     "src": "web/testudo-hermanni_7.jpg",
+     "autor": "Paolo Giampaoletti",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/249190994"
+    },
+    {
+     "src": "web/testudo-hermanni_8.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/15183210"
+    }
+   ]
+  },
+  {
+   "id": "emys-orbicularis",
+   "comun": "Galápago europeo",
+   "alternativos": [],
+   "cientifico": "Emys orbicularis",
+   "orden": "Testudines",
+   "familia": "Emydidae",
+   "rasgos": [
+    "Caparazón oscuro con numerosos puntos o líneas amarillas radiadas.",
+    "Piel oscura con motas amarillas muy llamativas.",
+    "Plastrón con una charnela flexible (puede cerrarse un poco).",
+    "Cola relativamente larga en comparación con otros galápagos."
+   ],
+   "imagenes": [
+    "img/emys-orbicularis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/emys-orbicularis_1.jpg",
+     "autor": "Mohammad Amin Ghaffari",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/298113621"
+    },
+    {
+     "src": "web/emys-orbicularis_2.jpg",
+     "autor": "Bartosz Sarnowski",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/368389840"
+    },
+    {
+     "src": "web/emys-orbicularis_3.jpg",
+     "autor": "Полина Полежанкина",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/190989986"
+    },
+    {
+     "src": "web/emys-orbicularis_4.jpg",
+     "autor": "Conny Löhne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/263910272"
+    },
+    {
+     "src": "web/emys-orbicularis_5.jpg",
+     "autor": "mnauky",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265171174"
+    },
+    {
+     "src": "web/emys-orbicularis_6.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/15201078"
+    },
+    {
+     "src": "web/emys-orbicularis_7.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/164414025"
+    },
+    {
+     "src": "web/emys-orbicularis_8.jpg",
+     "autor": "Mohammad Amin Ghaffari",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/71429401"
+    }
+   ]
+  },
+  {
+   "id": "mauremys-leprosa",
+   "comun": "Galápago leproso",
+   "alternativos": [],
+   "cientifico": "Mauremys leprosa",
+   "orden": "Testudines",
+   "familia": "Geoemydidae",
+   "rasgos": [
+    "Quilla longitudinal media visible en el caparazón.",
+    "Líneas anaranjadas o amarillentas en el cuello y patas.",
+    "Mancha naranja detrás del ojo (en ejemplares jóvenes).",
+    "Caparazón suele tener aspecto \"sucio\" por crecimiento de algas."
+   ],
+   "imagenes": [
+    "img/mauremys-leprosa_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/mauremys-leprosa_1.jpg",
+     "autor": "Federico Biguzzi",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/141246540"
+    },
+    {
+     "src": "web/mauremys-leprosa_2.jpg",
+     "autor": "Nuno Fialho",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204432616"
+    },
+    {
+     "src": "web/mauremys-leprosa_3.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/300193053"
+    },
+    {
+     "src": "web/mauremys-leprosa_4.jpg",
+     "autor": "Vasco Henrique Oliveira Fonseca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/313432308"
+    },
+    {
+     "src": "web/mauremys-leprosa_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269295229"
+    },
+    {
+     "src": "web/mauremys-leprosa_6.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83141320"
+    },
+    {
+     "src": "web/mauremys-leprosa_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/257485646"
+    },
+    {
+     "src": "web/mauremys-leprosa_8.jpg",
+     "autor": "David Pereira",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/240195219"
+    }
+   ]
+  },
+  {
+   "id": "caretta-caretta",
+   "comun": "Tortuga boba",
+   "alternativos": [],
+   "cientifico": "Caretta caretta",
+   "orden": "Testudines",
+   "familia": "Cheloniidae",
+   "rasgos": [
+    "Caparazón acorazonado con 5 pares de placas costales.",
+    "Cabeza proporcionalmente muy grande y robusta.",
+    "Extremidades transformadas en aletas para la natación.",
+    "Coloración pardo-rojiza uniforme."
+   ],
+   "imagenes": [
+    "img/caretta-caretta_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/caretta-caretta_1.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/108680443"
+    },
+    {
+     "src": "web/caretta-caretta_2.jpg",
+     "autor": "Michael Bommerer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/240748882"
+    },
+    {
+     "src": "web/caretta-caretta_3.jpg",
+     "autor": "Radu Teodoreanu",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/201276016"
+    },
+    {
+     "src": "web/caretta-caretta_4.jpg",
+     "autor": "Susan Christman Williams",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/186398361"
+    },
+    {
+     "src": "web/caretta-caretta_5.jpg",
+     "autor": "Kem Luther",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/198732905"
+    },
+    {
+     "src": "web/caretta-caretta_6.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/50161891"
+    },
+    {
+     "src": "web/caretta-caretta_7.jpg",
+     "autor": "Abril Bastons",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/200745616"
+    },
+    {
+     "src": "web/caretta-caretta_8.jpg",
+     "autor": "Simon Tonge",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/9836361"
+    }
+   ]
+  },
+  {
+   "id": "tarentola-mauritanica",
+   "comun": "Salamanquesa común",
+   "alternativos": [
+    "Salamanquesa"
+   ],
+   "cientifico": "Tarentola mauritanica",
+   "orden": "Squamata",
+   "familia": "Phyllodactylidae",
+   "rasgos": [
+    "Lamelas subdigitales sencillas (no divididas).",
+    "Uñas visibles solo en el 3.º y 4.º dedo de cada pata.",
+    "Piel con numerosos tubérculos cónicos y prominentes.",
+    "Pupila vertical y dedos muy ensanchados en los extremos."
+   ],
+   "imagenes": [
+    "img/tarentola-mauritanica_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tarentola-mauritanica_1.jpg",
+     "autor": "Mikhail Nevsky",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/175268034"
+    },
+    {
+     "src": "web/tarentola-mauritanica_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/219658792"
+    },
+    {
+     "src": "web/tarentola-mauritanica_3.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/356346138"
+    },
+    {
+     "src": "web/tarentola-mauritanica_4.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/404341722"
+    },
+    {
+     "src": "web/tarentola-mauritanica_5.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/408611304"
+    },
+    {
+     "src": "web/tarentola-mauritanica_6.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/406708258"
+    },
+    {
+     "src": "web/tarentola-mauritanica_7.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/379837200"
+    },
+    {
+     "src": "web/tarentola-mauritanica_8.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/290796909"
+    }
+   ]
+  },
+  {
+   "id": "hemidactylus-turcicus",
+   "comun": "Salamanquesa rosada",
+   "alternativos": [],
+   "cientifico": "Hemidactylus turcicus",
+   "orden": "Squamata",
+   "familia": "Gekkonidae",
+   "rasgos": [
+    "Lamelas subdigitales divididas longitudinalmente.",
+    "Uñas visibles en todos los dedos.",
+    "Aspecto más esbelto y piel más rosada o translúcida.",
+    "Cuerpo con pequeños tubérculos oscuros."
+   ],
+   "imagenes": [
+    "img/hemidactylus-turcicus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/hemidactylus-turcicus_1.jpg",
+     "autor": "Court Harding",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/89110001"
+    },
+    {
+     "src": "web/hemidactylus-turcicus_2.jpg",
+     "autor": "Shannon Stoner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/70704696"
+    },
+    {
+     "src": "web/hemidactylus-turcicus_3.jpg",
+     "autor": "Texas Bird Family",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254263837"
+    },
+    {
+     "src": "web/hemidactylus-turcicus_4.jpg",
+     "autor": "Astra",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/35043201"
+    },
+    {
+     "src": "web/hemidactylus-turcicus_5.jpg",
+     "autor": "Jared Shorma",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/33870699"
+    },
+    {
+     "src": "web/hemidactylus-turcicus_6.jpg",
+     "autor": "Djibo Zanzot",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/391047340"
+    },
+    {
+     "src": "web/hemidactylus-turcicus_7.jpg",
+     "autor": "Mario Garofano",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/290560590"
+    },
+    {
+     "src": "web/hemidactylus-turcicus_8.jpg",
+     "autor": "Perry McDonald",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/129155474"
+    }
+   ]
+  },
+  {
+   "id": "chamaeleo-chamaeleon",
+   "comun": "Camaleón común",
+   "alternativos": [
+    "Camaleón"
+   ],
+   "cientifico": "Chamaeleo chamaeleon",
+   "orden": "Squamata",
+   "familia": "Chamaeleonidae",
+   "rasgos": [
+    "Cola prensil y ojos con movimiento independiente.",
+    "Dedos oponibles agrupados para sujetarse a ramas.",
+    "Casco cefálico prominente y cresta dorsal dentada.",
+    "Capacidad de cambiar de color según el estado y entorno."
+   ],
+   "imagenes": [
+    "img/chamaeleo-chamaeleon_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/chamaeleo-chamaeleon_1.jpg",
+     "autor": "Alejandro Calle",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/139610747"
+    },
+    {
+     "src": "web/chamaeleo-chamaeleon_2.jpg",
+     "autor": "meteorquake2",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/153609361"
+    },
+    {
+     "src": "web/chamaeleo-chamaeleon_3.jpg",
+     "autor": "Roderic Page",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/22031466"
+    },
+    {
+     "src": "web/chamaeleo-chamaeleon_4.jpg",
+     "autor": "Ella Savitsky",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/353753169"
+    },
+    {
+     "src": "web/chamaeleo-chamaeleon_5.jpg",
+     "autor": "Steffen Burkhardt",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/253179676"
+    },
+    {
+     "src": "web/chamaeleo-chamaeleon_6.jpg",
+     "autor": "Dr. Nasser Halaweh",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/12573449"
+    },
+    {
+     "src": "web/chamaeleo-chamaeleon_7.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/409415795"
+    },
+    {
+     "src": "web/chamaeleo-chamaeleon_8.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37738513"
+    }
+   ]
+  },
+  {
+   "id": "timon-lepidus",
+   "comun": "Lagarto ocelado",
+   "alternativos": [],
+   "cientifico": "Timon lepidus",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "El lagarto más grande de Europa (hasta 60-80 cm).",
+    "Ocelos azules muy llamativos en los costados.",
+    "Coloración verde o amarillenta con un reticulado negro.",
+    "Cabeza masiva y mandíbulas muy potentes."
+   ],
+   "imagenes": [
+    "img/timon-lepidus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/timon-lepidus_1.jpg",
+     "autor": "F. Bemmerlein-Lux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/179963430"
+    },
+    {
+     "src": "web/timon-lepidus_2.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/154384790"
+    },
+    {
+     "src": "web/timon-lepidus_3.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/239275608"
+    },
+    {
+     "src": "web/timon-lepidus_4.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/149853027"
+    },
+    {
+     "src": "web/timon-lepidus_5.jpg",
+     "autor": "Morgan Caygill",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/245614098"
+    },
+    {
+     "src": "web/timon-lepidus_6.jpg",
+     "autor": "Demian Hiß",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/222424957"
+    },
+    {
+     "src": "web/timon-lepidus_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/203770151"
+    },
+    {
+     "src": "web/timon-lepidus_8.jpg",
+     "autor": "milan kořínek",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/285435837"
+    }
+   ]
+  },
+  {
+   "id": "timon-nevadensis",
+   "comun": "Lagarto bético",
+   "alternativos": [],
+   "cientifico": "Timon nevadensis",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Coloración más pálida, grisácea o amarillenta.",
+    "Ocelos azules menos marcados que en Timon lepidus.",
+    "Hocico más puntiagudo y escamas cefálicas diferentes.",
+    "Endemismo del SE peninsular (climas más áridos)."
+   ],
+   "imagenes": [
+    "img/timon-nevadensis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/timon-nevadensis_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/372624366"
+    },
+    {
+     "src": "web/timon-nevadensis_2.jpg",
+     "autor": "Fran Gonzalez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269028097"
+    },
+    {
+     "src": "web/timon-nevadensis_3.jpg",
+     "autor": "Fran",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/267188373"
+    },
+    {
+     "src": "web/timon-nevadensis_4.jpg",
+     "autor": "Dennis Lausch",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/180741323"
+    },
+    {
+     "src": "web/timon-nevadensis_5.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233706420"
+    },
+    {
+     "src": "web/timon-nevadensis_6.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/372624312"
+    },
+    {
+     "src": "web/timon-nevadensis_7.jpg",
+     "autor": "Carlos Jiménez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/151665307"
+    },
+    {
+     "src": "web/timon-nevadensis_8.jpg",
+     "autor": "Alejandro Rodríguez Zapata",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/305882043"
+    }
+   ]
+  },
+  {
+   "id": "lacerta-schreiberi",
+   "comun": "Lagarto verdinegro",
+   "alternativos": [],
+   "cientifico": "Lacerta schreiberi",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Dorso verde con un punteado negro muy fino y denso.",
+    "Machos con cabeza azul intenso durante el celo.",
+    "Hembras y juveniles con grandes ocelos en los costados.",
+    "Típico de zonas con alta humedad y vegetación ribereña."
+   ],
+   "imagenes": [
+    "img/lacerta-schreiberi_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/lacerta-schreiberi_1.jpg",
+     "autor": "Chema Montero",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/394643483"
+    },
+    {
+     "src": "web/lacerta-schreiberi_2.jpg",
+     "autor": "Bruno Peixoto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/156864521"
+    },
+    {
+     "src": "web/lacerta-schreiberi_3.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/244508780"
+    },
+    {
+     "src": "web/lacerta-schreiberi_4.jpg",
+     "autor": "Emilio Rio",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/312684378"
+    },
+    {
+     "src": "web/lacerta-schreiberi_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/236006102"
+    },
+    {
+     "src": "web/lacerta-schreiberi_6.jpg",
+     "autor": "Flávio Ribeiro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/273995904"
+    },
+    {
+     "src": "web/lacerta-schreiberi_7.jpg",
+     "autor": "Free Palestine",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/324756296"
+    },
+    {
+     "src": "web/lacerta-schreiberi_8.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/308604117"
+    }
+   ]
+  },
+  {
+   "id": "lacerta-bilineata",
+   "comun": "Lagarto verde occidental",
+   "alternativos": [],
+   "cientifico": "Lacerta bilineata",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Verde brillante uniforme o con punteado negro muy leve.",
+    "Garganta azul intenso en machos reproductores.",
+    "Juveniles con dos líneas laterales blancas muy claras.",
+    "Distribución limitada al tercio norte (Pirineos y cornisa)."
+   ],
+   "imagenes": [
+    "img/lacerta-bilineata_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/lacerta-bilineata_1.jpg",
+     "autor": "Jeff Hansen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/152251580"
+    },
+    {
+     "src": "web/lacerta-bilineata_2.jpg",
+     "autor": "Emanuele Santarelli",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/207655754"
+    },
+    {
+     "src": "web/lacerta-bilineata_3.jpg",
+     "autor": "Luca Valente",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/101950477"
+    },
+    {
+     "src": "web/lacerta-bilineata_4.jpg",
+     "autor": "Lorenzo De Luca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/374645471"
+    },
+    {
+     "src": "web/lacerta-bilineata_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/207005728"
+    },
+    {
+     "src": "web/lacerta-bilineata_6.jpg",
+     "autor": "Crebassa Jason",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/172749858"
+    },
+    {
+     "src": "web/lacerta-bilineata_7.jpg",
+     "autor": "Valentin R.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/121390294"
+    },
+    {
+     "src": "web/lacerta-bilineata_8.jpg",
+     "autor": "bernhard_hiller",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/125579047"
+    }
+   ]
+  },
+  {
+   "id": "podarcis-hispanicus",
+   "comun": "Lagartija ibérica",
+   "alternativos": [],
+   "cientifico": "Podarcis hispanicus",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Cabeza y cuerpo notablemente deprimidos (aplastados).",
+    "Hocico puntiagudo.",
+    "Coloración parda o verdosa muy variable.",
+    "Escamas del dorso granulares y lisas."
+   ],
+   "imagenes": [
+    "img/podarcis-hispanicus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/podarcis-hispanicus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279023642"
+    },
+    {
+     "src": "web/podarcis-hispanicus_2.jpg",
+     "autor": "Vasco Henrique Oliveira Fonseca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/390604688"
+    },
+    {
+     "src": "web/podarcis-hispanicus_3.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/386906637"
+    },
+    {
+     "src": "web/podarcis-hispanicus_4.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/248539463"
+    },
+    {
+     "src": "web/podarcis-hispanicus_5.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231599336"
+    },
+    {
+     "src": "web/podarcis-hispanicus_6.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/388369989"
+    },
+    {
+     "src": "web/podarcis-hispanicus_7.jpg",
+     "autor": "Jens-Christian Svenning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/219988152"
+    },
+    {
+     "src": "web/podarcis-hispanicus_8.jpg",
+     "autor": "Dietmar K. L. Moser",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/410793759"
+    }
+   ]
+  },
+  {
+   "id": "podarcis-muralis",
+   "comun": "Lagartija roquera",
+   "alternativos": [],
+   "cientifico": "Podarcis muralis",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Garganta moteada de negro de forma irregular.",
+    "Costados con reticulado negro sobre fondo pardo o verde.",
+    "Vientre blanquecino, rosado o anaranjado con manchas.",
+    "Frecuente en paredes, rocas y edificaciones del norte."
+   ],
+   "imagenes": [
+    "img/podarcis-muralis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/podarcis-muralis_1.jpg",
+     "autor": "Raffaele Maiorano",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/220736007"
+    },
+    {
+     "src": "web/podarcis-muralis_2.jpg",
+     "autor": "Juli Mallett",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/39030961"
+    },
+    {
+     "src": "web/podarcis-muralis_3.jpg",
+     "autor": "Hannes Dahm",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/289604886"
+    },
+    {
+     "src": "web/podarcis-muralis_4.jpg",
+     "autor": "funnieanimals",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/286221969"
+    },
+    {
+     "src": "web/podarcis-muralis_5.jpg",
+     "autor": "Daniel K",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/405426552"
+    },
+    {
+     "src": "web/podarcis-muralis_6.jpg",
+     "autor": "Christian Oudot",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/56330186"
+    },
+    {
+     "src": "web/podarcis-muralis_7.jpg",
+     "autor": "Ross Mounce",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/348535687"
+    },
+    {
+     "src": "web/podarcis-muralis_8.jpg",
+     "autor": "Bernd De Bosscher",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/358451853"
+    }
+   ]
+  },
+  {
+   "id": "psammodromus-algirus",
+   "comun": "Lagartija colilarga",
+   "alternativos": [],
+   "cientifico": "Psammodromus algirus",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Dos líneas amarillas a cada lado que limitan una banda parda.",
+    "Escamas dorsales grandes, imbricadas y muy carenadas.",
+    "Cola extremadamente larga (hasta tres veces el cuerpo).",
+    "Machos con manchas naranjas en la cabeza durante el celo."
+   ],
+   "imagenes": [
+    "img/psammodromus-algirus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/psammodromus-algirus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279680856"
+    },
+    {
+     "src": "web/psammodromus-algirus_2.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/111633666"
+    },
+    {
+     "src": "web/psammodromus-algirus_3.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/219765571"
+    },
+    {
+     "src": "web/psammodromus-algirus_4.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/298367000"
+    },
+    {
+     "src": "web/psammodromus-algirus_5.jpg",
+     "autor": "Oriol Sastre",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/301480529"
+    },
+    {
+     "src": "web/psammodromus-algirus_6.jpg",
+     "autor": "Mehdi Chetibi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/67907659"
+    },
+    {
+     "src": "web/psammodromus-algirus_7.jpg",
+     "autor": "euqirneto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/215868351"
+    },
+    {
+     "src": "web/psammodromus-algirus_8.jpg",
+     "autor": "Daniel Capilla",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/220217062"
+    }
+   ]
+  },
+  {
+   "id": "acanthodactylus-erythrurus",
+   "comun": "Lagartija colirroja",
+   "alternativos": [],
+   "cientifico": "Acanthodactylus erythrurus",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Dedos con escamas laterales dentadas (para arena).",
+    "Juveniles con cola de color rojo intenso muy llamativo.",
+    "Dorso con diseño de bandas blancas y negras muy marcado.",
+    "Escamas dorsales muy pequeñas y granulares."
+   ],
+   "imagenes": [
+    "img/acanthodactylus-erythrurus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/acanthodactylus-erythrurus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/287429111"
+    },
+    {
+     "src": "web/acanthodactylus-erythrurus_2.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233681045"
+    },
+    {
+     "src": "web/acanthodactylus-erythrurus_3.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/279023644"
+    },
+    {
+     "src": "web/acanthodactylus-erythrurus_4.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/350117834"
+    },
+    {
+     "src": "web/acanthodactylus-erythrurus_5.jpg",
+     "autor": "Cristina Olivares Collado",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/388994687"
+    },
+    {
+     "src": "web/acanthodactylus-erythrurus_6.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/91939480"
+    },
+    {
+     "src": "web/acanthodactylus-erythrurus_7.jpg",
+     "autor": "Dr. Sven Gippner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/218778932"
+    },
+    {
+     "src": "web/acanthodactylus-erythrurus_8.jpg",
+     "autor": "Yannick Brenz",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/119138883"
+    }
+   ]
+  },
+  {
+   "id": "algyroides-marchi",
+   "comun": "Lagartija de Valverde",
+   "alternativos": [],
+   "cientifico": "Algyroides marchi",
+   "orden": "Squamata",
+   "familia": "Lacertidae",
+   "rasgos": [
+    "Escamas dorsales muy grandes, hexagonales y carenadas.",
+    "Costados muy oscuros (casi negros) que contrastan con el dorso pardo.",
+    "Aspecto muy pequeño y esbelto.",
+    "Endemismo de las sierras de Cazorla, Segura y Alcaraz."
+   ],
+   "imagenes": [
+    "img/algyroides-marchi_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/algyroides-marchi_1.jpg",
+     "autor": "Gonzalo Colomer Barcia",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/348513521"
+    },
+    {
+     "src": "web/algyroides-marchi_2.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231599308"
+    },
+    {
+     "src": "web/algyroides-marchi_3.jpg",
+     "autor": "Gonzalo Colomer Barcia",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/348512605"
+    },
+    {
+     "src": "web/algyroides-marchi_4.jpg",
+     "autor": "Eric Toro Delgado",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/223772971"
+    },
+    {
+     "src": "web/algyroides-marchi_5.jpg",
+     "autor": "Antón David Pérez Rodríguez",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/373254115"
+    },
+    {
+     "src": "web/algyroides-marchi_6.jpg",
+     "autor": "Mattia Menchetti",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/223787954"
+    },
+    {
+     "src": "web/algyroides-marchi_7.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/231599307"
+    }
+   ]
+  },
+  {
+   "id": "anguis-fragilis",
+   "comun": "Lución",
+   "alternativos": [],
+   "cientifico": "Anguis fragilis",
+   "orden": "Squamata",
+   "familia": "Anguidae",
+   "rasgos": [
+    "Lagarto sin patas con aspecto de serpiente.",
+    "Piel muy lisa y brillante con escamas osteodérmicas.",
+    "Posee párpados móviles (parpadea, las serpientes no).",
+    "Cola termina en una punta roma (autotomía frecuente)."
+   ],
+   "imagenes": [
+    "img/anguis-fragilis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/anguis-fragilis_1.jpg",
+     "autor": "C. Oppermann",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/258400460"
+    },
+    {
+     "src": "web/anguis-fragilis_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204449478"
+    },
+    {
+     "src": "web/anguis-fragilis_3.jpg",
+     "autor": "Julian Prow",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/355296402"
+    },
+    {
+     "src": "web/anguis-fragilis_4.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109234296"
+    },
+    {
+     "src": "web/anguis-fragilis_5.jpg",
+     "autor": "liam1294",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/110270713"
+    },
+    {
+     "src": "web/anguis-fragilis_6.jpg",
+     "autor": "Wolfgang Ahlmer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/213193604"
+    },
+    {
+     "src": "web/anguis-fragilis_7.jpg",
+     "autor": "ivan_humljani",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/89906354"
+    },
+    {
+     "src": "web/anguis-fragilis_8.jpg",
+     "autor": "Kieran Roy Powell",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/216789001"
+    }
+   ]
+  },
+  {
+   "id": "chalcides-bedriagai",
+   "comun": "Eslizón ibérico",
+   "alternativos": [],
+   "cientifico": "Chalcides bedriagai",
+   "orden": "Squamata",
+   "familia": "Scincidae",
+   "rasgos": [
+    "Cuerpo serpentiforme con patas muy pequeñas.",
+    "Cinco dedos en cada extremidad.",
+    "Cabeza poco diferenciada del cuello y hocico redondeado.",
+    "Coloración amarillenta o parda con ocelos negros y blancos."
+   ],
+   "imagenes": [
+    "img/chalcides-bedriagai_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/chalcides-bedriagai_1.jpg",
+     "autor": "Cristian Valls",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/47533386"
+    },
+    {
+     "src": "web/chalcides-bedriagai_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/361937752"
+    },
+    {
+     "src": "web/chalcides-bedriagai_3.jpg",
+     "autor": "Morgan Caygill",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/245617130"
+    },
+    {
+     "src": "web/chalcides-bedriagai_4.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233706381"
+    },
+    {
+     "src": "web/chalcides-bedriagai_5.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233706408"
+    },
+    {
+     "src": "web/chalcides-bedriagai_6.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204191696"
+    },
+    {
+     "src": "web/chalcides-bedriagai_7.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233758677"
+    },
+    {
+     "src": "web/chalcides-bedriagai_8.jpg",
+     "autor": "Óscar Sampedro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/226312292"
+    }
+   ]
+  },
+  {
+   "id": "chalcides-striatus",
+   "comun": "Eslizón tridáctilo ibérico",
+   "alternativos": [
+    "Eslizón tridáctilo"
+   ],
+   "cientifico": "Chalcides striatus",
+   "orden": "Squamata",
+   "familia": "Scincidae",
+   "rasgos": [
+    "Solo tres dedos en cada pata (extremidades diminutas).",
+    "Cuerpo muy alargado y cilíndrico.",
+    "Diseño de 9 a 13 líneas longitudinales oscuras en el dorso.",
+    "Movimiento serpentiforme muy rápido en la hierba."
+   ],
+   "imagenes": [
+    "img/chalcides-striatus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/chalcides-striatus_1.jpg",
+     "autor": "Thomas Koffel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/4044346"
+    },
+    {
+     "src": "web/chalcides-striatus_2.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233758712"
+    },
+    {
+     "src": "web/chalcides-striatus_3.jpg",
+     "autor": "Andre Hosper",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/8008300"
+    },
+    {
+     "src": "web/chalcides-striatus_4.jpg",
+     "autor": "Luis M. Muñoz",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/232086384"
+    },
+    {
+     "src": "web/chalcides-striatus_5.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/82516980"
+    },
+    {
+     "src": "web/chalcides-striatus_6.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/78374746"
+    },
+    {
+     "src": "web/chalcides-striatus_7.jpg",
+     "autor": "Flavien Saboureau",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/349320405"
+    },
+    {
+     "src": "web/chalcides-striatus_8.jpg",
+     "autor": "Sara Navarro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/216899680"
+    }
+   ]
+  },
+  {
+   "id": "blanus-cinereus",
+   "comun": "Culebrilla ciega",
+   "alternativos": [],
+   "cientifico": "Blanus cinereus",
+   "orden": "Squamata",
+   "familia": "Blanidae",
+   "rasgos": [
+    "Reptil subterráneo sin patas, aspecto de lombriz grande.",
+    "Ojos atrofiados cubiertos por piel (parece ciega).",
+    "Cuerpo anillado por surcos transversales y longitudinales.",
+    "Cabeza maciza para excavar galerías."
+   ],
+   "imagenes": [
+    "img/blanus-cinereus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/blanus-cinereus_1.jpg",
+     "autor": "Julien Tchilinguirian",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144951188"
+    },
+    {
+     "src": "web/blanus-cinereus_2.jpg",
+     "autor": "Paulo Galvão",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/45637301"
+    },
+    {
+     "src": "web/blanus-cinereus_3.jpg",
+     "autor": "Vasco Henrique Oliveira Fonseca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/343213028"
+    },
+    {
+     "src": "web/blanus-cinereus_4.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/251941200"
+    },
+    {
+     "src": "web/blanus-cinereus_5.jpg",
+     "autor": "Vasco Henrique Oliveira Fonseca",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/369000300"
+    },
+    {
+     "src": "web/blanus-cinereus_6.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/249041485"
+    },
+    {
+     "src": "web/blanus-cinereus_7.jpg",
+     "autor": "Manuel Marqués",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/305496976"
+    },
+    {
+     "src": "web/blanus-cinereus_8.jpg",
+     "autor": "Duarte Frade",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/199036390"
+    }
+   ]
+  },
+  {
+   "id": "hemorrhois-hippocrepis",
+   "comun": "Culebra de herradura",
+   "alternativos": [],
+   "cientifico": "Hemorrhois hippocrepis",
+   "orden": "Squamata",
+   "familia": "Colubridae",
+   "rasgos": [
+    "Dibujo en forma de herradura en la parte posterior de la cabeza.",
+    "Dorso con manchas oscuras circulares rodeadas de blanco.",
+    "Muy ágil, trepadora y de carácter agresivo si se acorrala.",
+    "Pupila redonda e iris dorado."
+   ],
+   "imagenes": [
+    "img/hemorrhois-hippocrepis_1.jpg",
+    "img/hemorrhois-hippocrepis_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/hemorrhois-hippocrepis_1.jpg",
+     "autor": "Lucas Benaiche",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/331668066"
+    },
+    {
+     "src": "web/hemorrhois-hippocrepis_2.jpg",
+     "autor": "Vítor Jorge",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/172206675"
+    },
+    {
+     "src": "web/hemorrhois-hippocrepis_3.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68861634"
+    },
+    {
+     "src": "web/hemorrhois-hippocrepis_4.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265637503"
+    },
+    {
+     "src": "web/hemorrhois-hippocrepis_5.jpg",
+     "autor": "Mehdi Chetibi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/93420860"
+    },
+    {
+     "src": "web/hemorrhois-hippocrepis_6.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/253997871"
+    },
+    {
+     "src": "web/hemorrhois-hippocrepis_7.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/51775859"
+    },
+    {
+     "src": "web/hemorrhois-hippocrepis_8.jpg",
+     "autor": "bobcat-otter",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/135639480"
+    }
+   ]
+  },
+  {
+   "id": "zamenis-scalaris",
+   "comun": "Culebra de escalera",
+   "alternativos": [],
+   "cientifico": "Zamenis scalaris",
+   "orden": "Squamata",
+   "familia": "Colubridae",
+   "rasgos": [
+    "Juveniles con diseño de \"escalera\" en el dorso.",
+    "Adultos con dos líneas negras paralelas longitudinales.",
+    "Hocico muy puntiagudo y escama rostral característica.",
+    "Coloración de fondo ocre o amarillenta."
+   ],
+   "imagenes": [
+    "img/zamenis-scalaris_1.jpg",
+    "img/zamenis-scalaris_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/zamenis-scalaris_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/268974481"
+    },
+    {
+     "src": "web/zamenis-scalaris_2.jpg",
+     "autor": "Alejandro Rodríguez Zapata",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/352190245"
+    },
+    {
+     "src": "web/zamenis-scalaris_3.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/119039513"
+    },
+    {
+     "src": "web/zamenis-scalaris_4.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/160284883"
+    },
+    {
+     "src": "web/zamenis-scalaris_5.jpg",
+     "autor": "Sara Navarro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69832739"
+    },
+    {
+     "src": "web/zamenis-scalaris_6.jpg",
+     "autor": "Clément Maouche",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/288571730"
+    },
+    {
+     "src": "web/zamenis-scalaris_7.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/411436933"
+    },
+    {
+     "src": "web/zamenis-scalaris_8.jpg",
+     "autor": "Sara Navarro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/155032397"
+    }
+   ]
+  },
+  {
+   "id": "malpolon-monspessulanus",
+   "comun": "Culebra bastarda",
+   "alternativos": [],
+   "cientifico": "Malpolon monspessulanus",
+   "orden": "Squamata",
+   "familia": "Psammophiidae",
+   "rasgos": [
+    "Ojos grandes con escama supraocular prominente (\"ceja\").",
+    "Aspecto de mirada \"enfadada\" o peligrosa.",
+    "Depresión frontal entre los ojos.",
+    "La culebra más grande de la Península (hasta 2 metros)."
+   ],
+   "imagenes": [
+    "img/malpolon-monspessulanus_1.jpg",
+    "img/malpolon-monspessulanus_2.jpg",
+    "img/malpolon-monspessulanus_3.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/malpolon-monspessulanus_1.jpg",
+     "autor": "Sara Navarro",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/85968234"
+    },
+    {
+     "src": "web/malpolon-monspessulanus_2.jpg",
+     "autor": "João Valença",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/93984509"
+    },
+    {
+     "src": "web/malpolon-monspessulanus_3.jpg",
+     "autor": "Michael Bakker Paiva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/8467413"
+    },
+    {
+     "src": "web/malpolon-monspessulanus_4.jpg",
+     "autor": "Borja Fierro-Leva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/320741138"
+    },
+    {
+     "src": "web/malpolon-monspessulanus_5.jpg",
+     "autor": "frangp",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/292164014"
+    },
+    {
+     "src": "web/malpolon-monspessulanus_6.jpg",
+     "autor": "Jordi Casanovas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/342728715"
+    },
+    {
+     "src": "web/malpolon-monspessulanus_7.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/118815942"
+    },
+    {
+     "src": "web/malpolon-monspessulanus_8.jpg",
+     "autor": "Lucas Benaiche",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/333443573"
+    }
+   ]
+  },
+  {
+   "id": "natrix-astreptophora",
+   "comun": "Culebra de collar mediterránea",
+   "alternativos": [],
+   "cientifico": "Natrix astreptophora",
+   "orden": "Squamata",
+   "familia": "Colubridae",
+   "rasgos": [
+    "Juveniles con collar blanco/amarillo bordeado de negro.",
+    "Adultos suelen perder el collar y tener iris rojizo.",
+    "Escamas dorsales muy carenadas.",
+    "Pupila redonda y hábitos terrestres a diferencia de N. maura."
+   ],
+   "imagenes": [
+    "img/natrix-astreptophora_1.jpg",
+    "img/natrix-astreptophora_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/natrix-astreptophora_1.jpg",
+     "autor": "franciscodocampo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/25469816"
+    },
+    {
+     "src": "web/natrix-astreptophora_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/226912191"
+    },
+    {
+     "src": "web/natrix-astreptophora_3.jpg",
+     "autor": "Matthieu Patout",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/369278445"
+    },
+    {
+     "src": "web/natrix-astreptophora_4.jpg",
+     "autor": "Daniel Castanhal García",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/230730394"
+    },
+    {
+     "src": "web/natrix-astreptophora_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189984580"
+    },
+    {
+     "src": "web/natrix-astreptophora_6.jpg",
+     "autor": "sofialopez9",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/366256249"
+    },
+    {
+     "src": "web/natrix-astreptophora_7.jpg",
+     "autor": "Jose Ramon Castro Gomez",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/285922003"
+    },
+    {
+     "src": "web/natrix-astreptophora_8.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265196021"
+    }
+   ]
+  },
+  {
+   "id": "natrix-maura",
+   "comun": "Culebra viperina",
+   "alternativos": [],
+   "cientifico": "Natrix maura",
+   "orden": "Squamata",
+   "familia": "Colubridae",
+   "rasgos": [
+    "Imita a las víboras con diseño dorsal en zigzag.",
+    "Aplanamiento de la cabeza en forma triangular si se siente amenazada.",
+    "Estrictamente acuática, excelente buceadora.",
+    "Pupila redonda (las víboras la tienen vertical)."
+   ],
+   "imagenes": [
+    "img/natrix-maura_1.jpg",
+    "img/natrix-maura_2.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/natrix-maura_1.jpg",
+     "autor": "moorebuesing",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/140094284"
+    },
+    {
+     "src": "web/natrix-maura_2.jpg",
+     "autor": "Thomas M",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/412964053"
+    },
+    {
+     "src": "web/natrix-maura_3.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/360618343"
+    },
+    {
+     "src": "web/natrix-maura_4.jpg",
+     "autor": "Benjamin Carbuccia",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/172720998"
+    },
+    {
+     "src": "web/natrix-maura_5.jpg",
+     "autor": "Naturalista",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/225935726"
+    },
+    {
+     "src": "web/natrix-maura_6.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/189837952"
+    },
+    {
+     "src": "web/natrix-maura_7.jpg",
+     "autor": "Benjamin Carbuccia",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/171346794"
+    },
+    {
+     "src": "web/natrix-maura_8.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/223306259"
+    }
+   ]
+  },
+  {
+   "id": "coronella-austriaca",
+   "comun": "Culebra lisa europea",
+   "alternativos": [],
+   "cientifico": "Coronella austriaca",
+   "orden": "Squamata",
+   "familia": "Colubridae",
+   "rasgos": [
+    "Escamas del dorso totalmente lisas.",
+    "Línea oscura que atraviesa el ojo pero no llega al hocico.",
+    "Vientre de color uniforme (gris, rojizo o pardo).",
+    "Mancha oscura en el cogote."
+   ],
+   "imagenes": [
+    "img/coronella-austriaca_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/coronella-austriaca_1.jpg",
+     "autor": "Conrad Altmann",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/32231359"
+    },
+    {
+     "src": "web/coronella-austriaca_2.jpg",
+     "autor": "Adam Golenia",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/407584809"
+    },
+    {
+     "src": "web/coronella-austriaca_3.jpg",
+     "autor": "B. P. White",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/125422895"
+    },
+    {
+     "src": "web/coronella-austriaca_4.jpg",
+     "autor": "Johannes S.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/334196136"
+    },
+    {
+     "src": "web/coronella-austriaca_5.jpg",
+     "autor": "euqirneto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/376835080"
+    },
+    {
+     "src": "web/coronella-austriaca_6.jpg",
+     "autor": "Fabian Graubereich",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/202837349"
+    },
+    {
+     "src": "web/coronella-austriaca_7.jpg",
+     "autor": "Pavel Šmejkal",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/12012054"
+    },
+    {
+     "src": "web/coronella-austriaca_8.jpg",
+     "autor": "Tobias Schönberg",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/114250854"
+    }
+   ]
+  },
+  {
+   "id": "macroprotodon-brevis",
+   "comun": "Culebra de cogulla occidental",
+   "alternativos": [
+    "Culebra de cogulla"
+   ],
+   "cientifico": "Macroprotodon brevis",
+   "orden": "Squamata",
+   "familia": "Colubridae",
+   "rasgos": [
+    "Mancha oscura en el cogote (\"cogulla\") que suele llegar a la garganta.",
+    "Pupila ligeramente ovalada o vertical.",
+    "Cabeza muy aplanada y deprimida.",
+    "Culebra de pequeño tamaño y muy discreta."
+   ],
+   "imagenes": [
+    "img/macroprotodon-brevis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/macroprotodon-brevis_1.jpg",
+     "autor": "Paulo Martins",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/70205173"
+    },
+    {
+     "src": "web/macroprotodon-brevis_2.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/232944029"
+    },
+    {
+     "src": "web/macroprotodon-brevis_3.jpg",
+     "autor": "Gijs Romijn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/358423625"
+    },
+    {
+     "src": "web/macroprotodon-brevis_4.jpg",
+     "autor": "Daniel Heras González",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/207012361"
+    },
+    {
+     "src": "web/macroprotodon-brevis_5.jpg",
+     "autor": "Juan Martínez Reina",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/332929114"
+    },
+    {
+     "src": "web/macroprotodon-brevis_6.jpg",
+     "autor": "Juan C. Espinosa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/207419214"
+    },
+    {
+     "src": "web/macroprotodon-brevis_7.jpg",
+     "autor": "BJ Smit",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/203449803"
+    },
+    {
+     "src": "web/macroprotodon-brevis_8.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/141680378"
+    }
+   ]
+  },
+  {
+   "id": "hierophis-viridiflavus",
+   "comun": "Culebra verdiamarilla",
+   "alternativos": [],
+   "cientifico": "Hierophis viridiflavus",
+   "orden": "Squamata",
+   "familia": "Colubridae",
+   "rasgos": [
+    "Coloración negra con un punteado amarillo muy denso y regular.",
+    "Muy rápida, agresiva y de gran tamaño.",
+    "Ojos grandes con pupila redonda.",
+    "Presente en el Pirineo y zonas limítrofes."
+   ],
+   "imagenes": [
+    "img/hierophis-viridiflavus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/hierophis-viridiflavus_1.jpg",
+     "autor": "Francesco R",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/361791547"
+    },
+    {
+     "src": "web/hierophis-viridiflavus_2.jpg",
+     "autor": "Léo Souillard",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/227976059"
+    },
+    {
+     "src": "web/hierophis-viridiflavus_3.jpg",
+     "autor": "Gianluca Congi🪶🦆🌲",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/178720987"
+    },
+    {
+     "src": "web/hierophis-viridiflavus_4.jpg",
+     "autor": "Gabriele Vaudano",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/85922972"
+    },
+    {
+     "src": "web/hierophis-viridiflavus_5.jpg",
+     "autor": "harry beaman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/371616515"
+    },
+    {
+     "src": "web/hierophis-viridiflavus_6.jpg",
+     "autor": "J Mark Earlam",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/42489453"
+    },
+    {
+     "src": "web/hierophis-viridiflavus_7.jpg",
+     "autor": "olrett",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/252593699"
+    },
+    {
+     "src": "web/hierophis-viridiflavus_8.jpg",
+     "autor": "Felix Puff",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/123680223"
+    }
+   ]
+  },
+  {
+   "id": "vipera-latastei",
+   "comun": "Víbora hocicuda",
+   "alternativos": [],
+   "cientifico": "Vipera latastei",
+   "orden": "Squamata",
+   "familia": "Viperidae",
+   "rasgos": [
+    "Extremo del hocico levantado formando un pequeño \"cuerno\".",
+    "Pupila vertical e iris dorado/broncíneo.",
+    "Dorso con patrón de zigzag negro muy marcado sobre gris/pardo.",
+    "Cabeza triangular cubierta de escamas pequeñas."
+   ],
+   "imagenes": [
+    "img/vipera-latastei_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/vipera-latastei_1.jpg",
+     "autor": "Marco Sommer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/261971178"
+    },
+    {
+     "src": "web/vipera-latastei_2.jpg",
+     "autor": "Shiqi Zhou",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/166235027"
+    },
+    {
+     "src": "web/vipera-latastei_3.jpg",
+     "autor": "Cenaida",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/399827321"
+    },
+    {
+     "src": "web/vipera-latastei_4.jpg",
+     "autor": "Marco Sommer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/261971181"
+    },
+    {
+     "src": "web/vipera-latastei_5.jpg",
+     "autor": "Cenaida",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269584275"
+    },
+    {
+     "src": "web/vipera-latastei_6.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/265199888"
+    },
+    {
+     "src": "web/vipera-latastei_7.jpg",
+     "autor": "Rafael Medina",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/284091808"
+    },
+    {
+     "src": "web/vipera-latastei_8.jpg",
+     "autor": "euqirneto",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/88924926"
+    }
+   ]
+  },
+  {
+   "id": "vipera-seoanei",
+   "comun": "Víbora de Seoane",
+   "alternativos": [],
+   "cientifico": "Vipera seoanei",
+   "orden": "Squamata",
+   "familia": "Viperidae",
+   "rasgos": [
+    "Hocico no levantado (aplastado o redondeado).",
+    "Cabeza grande pero menos triangular que V. latastei.",
+    "Coloración muy variable (con zigzag, bandas o uniforme).",
+    "Endemismo de la cornisa cantábrica y Galicia."
+   ],
+   "imagenes": [
+    "img/vipera-seoanei_1.jpg",
+    "img/vipera-seoanei_2.jpg",
+    "img/vipera-seoanei_3.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/vipera-seoanei_1.jpg",
+     "autor": "D. Rafael S. Fernandes",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/412773721"
+    },
+    {
+     "src": "web/vipera-seoanei_2.jpg",
+     "autor": "Marco Sommer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/261971201"
+    },
+    {
+     "src": "web/vipera-seoanei_3.jpg",
+     "autor": "Michael Bakker Paiva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/152737503"
+    },
+    {
+     "src": "web/vipera-seoanei_4.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/214242854"
+    },
+    {
+     "src": "web/vipera-seoanei_5.jpg",
+     "autor": "Wouter Beukema",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/216112111"
+    },
+    {
+     "src": "web/vipera-seoanei_6.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238385413"
+    },
+    {
+     "src": "web/vipera-seoanei_7.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238385425"
+    },
+    {
+     "src": "web/vipera-seoanei_8.jpg",
+     "autor": "Samuel GUIRAUDOU",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/238385870"
+    }
+   ]
+  },
+  {
+   "id": "vipera-aspis",
+   "comun": "Víbora áspid",
+   "alternativos": [],
+   "cientifico": "Vipera aspis",
+   "orden": "Squamata",
+   "familia": "Viperidae",
+   "rasgos": [
+    "Hocico ligeramente levantado pero sin llegar a ser \"cuerno\".",
+    "Dorso con barras transversales negras en lugar de zigzag continuo.",
+    "Vientre gris oscuro o negro con motas blancas.",
+    "Presente en el NE peninsular y Pirineos."
+   ],
+   "imagenes": [
+    "img/vipera-aspis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/vipera-aspis_1.jpg",
+     "autor": "Paolo Giampaoletti",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/205728971"
+    },
+    {
+     "src": "web/vipera-aspis_2.jpg",
+     "autor": "Gilles San Martin",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/89009656"
+    },
+    {
+     "src": "web/vipera-aspis_3.jpg",
+     "autor": "Emanuele Santarelli",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/160953937"
+    },
+    {
+     "src": "web/vipera-aspis_4.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/15201077"
+    },
+    {
+     "src": "web/vipera-aspis_5.jpg",
+     "autor": "Ewout Knoester",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/292454912"
+    },
+    {
+     "src": "web/vipera-aspis_6.jpg",
+     "autor": "Matteo Bellucci",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/307112444"
+    },
+    {
+     "src": "web/vipera-aspis_7.jpg",
+     "autor": "Lennart Hudel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/228498537"
+    },
+    {
+     "src": "web/vipera-aspis_8.jpg",
+     "autor": "Thomas Koffel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/202869716"
+    }
+   ]
+  }
+ ]
+}
