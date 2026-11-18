@@ -8182,6 +8182,1297 @@
      "fuente": "https://www.inaturalist.org/observations/135208825"
     }
    ]
+  },
+  {
+   "id": "dryocopus-martius",
+   "comun": "Pito negro",
+   "alternativos": [],
+   "cientifico": "Dryocopus martius",
+   "orden": "Piciformes",
+   "familia": "Picidae",
+   "rasgos": [
+    "El pájaro carpintero más grande de Europa (tamaño de una corneja).",
+    "Plumaje enteramente negro azabache mate.",
+    "Macho con píleo (capirote) rojo vivo completo; hembra solo en la nuca.",
+    "Ojo con iris de un color amarillo pálido o blanquecino muy llamativo."
+   ],
+   "imagenes": [
+    "img/dryocopus-martius_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/dryocopus-martius_1.jpg",
+     "autor": "avsdov",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/339430419"
+    },
+    {
+     "src": "web/dryocopus-martius_2.jpg",
+     "autor": "Ирина Хохрякова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/329464126"
+    },
+    {
+     "src": "web/dryocopus-martius_3.jpg",
+     "autor": "Ксения Волянская",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/251555173"
+    },
+    {
+     "src": "web/dryocopus-martius_4.jpg",
+     "autor": "Олеся",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/286004129"
+    },
+    {
+     "src": "web/dryocopus-martius_5.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204591714"
+    },
+    {
+     "src": "web/dryocopus-martius_6.jpg",
+     "autor": "Alexis Tinker-Tsavalas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/21389675"
+    },
+    {
+     "src": "web/dryocopus-martius_7.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204590590"
+    },
+    {
+     "src": "web/dryocopus-martius_8.jpg",
+     "autor": "Ged Tranter",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/190560314"
+    }
+   ]
+  },
+  {
+   "id": "picus-sharpei",
+   "comun": "Pito real ibérico",
+   "alternativos": [
+    "Pito real"
+   ],
+   "cientifico": "Picus sharpei",
+   "orden": "Piciformes",
+   "familia": "Picidae",
+   "rasgos": [
+    "Dorso verde oliva brillante con obispillo amarillo vivo.",
+    "Capirote rojo intenso; ojo con iris blanco muy llamativo.",
+    "A diferencia del europeo, carece de antifaz negro completo tras el ojo.",
+    "Frecuente alimentándose de hormigas directamente en el suelo."
+   ],
+   "imagenes": [
+    "img/picus-sharpei_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/picus-sharpei_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/199616046"
+    },
+    {
+     "src": "web/picus-sharpei_2.jpg",
+     "autor": "William Walker",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/395540974"
+    },
+    {
+     "src": "web/picus-sharpei_3.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144719657"
+    },
+    {
+     "src": "web/picus-sharpei_4.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/109555671"
+    },
+    {
+     "src": "web/picus-sharpei_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/215088766"
+    },
+    {
+     "src": "web/picus-sharpei_6.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/342343293"
+    },
+    {
+     "src": "web/picus-sharpei_7.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144910924"
+    },
+    {
+     "src": "web/picus-sharpei_8.jpg",
+     "autor": "Nico Hernandez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/236364859"
+    }
+   ]
+  },
+  {
+   "id": "jynx-torquilla",
+   "comun": "Torcecuello euroasiático",
+   "alternativos": [
+    "Torcecuello"
+   ],
+   "cientifico": "Jynx torquilla",
+   "orden": "Piciformes",
+   "familia": "Picidae",
+   "rasgos": [
+    "Carpintero atípico de plumaje críptico (parece corteza o un chotacabras).",
+    "Capacidad de girar el cuello 180 grados como una serpiente al asustarse.",
+    "Pico corto y recto; cola larga barreada de gris.",
+    "Se alimenta de hormigas; migrador estival común en huertos.",
+    "Nota: diferencias con chotacabras: los ojos del chotacabras son más grandes, su pico es diminuto y su cuerpo más aplastado."
+   ],
+   "imagenes": [
+    "img/jynx-torquilla_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/jynx-torquilla_1.jpg",
+     "autor": "Николай Гнездилов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/93021419"
+    },
+    {
+     "src": "web/jynx-torquilla_2.jpg",
+     "autor": "Thomas Koffel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/203101102"
+    },
+    {
+     "src": "web/jynx-torquilla_3.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/83791175"
+    },
+    {
+     "src": "web/jynx-torquilla_4.jpg",
+     "autor": "Leonard Wägele",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/29132714"
+    },
+    {
+     "src": "web/jynx-torquilla_5.jpg",
+     "autor": "Edoardo Nardelli",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/176594255"
+    },
+    {
+     "src": "web/jynx-torquilla_6.jpg",
+     "autor": "Константин Селивёрстов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37459136"
+    },
+    {
+     "src": "web/jynx-torquilla_7.jpg",
+     "autor": "Yehor Yatsiuk",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/144927547"
+    },
+    {
+     "src": "web/jynx-torquilla_8.jpg",
+     "autor": "Олег Юмашев",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/30752600"
+    }
+   ]
+  },
+  {
+   "id": "podiceps-cristatus",
+   "comun": "Somormujo lavanco",
+   "alternativos": [
+    "Somormujo"
+   ],
+   "cientifico": "Podiceps cristatus",
+   "orden": "Podicipediformes",
+   "familia": "Podicipedidae",
+   "rasgos": [
+    "Estilizado cuello blanco largo; cabeza con gola castaña y dos moños negros.",
+    "Pico largo y afilado de color rosáceo; excelente buceador profundo.",
+    "Vientre blanco níveo; dorso pardo oscuro.",
+    "Famoso por sus danzas de cortejo cara a cara sobre el agua."
+   ],
+   "imagenes": [
+    "img/podiceps-cristatus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/podiceps-cristatus_1.jpg",
+     "autor": "M. B.",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/341909121"
+    },
+    {
+     "src": "web/podiceps-cristatus_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/263911192"
+    },
+    {
+     "src": "web/podiceps-cristatus_3.jpg",
+     "autor": "Hendrik Luup",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/361492755"
+    },
+    {
+     "src": "web/podiceps-cristatus_4.jpg",
+     "autor": "Сергей Неклюдов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/123245213"
+    },
+    {
+     "src": "web/podiceps-cristatus_5.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/19213190"
+    },
+    {
+     "src": "web/podiceps-cristatus_6.jpg",
+     "autor": "Юлия",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/58729206"
+    },
+    {
+     "src": "web/podiceps-cristatus_7.jpg",
+     "autor": "Safina Rezeda",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/113850682"
+    },
+    {
+     "src": "web/podiceps-cristatus_8.jpg",
+     "autor": "William Harland",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/327346745"
+    }
+   ]
+  },
+  {
+   "id": "tachybaptus-ruficollis",
+   "comun": "Zampullín común",
+   "alternativos": [],
+   "cientifico": "Tachybaptus ruficollis",
+   "orden": "Podicipediformes",
+   "familia": "Podicipedidae",
+   "rasgos": [
+    "Buceador minúsculo de aspecto redondeado y \"sin cola\".",
+    "Plumaje nupcial castaño rojizo en mejillas y cuello.",
+    "Pequeña mancha de piel amarilla clara en la comisura del pico.",
+    "Suele sumergirse rápidamente ante el menor peligro."
+   ],
+   "imagenes": [
+    "img/tachybaptus-ruficollis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tachybaptus-ruficollis_1.jpg",
+     "autor": "rober025",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/65912619"
+    },
+    {
+     "src": "web/tachybaptus-ruficollis_2.jpg",
+     "autor": "Людмила Алимова",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69988682"
+    },
+    {
+     "src": "web/tachybaptus-ruficollis_3.jpg",
+     "autor": "Alison JC Brown",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/153418707"
+    },
+    {
+     "src": "web/tachybaptus-ruficollis_4.jpg",
+     "autor": "Gergely Nigg",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/65143173"
+    },
+    {
+     "src": "web/tachybaptus-ruficollis_5.jpg",
+     "autor": "bko",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/355074268"
+    },
+    {
+     "src": "web/tachybaptus-ruficollis_6.jpg",
+     "autor": "Gergely Nigg",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/73037567"
+    },
+    {
+     "src": "web/tachybaptus-ruficollis_7.jpg",
+     "autor": "Jerry Lanfear",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/285367448"
+    },
+    {
+     "src": "web/tachybaptus-ruficollis_8.jpg",
+     "autor": "Zinogre",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/74320952"
+    }
+   ]
+  },
+  {
+   "id": "podiceps-nigricollis",
+   "comun": "Zampullín cuellinegro",
+   "alternativos": [],
+   "cientifico": "Podiceps nigricollis",
+   "orden": "Podicipediformes",
+   "familia": "Podicipedidae",
+   "rasgos": [
+    "Llamativo ojo de color rojo fuego; plumaje nupcial negro.",
+    "Abanico de plumas doradas tras el ojo sobre la cara negra.",
+    "Pico fino ligeramente curvado hacia arriba.",
+    "Silueta de popa muy elevada sobre el nivel del agua."
+   ],
+   "imagenes": [
+    "img/podiceps-nigricollis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/podiceps-nigricollis_1.jpg",
+     "autor": "Kalvin Chan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/117823996"
+    },
+    {
+     "src": "web/podiceps-nigricollis_2.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/84674659"
+    },
+    {
+     "src": "web/podiceps-nigricollis_3.jpg",
+     "autor": "Дмитрий Кошелев",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/370004220"
+    },
+    {
+     "src": "web/podiceps-nigricollis_4.jpg",
+     "autor": "Ben",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/387430239"
+    },
+    {
+     "src": "web/podiceps-nigricollis_5.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/203414281"
+    },
+    {
+     "src": "web/podiceps-nigricollis_6.jpg",
+     "autor": "Сергей Неклюдов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/81229308"
+    },
+    {
+     "src": "web/podiceps-nigricollis_7.jpg",
+     "autor": "Лариса Артемьева",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/119100681"
+    },
+    {
+     "src": "web/podiceps-nigricollis_8.jpg",
+     "autor": "Kathy Lichtendahl",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/75327457"
+    }
+   ]
+  },
+  {
+   "id": "calonectris-diomedea",
+   "comun": "Pardela cenicienta",
+   "alternativos": [],
+   "cientifico": "Calonectris diomedea",
+   "orden": "Procellariiformes",
+   "familia": "Procellariidae",
+   "rasgos": [
+    "Dorso de color gris ceniza; zonas inferiores blanco puro.",
+    "Pico amarillento con el extremo oscuro y orificios nasales tubulares.",
+    "Vuelo planeado rasante sobre las olas, alternando inclinaciones laterales.",
+    "Nidifica en colonias en acantilados e islas (Canarias y Baleares)."
+   ],
+   "imagenes": [
+    "img/calonectris-diomedea_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/calonectris-diomedea_1.jpg",
+     "autor": "Dario Taraborelli",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/232676510"
+    },
+    {
+     "src": "web/calonectris-diomedea_2.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291762501"
+    },
+    {
+     "src": "web/calonectris-diomedea_3.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291762508"
+    },
+    {
+     "src": "web/calonectris-diomedea_4.jpg",
+     "autor": "bitsandbugs",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/243179551"
+    },
+    {
+     "src": "web/calonectris-diomedea_5.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291892347"
+    },
+    {
+     "src": "web/calonectris-diomedea_6.jpg",
+     "autor": "Alina Martin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/191898474"
+    },
+    {
+     "src": "web/calonectris-diomedea_7.jpg",
+     "autor": "bogsuckers",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/306729384"
+    },
+    {
+     "src": "web/calonectris-diomedea_8.jpg",
+     "autor": "bogsuckers",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/306729409"
+    }
+   ]
+  },
+  {
+   "id": "myiopsitta-monachus",
+   "comun": "Cotorra argentina",
+   "alternativos": [],
+   "cientifico": "Myiopsitta monachus",
+   "orden": "Psittaciformes",
+   "familia": "Psittacidae",
+   "rasgos": [
+    "Plumaje verde brillante con frente y pecho de color gris ceniza.",
+    "Remiges de las alas de color azul cobalto (visible en vuelo).",
+    "Único loro que construye grandes nidos comunales de ramas en árboles.",
+    "Especie invasora muy abundante en parques urbanos españoles."
+   ],
+   "imagenes": [
+    "img/myiopsitta-monachus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/myiopsitta-monachus_1.jpg",
+     "autor": "Jonathan Layman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/89818382"
+    },
+    {
+     "src": "web/myiopsitta-monachus_2.jpg",
+     "autor": "nbasargin",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/230475935"
+    },
+    {
+     "src": "web/myiopsitta-monachus_3.jpg",
+     "autor": "Tatyana Sova",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/235910233"
+    },
+    {
+     "src": "web/myiopsitta-monachus_4.jpg",
+     "autor": "Tanja Milotić",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/8517459"
+    },
+    {
+     "src": "web/myiopsitta-monachus_5.jpg",
+     "autor": "Leonel Roget",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/19336970"
+    },
+    {
+     "src": "web/myiopsitta-monachus_6.jpg",
+     "autor": "Kyle Nessen",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/147649105"
+    },
+    {
+     "src": "web/myiopsitta-monachus_7.jpg",
+     "autor": "Jody Shugart",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/3869498"
+    },
+    {
+     "src": "web/myiopsitta-monachus_8.jpg",
+     "autor": "Wouter Van Landuyt",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/46842468"
+    }
+   ]
+  },
+  {
+   "id": "psittacula-krameri",
+   "comun": "Cotorra de Kramer",
+   "alternativos": [],
+   "cientifico": "Psittacula krameri",
+   "orden": "Psittaciformes",
+   "familia": "Psittaculidae",
+   "rasgos": [
+    "Plumaje verde lima brillante uniforme con cola larguísima y afilada.",
+    "Pico robusto con maxila de color rojo carmín intenso.",
+    "Macho adulto con un fino collar negro y rosa alrededor del cuello.",
+    "Especie exótica invasora adaptada a parques urbanos y entornos humanos."
+   ],
+   "imagenes": [
+    "img/psittacula-krameri_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/psittacula-krameri_1.jpg",
+     "autor": "Dani Alba",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/334491826"
+    },
+    {
+     "src": "web/psittacula-krameri_2.jpg",
+     "autor": "Ben Machado",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/65363712"
+    },
+    {
+     "src": "web/psittacula-krameri_3.jpg",
+     "autor": "Jose Gutierrez Higa",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/410195537"
+    },
+    {
+     "src": "web/psittacula-krameri_4.jpg",
+     "autor": "zebedeugalinha",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/405276066"
+    },
+    {
+     "src": "web/psittacula-krameri_5.jpg",
+     "autor": "Ross McCallum",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/200438564"
+    },
+    {
+     "src": "web/psittacula-krameri_6.jpg",
+     "autor": "Thomas Koffel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/7135687"
+    },
+    {
+     "src": "web/psittacula-krameri_7.jpg",
+     "autor": "Paul Lewis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/340036074"
+    },
+    {
+     "src": "web/psittacula-krameri_8.jpg",
+     "autor": "Dean Hester",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/103556441"
+    }
+   ]
+  },
+  {
+   "id": "bubo-bubo",
+   "comun": "Búho real",
+   "alternativos": [],
+   "cientifico": "Bubo bubo",
+   "orden": "Strigiformes",
+   "familia": "Strigidae",
+   "rasgos": [
+    "La rapaz nocturna más grande; inmensos penachos cefálicos (\"orejas\").",
+    "Ojos colosales con iris naranja-rojizo muy intenso.",
+    "Garras masivas emplumadas; plumaje leonado jaspeado.",
+    "Superdepredador de cortados rocosos y dehesas."
+   ],
+   "imagenes": [
+    "img/bubo-bubo_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/bubo-bubo_1.jpg",
+     "autor": "Andrey Gulivanov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/97347230"
+    },
+    {
+     "src": "web/bubo-bubo_2.jpg",
+     "autor": "Вячеслав Юсупов",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/181426526"
+    },
+    {
+     "src": "web/bubo-bubo_3.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/186420102"
+    },
+    {
+     "src": "web/bubo-bubo_4.jpg",
+     "autor": "Susan Marley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/90584037"
+    },
+    {
+     "src": "web/bubo-bubo_5.jpg",
+     "autor": "rober025",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/83309171"
+    },
+    {
+     "src": "web/bubo-bubo_6.jpg",
+     "autor": "Codrin Bucur",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/150342894"
+    },
+    {
+     "src": "web/bubo-bubo_7.jpg",
+     "autor": "Thorsten Hackbarth",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/104059578"
+    },
+    {
+     "src": "web/bubo-bubo_8.jpg",
+     "autor": "Artemy Savko",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/232657564"
+    }
+   ]
+  },
+  {
+   "id": "tyto-alba",
+   "comun": "Lechuza común",
+   "alternativos": [
+    "Lechuza"
+   ],
+   "cientifico": "Tyto alba",
+   "orden": "Strigiformes",
+   "familia": "Tytonidae",
+   "rasgos": [
+    "Inconfundible disco facial blanco puro en forma de corazón.",
+    "Ojos negros; carece totalmente de penachos u \"orejas\".",
+    "Plumaje dorsal leonado-dorado moteado de gris perla.",
+    "Vuelo silencioso ligado a campanarios y graneros."
+   ],
+   "imagenes": [
+    "img/tyto-alba_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tyto-alba_1.jpg",
+     "autor": "Andrew Bazdyrev",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/41933118"
+    },
+    {
+     "src": "web/tyto-alba_2.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/125001826"
+    },
+    {
+     "src": "web/tyto-alba_3.jpg",
+     "autor": "Nathan Mesnildrey",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/98811449"
+    },
+    {
+     "src": "web/tyto-alba_4.jpg",
+     "autor": "Robert Taylor",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/84158351"
+    },
+    {
+     "src": "web/tyto-alba_5.jpg",
+     "autor": "Thibaud Aronson",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/104627756"
+    },
+    {
+     "src": "web/tyto-alba_6.jpg",
+     "autor": "harry beaman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/149034657"
+    },
+    {
+     "src": "web/tyto-alba_7.jpg",
+     "autor": "Ricardo Lima",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/244195298"
+    },
+    {
+     "src": "web/tyto-alba_8.jpg",
+     "autor": "Emad Tahaei",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/262754781"
+    }
+   ]
+  },
+  {
+   "id": "athene-noctua",
+   "comun": "Mochuelo común",
+   "alternativos": [
+    "Mochuelo"
+   ],
+   "cientifico": "Athene noctua",
+   "orden": "Strigiformes",
+   "familia": "Strigidae",
+   "rasgos": [
+    "Silueta rechoncha y pequeña; cabeza ancha y aplanada.",
+    "Grandes ojos amarillos; cejas blancas oblicuas (\"cara de enfado\").",
+    "Plumaje pardo densamente moteado de blanco en gotas.",
+    "Parcialmente diurno; visible posado en majanos y postes."
+   ],
+   "imagenes": [
+    "img/athene-noctua_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/athene-noctua_1.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/257463592"
+    },
+    {
+     "src": "web/athene-noctua_2.jpg",
+     "autor": "Mikhail Morozov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/171967065"
+    },
+    {
+     "src": "web/athene-noctua_3.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/151119696"
+    },
+    {
+     "src": "web/athene-noctua_4.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/151025147"
+    },
+    {
+     "src": "web/athene-noctua_5.jpg",
+     "autor": "SIA",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/293696545"
+    },
+    {
+     "src": "web/athene-noctua_6.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/151025269"
+    },
+    {
+     "src": "web/athene-noctua_7.jpg",
+     "autor": "Murielle Desrois",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/248723836"
+    },
+    {
+     "src": "web/athene-noctua_8.jpg",
+     "autor": "Paul Lewis",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/333302745"
+    }
+   ]
+  },
+  {
+   "id": "strix-aluco",
+   "comun": "Cárabo común",
+   "alternativos": [
+    "Cárabo"
+   ],
+   "cientifico": "Strix aluco",
+   "orden": "Strigiformes",
+   "familia": "Strigidae",
+   "rasgos": [
+    "Cabeza redonda y voluminosa con ojos negros frontales inmensos.",
+    "Plumaje muy críptico imitando corteza (fases gris o rojiza).",
+    "Estrictamente forestal y nocturno; nidifica en oquedades de troncos.",
+    "Canto ululante melancólico: \"uuuh-uu-uh\"."
+   ],
+   "imagenes": [
+    "img/strix-aluco_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/strix-aluco_1.jpg",
+     "autor": "Alexis Tinker-Tsavalas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/22988157"
+    },
+    {
+     "src": "web/strix-aluco_2.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68095259"
+    },
+    {
+     "src": "web/strix-aluco_3.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/73835627"
+    },
+    {
+     "src": "web/strix-aluco_4.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/260390713"
+    },
+    {
+     "src": "web/strix-aluco_5.jpg",
+     "autor": "Timo Leistner",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/360001645"
+    },
+    {
+     "src": "web/strix-aluco_6.jpg",
+     "autor": "Lasse W.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/275935407"
+    },
+    {
+     "src": "web/strix-aluco_7.jpg",
+     "autor": "Alexis Tinker-Tsavalas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/22988150"
+    },
+    {
+     "src": "web/strix-aluco_8.jpg",
+     "autor": "Julia Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/100334609"
+    }
+   ]
+  },
+  {
+   "id": "asio-otus",
+   "comun": "Búho chico",
+   "alternativos": [],
+   "cientifico": "Asio otus",
+   "orden": "Strigiformes",
+   "familia": "Strigidae",
+   "rasgos": [
+    "Penachos cefálicos muy largos y juntos en el centro de la cabeza.",
+    "Iris de color naranja intenso; disco facial muy marcado.",
+    "Silueta de reposo muy estirada y mimética en pinos.",
+    "Ocupa nidos viejos de córvidos; gregario en invierno."
+   ],
+   "imagenes": [
+    "img/asio-otus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/asio-otus_1.jpg",
+     "autor": "Dean Hester",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/35819512"
+    },
+    {
+     "src": "web/asio-otus_2.jpg",
+     "autor": "Charlotte Kirchner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/320382484"
+    },
+    {
+     "src": "web/asio-otus_3.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/153659125"
+    },
+    {
+     "src": "web/asio-otus_4.jpg",
+     "autor": "Charlie Farrell",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/37649589"
+    },
+    {
+     "src": "web/asio-otus_5.jpg",
+     "autor": "egorbirder",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/107098136"
+    },
+    {
+     "src": "web/asio-otus_6.jpg",
+     "autor": "Irene",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/257000241"
+    },
+    {
+     "src": "web/asio-otus_7.jpg",
+     "autor": "Catie Clune",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/7489047"
+    },
+    {
+     "src": "web/asio-otus_8.jpg",
+     "autor": "Dario Taraborelli",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/101991293"
+    }
+   ]
+  },
+  {
+   "id": "otus-scops",
+   "comun": "Autillo europeo",
+   "alternativos": [
+    "Autillo"
+   ],
+   "cientifico": "Otus scops",
+   "orden": "Strigiformes",
+   "familia": "Strigidae",
+   "rasgos": [
+    "La rapaz nocturna más pequeña (tamaño de un puño).",
+    "Plumaje grisáceo-marrón muy críptico con penachos pequeños.",
+    "Migrador estival común en parques y sotos urbanos.",
+    "Canto aflautado inconfundible: un silbido repetido \"tiú-tiú\".",
+    "Nota: diferencia con el búho real: mucho más pequeño, ojos amarillos (no naranjas) y sin la V blanca entre ojos y pico."
+   ],
+   "imagenes": [
+    "img/otus-scops_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/otus-scops_1.jpg",
+     "autor": "Karim Haddad",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/26331652"
+    },
+    {
+     "src": "web/otus-scops_2.jpg",
+     "autor": "Полина Полежанкина",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/192701142"
+    },
+    {
+     "src": "web/otus-scops_3.jpg",
+     "autor": "Ani Sarkisyan",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/1744062"
+    },
+    {
+     "src": "web/otus-scops_4.jpg",
+     "autor": "Edoardo Nardelli",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/174838601"
+    },
+    {
+     "src": "web/otus-scops_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/219658121"
+    },
+    {
+     "src": "web/otus-scops_6.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/381209155"
+    },
+    {
+     "src": "web/otus-scops_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/283590493"
+    },
+    {
+     "src": "web/otus-scops_8.jpg",
+     "autor": "Barry Stewart",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/384312509"
+    }
+   ]
+  },
+  {
+   "id": "asio-flammeus",
+   "comun": "Búho campestre",
+   "alternativos": [],
+   "cientifico": "Asio flammeus",
+   "orden": "Strigiformes",
+   "familia": "Strigidae",
+   "rasgos": [
+    "Iris amarillo vivo rodeado de parches negros (\"maquillaje\").",
+    "Penachos cefálicos casi invisibles; plumaje pardo-pajizo.",
+    "Hábitos de caza diurnos en campos abiertos y marismas.",
+    "Vuelo balanceante y errático sobre el suelo."
+   ],
+   "imagenes": [
+    "img/asio-flammeus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/asio-flammeus_1.jpg",
+     "autor": "Adam Jackson",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/209181889"
+    },
+    {
+     "src": "web/asio-flammeus_2.jpg",
+     "autor": "ecovore",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/69455128"
+    },
+    {
+     "src": "web/asio-flammeus_3.jpg",
+     "autor": "Derek Spencer",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/243654480"
+    },
+    {
+     "src": "web/asio-flammeus_4.jpg",
+     "autor": "Jimmy Dee",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/147567282"
+    },
+    {
+     "src": "web/asio-flammeus_5.jpg",
+     "autor": "Roy Lowry",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/50871918"
+    },
+    {
+     "src": "web/asio-flammeus_6.jpg",
+     "autor": "Chrissy McClarren and Andy Reago",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/194556501"
+    },
+    {
+     "src": "web/asio-flammeus_7.jpg",
+     "autor": "Michael Grundner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/108721843"
+    },
+    {
+     "src": "web/asio-flammeus_8.jpg",
+     "autor": "Curtis Meyers",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/330909287"
+    }
+   ]
+  },
+  {
+   "id": "phalacrocorax-carbo",
+   "comun": "Cormorán grande",
+   "alternativos": [],
+   "cientifico": "Phalacrocorax carbo",
+   "orden": "Suliformes",
+   "familia": "Phalacrocoracidae",
+   "rasgos": [
+    "Plumaje negro con manchas blancas en cara y muslos (en celo).",
+    "Pico potente terminado en gancho; piel amarilla en la base.",
+    "Típica postura de reposo con las alas extendidas para secarlas.",
+    "Frecuente tanto en costas como en embalses y ríos interiores."
+   ],
+   "imagenes": [
+    "img/phalacrocorax-carbo_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/phalacrocorax-carbo_1.jpg",
+     "autor": "Bartosz Czołczyński",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/178891179"
+    },
+    {
+     "src": "web/phalacrocorax-carbo_2.jpg",
+     "autor": "Frank Sengpiel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/151715487"
+    },
+    {
+     "src": "web/phalacrocorax-carbo_3.jpg",
+     "autor": "rowan_m",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/70246533"
+    },
+    {
+     "src": "web/phalacrocorax-carbo_4.jpg",
+     "autor": "tomisc",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/201109342"
+    },
+    {
+     "src": "web/phalacrocorax-carbo_5.jpg",
+     "autor": "Donald Davesne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204003248"
+    },
+    {
+     "src": "web/phalacrocorax-carbo_6.jpg",
+     "autor": "Uliana Bogatyreva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/193369169"
+    },
+    {
+     "src": "web/phalacrocorax-carbo_7.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/252021566"
+    },
+    {
+     "src": "web/phalacrocorax-carbo_8.jpg",
+     "autor": "Christoph Moning",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269574033"
+    }
+   ]
+  },
+  {
+   "id": "morus-bassanus",
+   "comun": "Alcatraz atlántico",
+   "alternativos": [
+    "Alcatraz"
+   ],
+   "cientifico": "Morus bassanus",
+   "orden": "Suliformes",
+   "familia": "Sulidae",
+   "rasgos": [
+    "Adulto totalmente blanco con puntas de las alas negro azabache.",
+    "Cabeza teñida de color amarillo dorado pálido; pico gris azulado.",
+    "Silueta de vuelo en forma de cruz con alas muy largas y apuntadas.",
+    "Pesca mediante picados espectaculares en vertical desde gran altura."
+   ],
+   "imagenes": [
+    "img/morus-bassanus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/morus-bassanus_1.jpg",
+     "autor": "Brooke J.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/237827741"
+    },
+    {
+     "src": "web/morus-bassanus_2.jpg",
+     "autor": "Morgan Caygill",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/123811915"
+    },
+    {
+     "src": "web/morus-bassanus_3.jpg",
+     "autor": "Alexis Williams",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/120279529"
+    },
+    {
+     "src": "web/morus-bassanus_4.jpg",
+     "autor": "Kevin Lynch",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/156665481"
+    },
+    {
+     "src": "web/morus-bassanus_5.jpg",
+     "autor": "Justin Flint",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/122405127"
+    },
+    {
+     "src": "web/morus-bassanus_6.jpg",
+     "autor": "kitbeard",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/391187433"
+    },
+    {
+     "src": "web/morus-bassanus_7.jpg",
+     "autor": "Alexis Williams",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/120279668"
+    },
+    {
+     "src": "web/morus-bassanus_8.jpg",
+     "autor": "Alexis Williams",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/120279701"
+    }
+   ]
+  },
+  {
+   "id": "upupa-epops",
+   "comun": "Abubilla",
+   "alternativos": [],
+   "cientifico": "Upupa epops",
+   "orden": "Upupiformes",
+   "familia": "Upupidae",
+   "rasgos": [
+    "Coloración general ocre o canela rosáceo uniforme.",
+    "Canto rítmico sordo: \"up-up-up\", que da origen a su nombre.",
+    "Gran penacho eréctil de plumas canela con puntas negras.",
+    "Alas y cola con un llamativo diseño de franjas blancas y negras."
+   ],
+   "imagenes": [
+    "img/upupa-epops_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/upupa-epops_1.jpg",
+     "autor": "Dmitry Ivanov",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/299928082"
+    },
+    {
+     "src": "web/upupa-epops_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/250060194"
+    },
+    {
+     "src": "web/upupa-epops_3.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/209231854"
+    },
+    {
+     "src": "web/upupa-epops_4.jpg",
+     "autor": "frangp",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/204795238"
+    },
+    {
+     "src": "web/upupa-epops_5.jpg",
+     "autor": "Stephen Matthews",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/102071671"
+    },
+    {
+     "src": "web/upupa-epops_6.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/207355558"
+    },
+    {
+     "src": "web/upupa-epops_7.jpg",
+     "autor": "carnifex",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/18573251"
+    },
+    {
+     "src": "web/upupa-epops_8.jpg",
+     "autor": "Dario Taraborelli",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/87172510"
+    }
+   ]
   }
  ]
 }
