@@ -83,6 +83,7 @@
    "alternativos": [],
    "cientifico": "Ovis orientalis musimon",
    "orden": "Artiodactyla",
+   "nombre_inat": "Ovis aries musimon",
    "familia": "Bovidae",
    "rasgos": [
     "Oveja salvaje; machos con grandes cuernos rugosos en espiral.",
@@ -93,7 +94,56 @@
    "imagenes": [
     "img/ovis-orientalis-musimon_1.jpg"
    ],
-   "fotos_web": []
+   "fotos_web": [
+    {
+     "src": "web/ovis-orientalis-musimon_1.jpg",
+     "autor": "Kai Löhr",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/291857768"
+    },
+    {
+     "src": "web/ovis-orientalis-musimon_2.jpg",
+     "autor": "Philipp Pavelka",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/53776662"
+    },
+    {
+     "src": "web/ovis-orientalis-musimon_3.jpg",
+     "autor": "Cristian Hurtado Cusnir",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/287728766"
+    },
+    {
+     "src": "web/ovis-orientalis-musimon_4.jpg",
+     "autor": "marius",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/259375486"
+    },
+    {
+     "src": "web/ovis-orientalis-musimon_5.jpg",
+     "autor": "James Hardcastle",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/2311963"
+    },
+    {
+     "src": "web/ovis-orientalis-musimon_6.jpg",
+     "autor": "Mikael Nyman",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/65762396"
+    },
+    {
+     "src": "web/ovis-orientalis-musimon_7.jpg",
+     "autor": "Mike Duran",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/19180141"
+    },
+    {
+     "src": "web/ovis-orientalis-musimon_8.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/197678195"
+    }
+   ]
   },
   {
    "id": "rupicapra-pyrenaica",
