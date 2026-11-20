@@ -1,0 +1,911 @@
+{
+ "id": "mammalia",
+ "clase": "Mammalia",
+ "sinonimos_clase": [
+  "Mammalia",
+  "Mamalia",
+  "Mamíferos",
+  "Mamiferos",
+  "Mamífero"
+ ],
+ "grupo": "Cordados",
+ "fichas": [
+  {
+   "id": "capra-pyrenaica",
+   "comun": "Cabra montés",
+   "alternativos": [],
+   "cientifico": "Capra pyrenaica",
+   "orden": "Artiodactyla",
+   "familia": "Bovidae",
+   "rasgos": [
+    "Grandes cuernos nudosos en forma de lira en los machos.",
+    "Coloración grisácea con marcadas libreas negras en patas y costados.",
+    "Pezuñas adaptadas a la tracción en terrenos escarpados y rocosos.",
+    "Hembras con cuernos mucho más cortos y delgados."
+   ],
+   "imagenes": [
+    "img/capra-pyrenaica_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/capra-pyrenaica_1.jpg",
+     "autor": "Jan Ebr &amp; Ivana Ebrová",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/101032685"
+    },
+    {
+     "src": "web/capra-pyrenaica_2.jpg",
+     "autor": "Yves Bas",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/67037128"
+    },
+    {
+     "src": "web/capra-pyrenaica_3.jpg",
+     "autor": "Santiago Martín-Bravo",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/184712298"
+    },
+    {
+     "src": "web/capra-pyrenaica_4.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/344665840"
+    },
+    {
+     "src": "web/capra-pyrenaica_5.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/317526047"
+    },
+    {
+     "src": "web/capra-pyrenaica_6.jpg",
+     "autor": "Michael Bakker Paiva",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/293324476"
+    },
+    {
+     "src": "web/capra-pyrenaica_7.jpg",
+     "autor": "Javier Sánchez Álvarez",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/131427312"
+    },
+    {
+     "src": "web/capra-pyrenaica_8.jpg",
+     "autor": "Reuven Martin",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/9300325"
+    }
+   ]
+  },
+  {
+   "id": "ovis-orientalis-musimon",
+   "comun": "Muflón",
+   "alternativos": [],
+   "cientifico": "Ovis orientalis musimon",
+   "orden": "Artiodactyla",
+   "familia": "Bovidae",
+   "rasgos": [
+    "Oveja salvaje; machos con grandes cuernos rugosos en espiral.",
+    "Machos presentan una \"silla\" blanca transversal en el lomo.",
+    "Pelaje corto de color pardo o castaño uniforme.",
+    "Especie introducida en la península con fines cinegéticos."
+   ],
+   "imagenes": [
+    "img/ovis-orientalis-musimon_1.jpg"
+   ],
+   "fotos_web": []
+  },
+  {
+   "id": "rupicapra-pyrenaica",
+   "comun": "Rebeco cantábrico",
+   "alternativos": [
+    "Rebeco",
+    "Sarrio"
+   ],
+   "cientifico": "Rupicapra pyrenaica",
+   "orden": "Artiodactyla",
+   "familia": "Bovidae",
+   "rasgos": [
+    "Cuernos finos, verticales y ganchudos en ambos sexos.",
+    "Máscara facial oscura sobre fondo claro desde el ojo al hocico.",
+    "Cuerpo esbelto; pelaje pardo-rojizo en verano y oscuro en invierno.",
+    "Habitante de la alta montaña cantábrica y pirenaica."
+   ],
+   "imagenes": [
+    "img/rupicapra-pyrenaica_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/rupicapra-pyrenaica_1.jpg",
+     "autor": "Nicholas Moray Williams",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/278151600"
+    },
+    {
+     "src": "web/rupicapra-pyrenaica_2.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/393340970"
+    },
+    {
+     "src": "web/rupicapra-pyrenaica_3.jpg",
+     "autor": "Nicholas Moray Williams",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/128828509"
+    },
+    {
+     "src": "web/rupicapra-pyrenaica_4.jpg",
+     "autor": "Nicholas Moray Williams",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/175159979"
+    },
+    {
+     "src": "web/rupicapra-pyrenaica_5.jpg",
+     "autor": "Emanuele Santarelli",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/59349354"
+    },
+    {
+     "src": "web/rupicapra-pyrenaica_6.jpg",
+     "autor": "Emanuele Santarelli",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/385722741"
+    },
+    {
+     "src": "web/rupicapra-pyrenaica_7.jpg",
+     "autor": "Eamon Corbett",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/48947960"
+    },
+    {
+     "src": "web/rupicapra-pyrenaica_8.jpg",
+     "autor": "Robin Schmidt",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/220675109"
+    }
+   ]
+  },
+  {
+   "id": "cervus-elaphus",
+   "comun": "Ciervo común",
+   "alternativos": [
+    "Ciervo"
+   ],
+   "cientifico": "Cervus elaphus",
+   "orden": "Artiodactyla",
+   "familia": "Cervidae",
+   "rasgos": [
+    "Gran tamaño; machos con cuernas ramificadas que mudan anualmente.",
+    "Escudo anal de color crema o pálido sin bordes negros definidos.",
+    "Pelaje pardo uniforme, más grisáceo y denso en invierno.",
+    "Crías (gabatos) moteadas de blanco durante los primeros meses.",
+    "Nota: las hembras no tienen cuerna alguna."
+   ],
+   "imagenes": [
+    "img/cervus-elaphus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/cervus-elaphus_1.jpg",
+     "autor": "Diego González Dopico",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/254402724"
+    },
+    {
+     "src": "web/cervus-elaphus_2.jpg",
+     "autor": "Andrew Melton",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/64532082"
+    },
+    {
+     "src": "web/cervus-elaphus_3.jpg",
+     "autor": "Javier",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/117222875"
+    },
+    {
+     "src": "web/cervus-elaphus_4.jpg",
+     "autor": "Elias",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/194198854"
+    },
+    {
+     "src": "web/cervus-elaphus_5.jpg",
+     "autor": "Tina Ellegaard Poulsen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/242951625"
+    },
+    {
+     "src": "web/cervus-elaphus_6.jpg",
+     "autor": "Tim Worwood",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/405823358"
+    },
+    {
+     "src": "web/cervus-elaphus_7.jpg",
+     "autor": "Romain Boisseau",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/318664976"
+    },
+    {
+     "src": "web/cervus-elaphus_8.jpg",
+     "autor": "Frank Sengpiel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/321792336"
+    }
+   ]
+  },
+  {
+   "id": "capreolus-capreolus",
+   "comun": "Corzo",
+   "alternativos": [],
+   "cientifico": "Capreolus capreolus",
+   "orden": "Artiodactyla",
+   "familia": "Cervidae",
+   "rasgos": [
+    "Cérvido más pequeño; cuernas cortas (máximo 3 puntas por lado).",
+    "Escudo anal blanco muy visible (forma de riñón o corazón).",
+    "Carece de cola visible. Bozo negro en el hocico.",
+    "Grito de alarma similar a un ladrido de perro."
+   ],
+   "imagenes": [
+    "img/capreolus-capreolus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/capreolus-capreolus_1.jpg",
+     "autor": "Sylvain Eichhorn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/150691686"
+    },
+    {
+     "src": "web/capreolus-capreolus_2.jpg",
+     "autor": "Charlotte Kirchner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/43055204"
+    },
+    {
+     "src": "web/capreolus-capreolus_3.jpg",
+     "autor": "Evgeniy Meyke",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/6173353"
+    },
+    {
+     "src": "web/capreolus-capreolus_4.jpg",
+     "autor": "Liubov Ilminska",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/287703482"
+    },
+    {
+     "src": "web/capreolus-capreolus_5.jpg",
+     "autor": "Sylvain Eichhorn",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/135819721"
+    },
+    {
+     "src": "web/capreolus-capreolus_6.jpg",
+     "autor": "Pavel Kacl",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/30050227"
+    },
+    {
+     "src": "web/capreolus-capreolus_7.jpg",
+     "autor": "Christophe",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/284287058"
+    },
+    {
+     "src": "web/capreolus-capreolus_8.jpg",
+     "autor": "freckles68",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/80151812"
+    }
+   ]
+  },
+  {
+   "id": "dama-dama",
+   "comun": "Gamo",
+   "alternativos": [],
+   "cientifico": "Dama dama",
+   "orden": "Artiodactyla",
+   "familia": "Cervidae",
+   "rasgos": [
+    "Machos con cuernas palmeadas (palas) muy características.",
+    "Pelaje estival pardo-rojizo moteado con motas blancas nítidas.",
+    "Escudo anal blanco enmarcado por una línea negra en forma de \"M\".",
+    "Cola relativamente larga, negra por arriba y blanca por abajo."
+   ],
+   "imagenes": [
+    "img/dama-dama_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/dama-dama_1.jpg",
+     "autor": "Gabriele Vaudano",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/408334928"
+    },
+    {
+     "src": "web/dama-dama_2.jpg",
+     "autor": "Tony Rebelo",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/13393176"
+    },
+    {
+     "src": "web/dama-dama_3.jpg",
+     "autor": "Gabriele Vaudano",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/408334927"
+    },
+    {
+     "src": "web/dama-dama_4.jpg",
+     "autor": "Rosanna Dedecius",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/258900032"
+    },
+    {
+     "src": "web/dama-dama_5.jpg",
+     "autor": "Elias",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/269765159"
+    },
+    {
+     "src": "web/dama-dama_6.jpg",
+     "autor": "Alex Press",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/237120198"
+    },
+    {
+     "src": "web/dama-dama_7.jpg",
+     "autor": "Cody Stricker",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/188625727"
+    },
+    {
+     "src": "web/dama-dama_8.jpg",
+     "autor": "Michel Langeveld",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/106189166"
+    }
+   ]
+  },
+  {
+   "id": "sus-scrofa",
+   "comun": "Jabalí",
+   "alternativos": [],
+   "cientifico": "Sus scrofa",
+   "orden": "Artiodactyla",
+   "familia": "Suidae",
+   "rasgos": [
+    "Cuerpo robusto cubierto de cerdas gruesas; cabeza masiva.",
+    "Hocico terminado en disco nasal plano (jeta) y colmillos curvos.",
+    "Crías (rayones) con pelaje listado longitudinalmente claro.",
+    "Omnívoro oportunista de gran adaptabilidad ecológica."
+   ],
+   "imagenes": [
+    "img/sus-scrofa_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/sus-scrofa_1.jpg",
+     "autor": "Cullen Hanks",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/22481962"
+    },
+    {
+     "src": "web/sus-scrofa_2.jpg",
+     "autor": "aga_l_",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/171076616"
+    },
+    {
+     "src": "web/sus-scrofa_3.jpg",
+     "autor": "Thomas Koffel",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/119441374"
+    },
+    {
+     "src": "web/sus-scrofa_4.jpg",
+     "autor": "Doug Macaulay",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/34103367"
+    },
+    {
+     "src": "web/sus-scrofa_5.jpg",
+     "autor": "Jacqui Geux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/38952018"
+    },
+    {
+     "src": "web/sus-scrofa_6.jpg",
+     "autor": "SteveM4560",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/233698682"
+    },
+    {
+     "src": "web/sus-scrofa_7.jpg",
+     "autor": "Lauu",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/80030110"
+    },
+    {
+     "src": "web/sus-scrofa_8.jpg",
+     "autor": "Sunčana Bradley",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/137119151"
+    }
+   ]
+  },
+  {
+   "id": "delphinus-delphis",
+   "comun": "Delfín común",
+   "alternativos": [],
+   "cientifico": "Delphinus delphis",
+   "orden": "Cetartiodactyla",
+   "familia": "Delphinidae",
+   "rasgos": [
+    "Dibujo lateral en forma de reloj de arena (amarillo y gris).",
+    "Hocico (pico) largo y estrecho bien delimitado del melón.",
+    "Aleta dorsal alta y falcada en el centro del lomo.",
+    "Dorso oscuro y vientre blanco nítido."
+   ],
+   "imagenes": [
+    "img/delphinus-delphis_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/delphinus-delphis_1.jpg",
+     "autor": "Cricket Raspet",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/129718440"
+    },
+    {
+     "src": "web/delphinus-delphis_2.jpg",
+     "autor": "Adam Jackson",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/239292194"
+    },
+    {
+     "src": "web/delphinus-delphis_3.jpg",
+     "autor": "Gavin Skeen",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/406714851"
+    },
+    {
+     "src": "web/delphinus-delphis_4.jpg",
+     "autor": "Saryu Mae 前 朝琉",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/293981179"
+    },
+    {
+     "src": "web/delphinus-delphis_5.jpg",
+     "autor": "Addshore",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/146206009"
+    },
+    {
+     "src": "web/delphinus-delphis_6.jpg",
+     "autor": "John Kenrick Gibson",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/117561179"
+    },
+    {
+     "src": "web/delphinus-delphis_7.jpg",
+     "autor": "Brooke J.",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/383038834"
+    },
+    {
+     "src": "web/delphinus-delphis_8.jpg",
+     "autor": "Patrick Le Mao",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/154250927"
+    }
+   ]
+  },
+  {
+   "id": "tursiops-truncatus",
+   "comun": "Delfín mular",
+   "alternativos": [],
+   "cientifico": "Tursiops truncatus",
+   "orden": "Cetartiodactyla",
+   "familia": "Delphinidae",
+   "rasgos": [
+    "Pico corto, ancho y romo (\"botella\").",
+    "Cuerpo robusto gris-pizarra uniforme que aclara al vientre.",
+    "Aleta dorsal alta, falcada y centrada en el lomo.",
+    "La especie de delfín más costera y habitual."
+   ],
+   "imagenes": [
+    "img/tursiops-truncatus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/tursiops-truncatus_1.jpg",
+     "autor": "Adam J. Searcy",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/7196368"
+    },
+    {
+     "src": "web/tursiops-truncatus_2.jpg",
+     "autor": "Punkus",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/194381645"
+    },
+    {
+     "src": "web/tursiops-truncatus_3.jpg",
+     "autor": "Dean Hester",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/32444678"
+    },
+    {
+     "src": "web/tursiops-truncatus_4.jpg",
+     "autor": "Amber M. King",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/35676515"
+    },
+    {
+     "src": "web/tursiops-truncatus_5.jpg",
+     "autor": "Sydney Dragon",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/84337058"
+    },
+    {
+     "src": "web/tursiops-truncatus_6.jpg",
+     "autor": "Gabriele Pradelli",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/197735874"
+    },
+    {
+     "src": "web/tursiops-truncatus_7.jpg",
+     "autor": "Mia T",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/6561007"
+    },
+    {
+     "src": "web/tursiops-truncatus_8.jpg",
+     "autor": "Robbie",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/272698744"
+    }
+   ]
+  },
+  {
+   "id": "stenella-coeruleoalba",
+   "comun": "Delfín listado",
+   "alternativos": [],
+   "cientifico": "Stenella coeruleoalba",
+   "orden": "Cetartiodactyla",
+   "familia": "Delphinidae",
+   "rasgos": [
+    "Líneas negras laterales que nacen del ojo hacia cola y aletas.",
+    "Cuerpo esbelto; pico más fino y largo que el mular.",
+    "Muy gregario y acrobático; abundante en mar abierto.",
+    "Dorso gris oscuro con \"llama\" gris clara lateral."
+   ],
+   "imagenes": [
+    "img/stenella-coeruleoalba_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/stenella-coeruleoalba_1.jpg",
+     "autor": "harum.koh",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/6137971"
+    },
+    {
+     "src": "web/stenella-coeruleoalba_2.jpg",
+     "autor": "Simon Tonge",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/8978301"
+    },
+    {
+     "src": "web/stenella-coeruleoalba_3.jpg",
+     "autor": "Lucas Benaiche",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/337795147"
+    },
+    {
+     "src": "web/stenella-coeruleoalba_4.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/301148722"
+    },
+    {
+     "src": "web/stenella-coeruleoalba_5.jpg",
+     "autor": "Julien Renoult",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/90457917"
+    },
+    {
+     "src": "web/stenella-coeruleoalba_6.jpg",
+     "autor": "Lucas Benaiche",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/386082624"
+    },
+    {
+     "src": "web/stenella-coeruleoalba_7.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/301148771"
+    },
+    {
+     "src": "web/stenella-coeruleoalba_8.jpg",
+     "autor": "Long Vu",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/62386197"
+    }
+   ]
+  },
+  {
+   "id": "physeter-macrocephalus",
+   "comun": "Cachalote",
+   "alternativos": [],
+   "cientifico": "Physeter macrocephalus",
+   "orden": "Cetartiodactyla",
+   "familia": "Physeteridae",
+   "rasgos": [
+    "Cabeza grande y cuadrada.",
+    "Espiráculo único a la izquierda del extremo frontal.",
+    "Piel con aspecto de ciruela arrugada y coloración negra/gris.",
+    "Dientes potentes solo en la mandíbula inferior."
+   ],
+   "imagenes": [
+    "img/physeter-macrocephalus_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/physeter-macrocephalus_1.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/129273061"
+    },
+    {
+     "src": "web/physeter-macrocephalus_2.jpg",
+     "autor": "harum.koh",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/6138044"
+    },
+    {
+     "src": "web/physeter-macrocephalus_3.jpg",
+     "autor": "ajott",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/37759979"
+    },
+    {
+     "src": "web/physeter-macrocephalus_4.jpg",
+     "autor": "evn",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/104155628"
+    },
+    {
+     "src": "web/physeter-macrocephalus_5.jpg",
+     "autor": "Daniel Benák",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/300883241"
+    },
+    {
+     "src": "web/physeter-macrocephalus_6.jpg",
+     "autor": "Charlotte Kirchner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/38062297"
+    },
+    {
+     "src": "web/physeter-macrocephalus_7.jpg",
+     "autor": "Zihao Wang",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/144375254"
+    },
+    {
+     "src": "web/physeter-macrocephalus_8.jpg",
+     "autor": "Thomas Galewski",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/104720387"
+    }
+   ]
+  },
+  {
+   "id": "orcinus-orca",
+   "comun": "Orca",
+   "alternativos": [],
+   "cientifico": "Orcinus orca",
+   "orden": "Cetartiodactyla",
+   "familia": "Delphinidae",
+   "rasgos": [
+    "Contraste blanco y negro nítido inconfundible.",
+    "Parche blanco ovalado justo detrás y sobre el ojo.",
+    "Aleta dorsal colosal en machos (hasta 1.8 metros).",
+    "Aletas pectorales anchas y redondeadas (en pala)."
+   ],
+   "imagenes": [
+    "img/orcinus-orca_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/orcinus-orca_1.jpg",
+     "autor": "steve b",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/163442610"
+    },
+    {
+     "src": "web/orcinus-orca_2.jpg",
+     "autor": "steve b",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/107777946"
+    },
+    {
+     "src": "web/orcinus-orca_3.jpg",
+     "autor": "Charlotte Kirchner",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/327548734"
+    },
+    {
+     "src": "web/orcinus-orca_4.jpg",
+     "autor": "Jacek Pietruszewski",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/179945203"
+    },
+    {
+     "src": "web/orcinus-orca_5.jpg",
+     "autor": "steve b",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/253767806"
+    },
+    {
+     "src": "web/orcinus-orca_6.jpg",
+     "autor": "steve b",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/366490943"
+    },
+    {
+     "src": "web/orcinus-orca_7.jpg",
+     "autor": "Chris Kirby-Lambert",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/332174366"
+    },
+    {
+     "src": "web/orcinus-orca_8.jpg",
+     "autor": "steve b",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/163442614"
+    }
+   ]
+  },
+  {
+   "id": "globicephala-melas",
+   "comun": "Calderón común",
+   "alternativos": [
+    "Calderón"
+   ],
+   "cientifico": "Globicephala melas",
+   "orden": "Cetartiodactyla",
+   "familia": "Delphinidae",
+   "rasgos": [
+    "Cabeza globosa bulbosa (melón hipertrofiado).",
+    "Cuerpo negro; marca clara en forma de ancla en el pecho.",
+    "Aletas pectorales extraordinariamente largas y estrechas.",
+    "Aleta dorsal baja, ancha en la base y adelantada."
+   ],
+   "imagenes": [
+    "img/globicephala-melas_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/globicephala-melas_1.jpg",
+     "autor": "Vsevolod Rudyi",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/126997366"
+    },
+    {
+     "src": "web/globicephala-melas_2.jpg",
+     "autor": "eloise kerroux",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/344739632"
+    },
+    {
+     "src": "web/globicephala-melas_3.jpg",
+     "autor": "Saryu Mae 前 朝琉",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/225810429"
+    },
+    {
+     "src": "web/globicephala-melas_4.jpg",
+     "autor": "Lucy Keith-Diagne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/105775870"
+    },
+    {
+     "src": "web/globicephala-melas_5.jpg",
+     "autor": "Christopher Stephens",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/139591634"
+    },
+    {
+     "src": "web/globicephala-melas_6.jpg",
+     "autor": "Paul Bell-Butler",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/68881774"
+    },
+    {
+     "src": "web/globicephala-melas_7.jpg",
+     "autor": "Julia Palmer",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/187338184"
+    },
+    {
+     "src": "web/globicephala-melas_8.jpg",
+     "autor": "Maureen Cagney",
+     "licencia": "CC0",
+     "fuente": "https://www.inaturalist.org/observations/3713749"
+    }
+   ]
+  },
+  {
+   "id": "delphinapterus-leucas",
+   "comun": "Beluga",
+   "alternativos": [],
+   "cientifico": "Delphinapterus leucas",
+   "orden": "Cetartiodactyla",
+   "familia": "Monodontidae",
+   "rasgos": [
+    "Completamente blanca en fase adulta (gris en crías).",
+    "Carece por completo de aleta dorsal.",
+    "Melón muy prominente, globoso y flexible.",
+    "Cuello articulado (vértebras libres) con gran movilidad cefálica."
+   ],
+   "imagenes": [
+    "img/delphinapterus-leucas_1.jpg"
+   ],
+   "fotos_web": [
+    {
+     "src": "web/delphinapterus-leucas_1.jpg",
+     "autor": "Lucy Keith-Diagne",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/105776476"
+    },
+    {
+     "src": "web/delphinapterus-leucas_2.jpg",
+     "autor": "Matt Muir",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/313895371"
+    },
+    {
+     "src": "web/delphinapterus-leucas_3.jpg",
+     "autor": "Robert Webster",
+     "licencia": "CC BY-SA",
+     "fuente": "https://www.inaturalist.org/observations/35759088"
+    },
+    {
+     "src": "web/delphinapterus-leucas_4.jpg",
+     "autor": "Joeb",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/185285161"
+    },
+    {
+     "src": "web/delphinapterus-leucas_5.jpg",
+     "autor": "Henrik Kibak",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/133150770"
+    },
+    {
+     "src": "web/delphinapterus-leucas_6.jpg",
+     "autor": "Henrik Kibak",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/132893326"
+    },
+    {
+     "src": "web/delphinapterus-leucas_7.jpg",
+     "autor": "Mike Duran",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/31273319"
+    },
+    {
+     "src": "web/delphinapterus-leucas_8.jpg",
+     "autor": "Henrik Kibak",
+     "licencia": "CC BY",
+     "fuente": "https://www.inaturalist.org/observations/134657544"
+    }
+   ]
+  }
+ ]
+}
